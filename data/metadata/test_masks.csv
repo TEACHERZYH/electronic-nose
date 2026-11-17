@@ -1,0 +1,51 @@
+mask_id,strategy,seed,unavailable_count,unavailable_groups
+random_seed11_m0,random,11,0,[]
+random_seed11_m1,random,11,1,['8']
+random_seed11_m4,random,11,4,"['54', '36', '38', '17']"
+random_seed11_m8,random,11,8,"['26', '11', '8', '32', '45', '31', '42', '50']"
+random_seed11_m16,random,11,16,"['17', '33', '56', '5', '34', '11', '36', '27', '61', '39', '46', '32', '3', '41', '43', '47']"
+influence_seed11_m0,influence,11,0,[]
+influence_seed11_m1,influence,11,1,['16']
+influence_seed11_m4,influence,11,4,"['16', '15', '2', '1']"
+influence_seed11_m8,influence,11,8,"['16', '15', '2', '1', '31', '6', '24', '36']"
+influence_seed11_m16,influence,11,16,"['16', '15', '2', '1', '31', '6', '24', '36', '8', '7', '35', '13', '62', '5', '34', '25']"
+random_seed23_m0,random,23,0,[]
+random_seed23_m1,random,23,1,['2']
+random_seed23_m4,random,23,4,"['51', '49', '10', '28']"
+random_seed23_m8,random,23,8,"['5', '46', '38', '43', '22', '10', '62', '24']"
+random_seed23_m16,random,23,16,"['27', '26', '17', '2', '1', '55', '31', '25', '3', '36', '28', '16', '7', '49', '4', '18']"
+influence_seed23_m0,influence,23,0,[]
+influence_seed23_m1,influence,23,1,['16']
+influence_seed23_m4,influence,23,4,"['16', '15', '2', '1']"
+influence_seed23_m8,influence,23,8,"['16', '15', '2', '1', '31', '6', '24', '36']"
+influence_seed23_m16,influence,23,16,"['16', '15', '2', '1', '31', '6', '24', '36', '8', '7', '35', '13', '62', '5', '34', '25']"
+random_seed37_m0,random,37,0,[]
+random_seed37_m1,random,37,1,['7']
+random_seed37_m4,random,37,4,"['49', '22', '28', '37']"
+random_seed37_m8,random,37,8,"['55', '5', '53', '44', '1', '11', '14', '25']"
+random_seed37_m16,random,37,16,"['44', '55', '38', '32', '35', '22', '62', '14', '49', '1', '13', '57', '37', '39', '4', '24']"
+influence_seed37_m0,influence,37,0,[]
+influence_seed37_m1,influence,37,1,['16']
+influence_seed37_m4,influence,37,4,"['16', '15', '2', '1']"
+influence_seed37_m8,influence,37,8,"['16', '15', '2', '1', '31', '6', '24', '36']"
+influence_seed37_m16,influence,37,16,"['16', '15', '2', '1', '31', '6', '24', '36', '8', '7', '35', '13', '62', '5', '34', '25']"
+random_seed53_m0,random,53,0,[]
+random_seed53_m1,random,53,1,['20']
+random_seed53_m4,random,53,4,"['16', '47', '19', '28']"
+random_seed53_m8,random,53,8,"['52', '6', '12', '36', '27', '39', '13', '46']"
+random_seed53_m16,random,53,16,"['7', '36', '29', '59', '42', '25', '56', '52', '35', '23', '32', '31', '1', '12', '34', '37']"
+influence_seed53_m0,influence,53,0,[]
+influence_seed53_m1,influence,53,1,['16']
+influence_seed53_m4,influence,53,4,"['16', '15', '2', '1']"
+influence_seed53_m8,influence,53,8,"['16', '15', '2', '1', '31', '6', '24', '36']"
+influence_seed53_m16,influence,53,16,"['16', '15', '2', '1', '31', '6', '24', '36', '8', '7', '35', '13', '62', '5', '34', '25']"
+random_seed71_m0,random,71,0,[]
+random_seed71_m1,random,71,1,['57']
+random_seed71_m4,random,71,4,"['34', '32', '23', '42']"
+random_seed71_m8,random,71,8,"['9', '29', '2', '15', '30', '62', '56', '13']"
+random_seed71_m16,random,71,16,"['23', '12', '53', '13', '43', '3', '7', '10', '55', '40', '9', '58', '57', '50', '14', '25']"
+influence_seed71_m0,influence,71,0,[]
+influence_seed71_m1,influence,71,1,['16']
+influence_seed71_m4,influence,71,4,"['16', '15', '2', '1']"
+influence_seed71_m8,influence,71,8,"['16', '15', '2', '1', '31', '6', '24', '36']"
+influence_seed71_m16,influence,71,16,"['16', '15', '2', '1', '31', '6', '24', '36', '8', '7', '35', '13', '62', '5', '34', '25']"

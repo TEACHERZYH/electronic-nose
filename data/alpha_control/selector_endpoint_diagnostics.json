@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "fits_added": 0,
+  "all_400_resampling_hashes_reverified": true,
+  "all_400_saved_objectives_independently_recomputed": true,
+  "arms": {
+    "alpha0": {
+      "count": 200,
+      "converged": 0,
+      "at_iteration_500": 200,
+      "last_relative_change_min": 3.1417701124025754e-07,
+      "last_relative_change_median": 4.941789146190034e-05,
+      "last_relative_change_max": 0.00023811414932783936,
+      "objective_replay_max_error": 1.1102230246251565e-16,
+      "environment_loss_replay_max_error": 0.0
+    },
+    "reference": {
+      "count": 200,
+      "converged": 197,
+      "at_iteration_500": 3,
+      "last_relative_change_min": 1.3060796888453297e-10,
+      "last_relative_change_median": 2.6247272799651e-07,
+      "last_relative_change_max": 0.0003163505591826654,
+      "objective_replay_max_error": 0.0,
+      "environment_loss_replay_max_error": 0.0
+    }
+  },
+  "date_direction_counts": {
+    "positive": 2,
+    "equal": 6,
+    "negative": 0
+  },
+  "seed_output_identity": {
+    "reference": true,
+    "alpha0": true
+  }
+}

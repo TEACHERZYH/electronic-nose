@@ -1,0 +1,16 @@
+seed,method,model,C,validation_macro_f1
+11,reference,multinomial,0.1,0.5584358311800173
+11,reference,multinomial,1.0,0.5312727272727272
+11,reference,multinomial,10.0,0.5457740521269934
+23,reference,multinomial,0.1,0.5584358311800173
+23,reference,multinomial,1.0,0.5312727272727272
+23,reference,multinomial,10.0,0.5457740521269934
+37,reference,multinomial,0.1,0.5584358311800173
+37,reference,multinomial,1.0,0.5312727272727272
+37,reference,multinomial,10.0,0.5457740521269934
+53,reference,multinomial,0.1,0.5584358311800173
+53,reference,multinomial,1.0,0.5312727272727272
+53,reference,multinomial,10.0,0.5457740521269934
+71,reference,multinomial,0.1,0.5584358311800173
+71,reference,multinomial,1.0,0.5312727272727272
+71,reference,multinomial,10.0,0.5457740521269934

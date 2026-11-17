@@ -1,0 +1,1753 @@
+sample_id,date,requested_budget,effective_budget,anchor_sample_ids,latest_anchor_order,scored_order,causal_order_pass
+Day 1/Diacetyl_0.1ppm_1.csv,2024-02-16,0,0,[],,4.0,True
+Day 1/Diacetyl_0.1ppm_2.csv,2024-02-16,0,0,[],,5.0,True
+Day 1/Diacetyl_0.1ppm_3.csv,2024-02-16,0,0,[],,6.0,True
+Day 1/Diacetyl_1ppm_1.csv,2024-02-16,0,0,[],,7.0,True
+Day 1/Diacetyl_1ppm_2.csv,2024-02-16,0,0,[],,8.0,True
+Day 1/Diacetyl_1ppm_3.csv,2024-02-16,0,0,[],,9.0,True
+Day 1/EtOH_4.csv,2024-02-16,0,0,[],,10.0,True
+Day 1/EtOH_5.csv,2024-02-16,0,0,[],,11.0,True
+Day 1/EtOH_6.csv,2024-02-16,0,0,[],,12.0,True
+Day 1/Phenylethanol_200ppm_1.csv,2024-02-16,0,0,[],,13.0,True
+Day 1/Phenylethanol_200ppm_2.csv,2024-02-16,0,0,[],,14.0,True
+Day 1/Phenylethanol_200ppm_3.csv,2024-02-16,0,0,[],,15.0,True
+Day 1/Phenylethanol_1000ppm_1.csv,2024-02-16,0,0,[],,16.0,True
+Day 1/Phenylethanol_1000ppm_2.csv,2024-02-16,0,0,[],,17.0,True
+Day 1/Phenylethanol_1000ppm_3.csv,2024-02-16,0,0,[],,18.0,True
+Day 2/Diacetyl_0.1ppm_1.csv,2024-02-23,0,0,[],,4.0,True
+Day 2/Diacetyl_0.1ppm_2.csv,2024-02-23,0,0,[],,5.0,True
+Day 2/Diacetyl_0.1ppm_3.csv,2024-02-23,0,0,[],,6.0,True
+Day 2/Diacetyl_1ppm_1.csv,2024-02-23,0,0,[],,7.0,True
+Day 2/Diacetyl_1ppm_2.csv,2024-02-23,0,0,[],,8.0,True
+Day 2/Diacetyl_1ppm_3.csv,2024-02-23,0,0,[],,9.0,True
+Day 2/EtOH_4.csv,2024-02-23,0,0,[],,10.0,True
+Day 2/EtOH_5.csv,2024-02-23,0,0,[],,11.0,True
+Day 2/EtOH_6.csv,2024-02-23,0,0,[],,12.0,True
+Day 2/Phenylethanol_200ppm_1.csv,2024-02-23,0,0,[],,13.0,True
+Day 2/Phenylethanol_200ppm_2.csv,2024-02-23,0,0,[],,14.0,True
+Day 2/Phenylethanol_200ppm_3.csv,2024-02-23,0,0,[],,15.0,True
+Day 2/Phenylethanol_1000ppm_1.csv,2024-02-23,0,0,[],,16.0,True
+Day 2/Phenylethanol_1000ppm_2.csv,2024-02-23,0,0,[],,17.0,True
+Day 2/Phenylethanol_1000ppm_3.csv,2024-02-23,0,0,[],,18.0,True
+Day 3/Diacetyl_0.1ppm_1.csv,2024-03-01,0,0,[],,4.0,True
+Day 3/Diacetyl_0.1ppm_2.csv,2024-03-01,0,0,[],,5.0,True
+Day 3/Diacetyl_0.1ppm_3.csv,2024-03-01,0,0,[],,6.0,True
+Day 3/Diacetyl_1ppm_1.csv,2024-03-01,0,0,[],,7.0,True
+Day 3/Diacetyl_1ppm_2.csv,2024-03-01,0,0,[],,8.0,True
+Day 3/Diacetyl_1ppm_3.csv,2024-03-01,0,0,[],,9.0,True
+Day 3/EtOH_4.csv,2024-03-01,0,0,[],,10.0,True
+Day 3/EtOH_5.csv,2024-03-01,0,0,[],,11.0,True
+Day 3/EtOH_6.csv,2024-03-01,0,0,[],,12.0,True
+Day 3/Phenylethanol_200ppm_1.csv,2024-03-01,0,0,[],,13.0,True
+Day 3/Phenylethanol_200ppm_2.csv,2024-03-01,0,0,[],,14.0,True
+Day 3/Phenylethanol_200ppm_3.csv,2024-03-01,0,0,[],,15.0,True
+Day 3/Phenylethanol_1000ppm_1.csv,2024-03-01,0,0,[],,16.0,True
+Day 3/Phenylethanol_1000ppm_2.csv,2024-03-01,0,0,[],,17.0,True
+Day 3/Phenylethanol_1000ppm_3.csv,2024-03-01,0,0,[],,18.0,True
+Day 4/Diacetyl_0.1ppm_1.csv,2024-03-06,0,0,[],,4.0,True
+Day 4/Diacetyl_0.1ppm_2.csv,2024-03-06,0,0,[],,5.0,True
+Day 4/Diacetyl_0.1ppm_3.csv,2024-03-06,0,0,[],,6.0,True
+Day 4/Diacetyl_1ppm_1.csv,2024-03-06,0,0,[],,7.0,True
+Day 4/Diacetyl_1ppm_2.csv,2024-03-06,0,0,[],,8.0,True
+Day 4/Diacetyl_1ppm_3.csv,2024-03-06,0,0,[],,9.0,True
+Day 4/EtOH_4.csv,2024-03-06,0,0,[],,10.0,True
+Day 4/EtOH_5.csv,2024-03-06,0,0,[],,11.0,True
+Day 4/EtOH_6.csv,2024-03-06,0,0,[],,12.0,True
+Day 4/Phenylethanol_200ppm_1.csv,2024-03-06,0,0,[],,13.0,True
+Day 4/Phenylethanol_200ppm_2.csv,2024-03-06,0,0,[],,14.0,True
+Day 4/Phenylethanol_200ppm_3.csv,2024-03-06,0,0,[],,15.0,True
+Day 4/Phenylethanol_1000ppm_1.csv,2024-03-06,0,0,[],,16.0,True
+Day 4/Phenylethanol_1000ppm_2.csv,2024-03-06,0,0,[],,17.0,True
+Day 4/Phenylethanol_1000ppm_3.csv,2024-03-06,0,0,[],,18.0,True
+Day 5/Diacetyl_0.1ppm_1.csv,2024-03-19,0,0,[],,4.0,True
+Day 5/Diacetyl_0.1ppm_2.csv,2024-03-19,0,0,[],,5.0,True
+Day 5/Diacetyl_0.1ppm_3.csv,2024-03-19,0,0,[],,6.0,True
+Day 5/Diacetyl_1ppm_1.csv,2024-03-19,0,0,[],,7.0,True
+Day 5/Diacetyl_1ppm_2.csv,2024-03-19,0,0,[],,8.0,True
+Day 5/Diacetyl_1ppm_3.csv,2024-03-19,0,0,[],,9.0,True
+Day 5/EtOH_4.csv,2024-03-19,0,0,[],,10.0,True
+Day 5/EtOH_5.csv,2024-03-19,0,0,[],,11.0,True
+Day 5/EtOH_6.csv,2024-03-19,0,0,[],,12.0,True
+Day 5/Phenylethanol_200ppm_1.csv,2024-03-19,0,0,[],,13.0,True
+Day 5/Phenylethanol_200ppm_2.csv,2024-03-19,0,0,[],,14.0,True
+Day 5/Phenylethanol_200ppm_3.csv,2024-03-19,0,0,[],,15.0,True
+Day 5/Phenylethanol_1000ppm_1.csv,2024-03-19,0,0,[],,16.0,True
+Day 5/Phenylethanol_1000ppm_2.csv,2024-03-19,0,0,[],,17.0,True
+Day 5/Phenylethanol_1000ppm_3.csv,2024-03-19,0,0,[],,18.0,True
+Day 6/Diacetyl_0.1ppm_1.csv,2024-03-22,0,0,[],,4.0,True
+Day 6/Diacetyl_0.1ppm_2.csv,2024-03-22,0,0,[],,5.0,True
+Day 6/Diacetyl_0.1ppm_3.csv,2024-03-22,0,0,[],,6.0,True
+Day 6/Diacetyl_1ppm_1.csv,2024-03-22,0,0,[],,7.0,True
+Day 6/Diacetyl_1ppm_2.csv,2024-03-22,0,0,[],,8.0,True
+Day 6/Diacetyl_1ppm_3.csv,2024-03-22,0,0,[],,9.0,True
+Day 6/EtOH_4.csv,2024-03-22,0,0,[],,10.0,True
+Day 6/EtOH_5.csv,2024-03-22,0,0,[],,11.0,True
+Day 6/EtOH_6.csv,2024-03-22,0,0,[],,12.0,True
+Day 6/Phenylethanol_200ppm_1.csv,2024-03-22,0,0,[],,13.0,True
+Day 6/Phenylethanol_200ppm_2.csv,2024-03-22,0,0,[],,14.0,True
+Day 6/Phenylethanol_200ppm_3.csv,2024-03-22,0,0,[],,15.0,True
+Day 6/Phenylethanol_1000ppm_1.csv,2024-03-22,0,0,[],,16.0,True
+Day 6/Phenylethanol_1000ppm_2.csv,2024-03-22,0,0,[],,17.0,True
+Day 6/Phenylethanol_1000ppm_3.csv,2024-03-22,0,0,[],,18.0,True
+Day 7/Diacetyl_0.1ppm_1.csv,2024-04-03,0,0,[],,4.0,True
+Day 7/Diacetyl_0.1ppm_2.csv,2024-04-03,0,0,[],,5.0,True
+Day 7/Diacetyl_0.1ppm_3.csv,2024-04-03,0,0,[],,6.0,True
+Day 7/Diacetyl_1ppm_1.csv,2024-04-03,0,0,[],,7.0,True
+Day 7/Diacetyl_1ppm_2.csv,2024-04-03,0,0,[],,8.0,True
+Day 7/Diacetyl_1ppm_3.csv,2024-04-03,0,0,[],,9.0,True
+Day 7/EtOH_4.csv,2024-04-03,0,0,[],,10.0,True
+Day 7/EtOH_5.csv,2024-04-03,0,0,[],,11.0,True
+Day 7/EtOH_6.csv,2024-04-03,0,0,[],,12.0,True
+Day 7/Phenylethanol_200ppm_1.csv,2024-04-03,0,0,[],,13.0,True
+Day 7/Phenylethanol_200ppm_2.csv,2024-04-03,0,0,[],,14.0,True
+Day 7/Phenylethanol_200ppm_3.csv,2024-04-03,0,0,[],,15.0,True
+Day 7/Phenylethanol_1000ppm_1.csv,2024-04-03,0,0,[],,16.0,True
+Day 7/Phenylethanol_1000ppm_2.csv,2024-04-03,0,0,[],,17.0,True
+Day 7/Phenylethanol_1000ppm_3.csv,2024-04-03,0,0,[],,18.0,True
+Day 8/Diacetyl_0.1ppm_1.csv,2024-04-09,0,0,[],,4.0,True
+Day 8/Diacetyl_0.1ppm_2.csv,2024-04-09,0,0,[],,5.0,True
+Day 8/Diacetyl_0.1ppm_3.csv,2024-04-09,0,0,[],,6.0,True
+Day 8/Diacetyl_1ppm_1.csv,2024-04-09,0,0,[],,7.0,True
+Day 8/Diacetyl_1ppm_2.csv,2024-04-09,0,0,[],,8.0,True
+Day 8/Diacetyl_1ppm_3.csv,2024-04-09,0,0,[],,9.0,True
+Day 8/EtOH_4.csv,2024-04-09,0,0,[],,10.0,True
+Day 8/EtOH_5.csv,2024-04-09,0,0,[],,11.0,True
+Day 8/EtOH_6.csv,2024-04-09,0,0,[],,12.0,True
+Day 8/Phenylethanol_200ppm_1.csv,2024-04-09,0,0,[],,13.0,True
+Day 8/Phenylethanol_200ppm_2.csv,2024-04-09,0,0,[],,14.0,True
+Day 8/Phenylethanol_200ppm_3.csv,2024-04-09,0,0,[],,15.0,True
+Day 8/Phenylethanol_1000ppm_1.csv,2024-04-09,0,0,[],,16.0,True
+Day 8/Phenylethanol_1000ppm_2.csv,2024-04-09,0,0,[],,17.0,True
+Day 8/Phenylethanol_1000ppm_3.csv,2024-04-09,0,0,[],,18.0,True
+Day 9/Diacetyl_0.1ppm_1.csv,2024-04-12,0,0,[],,4.0,True
+Day 9/Diacetyl_0.1ppm_2.csv,2024-04-12,0,0,[],,5.0,True
+Day 9/Diacetyl_0.1ppm_3.csv,2024-04-12,0,0,[],,6.0,True
+Day 9/Diacetyl_1ppm_1.csv,2024-04-12,0,0,[],,7.0,True
+Day 9/Diacetyl_1ppm_2.csv,2024-04-12,0,0,[],,8.0,True
+Day 9/Diacetyl_1ppm_3.csv,2024-04-12,0,0,[],,9.0,True
+Day 9/EtOH_4.csv,2024-04-12,0,0,[],,10.0,True
+Day 9/EtOH_5.csv,2024-04-12,0,0,[],,11.0,True
+Day 9/EtOH_6.csv,2024-04-12,0,0,[],,12.0,True
+Day 9/Phenylethanol_200ppm_1.csv,2024-04-12,0,0,[],,13.0,True
+Day 9/Phenylethanol_200ppm_2.csv,2024-04-12,0,0,[],,14.0,True
+Day 9/Phenylethanol_200ppm_3.csv,2024-04-12,0,0,[],,15.0,True
+Day 9/Phenylethanol_1000ppm_1.csv,2024-04-12,0,0,[],,16.0,True
+Day 9/Phenylethanol_1000ppm_2.csv,2024-04-12,0,0,[],,17.0,True
+Day 9/Phenylethanol_1000ppm_3.csv,2024-04-12,0,0,[],,18.0,True
+Day 10/Diacetyl_0.1ppm_1.csv,2024-04-16,0,0,[],,4.0,True
+Day 10/Diacetyl_0.1ppm_2.csv,2024-04-16,0,0,[],,5.0,True
+Day 10/Diacetyl_0.1ppm_3.csv,2024-04-16,0,0,[],,6.0,True
+Day 10/Diacetyl_1ppm_1.csv,2024-04-16,0,0,[],,7.0,True
+Day 10/Diacetyl_1ppm_2.csv,2024-04-16,0,0,[],,8.0,True
+Day 10/Diacetyl_1ppm_3.csv,2024-04-16,0,0,[],,9.0,True
+Day 10/EtOH_4.csv,2024-04-16,0,0,[],,10.0,True
+Day 10/EtOH_5.csv,2024-04-16,0,0,[],,11.0,True
+Day 10/EtOH_6.csv,2024-04-16,0,0,[],,12.0,True
+Day 10/Phenylethanol_200ppm_1.csv,2024-04-16,0,0,[],,13.0,True
+Day 10/Phenylethanol_200ppm_2.csv,2024-04-16,0,0,[],,14.0,True
+Day 10/Phenylethanol_200ppm_3.csv,2024-04-16,0,0,[],,15.0,True
+Day 10/Phenylethanol_1000ppm_1.csv,2024-04-16,0,0,[],,16.0,True
+Day 10/Phenylethanol_1000ppm_2.csv,2024-04-16,0,0,[],,17.0,True
+Day 10/Phenylethanol_1000ppm_3.csv,2024-04-16,0,0,[],,18.0,True
+Day 11/Diacetyl_0.1ppm_1.csv,2024-04-26,0,0,[],,4.0,True
+Day 11/Diacetyl_0.1ppm_2.csv,2024-04-26,0,0,[],,5.0,True
+Day 11/Diacetyl_0.1ppm_3.csv,2024-04-26,0,0,[],,6.0,True
+Day 11/Diacetyl_1ppm_1.csv,2024-04-26,0,0,[],,7.0,True
+Day 11/Diacetyl_1ppm_2.csv,2024-04-26,0,0,[],,8.0,True
+Day 11/Diacetyl_1ppm_3.csv,2024-04-26,0,0,[],,9.0,True
+Day 11/EtOH_4.csv,2024-04-26,0,0,[],,10.0,True
+Day 11/EtOH_5.csv,2024-04-26,0,0,[],,11.0,True
+Day 11/EtOH_6.csv,2024-04-26,0,0,[],,12.0,True
+Day 11/Phenylethanol_200ppm_1.csv,2024-04-26,0,0,[],,13.0,True
+Day 11/Phenylethanol_200ppm_2.csv,2024-04-26,0,0,[],,14.0,True
+Day 11/Phenylethanol_200ppm_3.csv,2024-04-26,0,0,[],,15.0,True
+Day 11/Phenylethanol_1000ppm_1.csv,2024-04-26,0,0,[],,16.0,True
+Day 11/Phenylethanol_1000ppm_2.csv,2024-04-26,0,0,[],,17.0,True
+Day 11/Phenylethanol_1000ppm_3.csv,2024-04-26,0,0,[],,18.0,True
+Day 12/Diacetyl_0.1ppm_1.csv,2024-05-07,0,0,[],,3.0,True
+Day 12/Diacetyl_0.1ppm_2.csv,2024-05-07,0,0,[],,4.0,True
+Day 12/Diacetyl_0.1ppm_3.csv,2024-05-07,0,0,[],,5.0,True
+Day 12/Diacetyl_1ppm_1.csv,2024-05-07,0,0,[],,6.0,True
+Day 12/Diacetyl_1ppm_2.csv,2024-05-07,0,0,[],,7.0,True
+Day 12/Diacetyl_1ppm_3.csv,2024-05-07,0,0,[],,8.0,True
+Day 12/EtOH_3.csv,2024-05-07,0,0,[],,9.0,True
+Day 12/EtOH_4.csv,2024-05-07,0,0,[],,10.0,True
+Day 12/EtOH_5.csv,2024-05-07,0,0,[],,11.0,True
+Day 12/Phenylethanol_200ppm_1.csv,2024-05-07,0,0,[],,12.0,True
+Day 12/Phenylethanol_200ppm_2.csv,2024-05-07,0,0,[],,13.0,True
+Day 12/Phenylethanol_200ppm_3.csv,2024-05-07,0,0,[],,14.0,True
+Day 12/Phenylethanol_1000ppm_1.csv,2024-05-07,0,0,[],,15.0,True
+Day 12/Phenylethanol_1000ppm_2.csv,2024-05-07,0,0,[],,16.0,True
+Day 12/Phenylethanol_1000ppm_3.csv,2024-05-07,0,0,[],,17.0,True
+Day 13/Diacetyl_0.1ppm_1.csv,2024-05-14,0,0,[],,4.0,True
+Day 13/Diacetyl_0.1ppm_2.csv,2024-05-14,0,0,[],,5.0,True
+Day 13/Diacetyl_0.1ppm_3.csv,2024-05-14,0,0,[],,6.0,True
+Day 13/Diacetyl_1ppm_1.csv,2024-05-14,0,0,[],,7.0,True
+Day 13/Diacetyl_1ppm_2.csv,2024-05-14,0,0,[],,8.0,True
+Day 13/Diacetyl_1ppm_3.csv,2024-05-14,0,0,[],,9.0,True
+Day 13/EtOH_4.csv,2024-05-14,0,0,[],,10.0,True
+Day 13/EtOH_5.csv,2024-05-14,0,0,[],,11.0,True
+Day 13/EtOH_6.csv,2024-05-14,0,0,[],,12.0,True
+Day 13/Phenylethanol_200ppm_1.csv,2024-05-14,0,0,[],,13.0,True
+Day 13/Phenylethanol_200ppm_2.csv,2024-05-14,0,0,[],,14.0,True
+Day 13/Phenylethanol_200ppm_3.csv,2024-05-14,0,0,[],,15.0,True
+Day 13/Phenylethanol_1000ppm_1.csv,2024-05-14,0,0,[],,16.0,True
+Day 13/Phenylethanol_1000ppm_2.csv,2024-05-14,0,0,[],,17.0,True
+Day 13/Phenylethanol_1000ppm_3.csv,2024-05-14,0,0,[],,18.0,True
+Day 15/Diacetyl_0.1ppm_1.csv,2024-06-12,0,0,[],,4.0,True
+Day 15/Diacetyl_0.1ppm_2.csv,2024-06-12,0,0,[],,5.0,True
+Day 15/Diacetyl_0.1ppm_3.csv,2024-06-12,0,0,[],,6.0,True
+Day 15/Diacetyl_1ppm_1.csv,2024-06-12,0,0,[],,7.0,True
+Day 15/Diacetyl_1ppm_2.csv,2024-06-12,0,0,[],,8.0,True
+Day 15/Diacetyl_1ppm_3.csv,2024-06-12,0,0,[],,9.0,True
+Day 15/EtOH_4.csv,2024-06-12,0,0,[],,10.0,True
+Day 15/EtOH_5.csv,2024-06-12,0,0,[],,11.0,True
+Day 15/EtOH_6.csv,2024-06-12,0,0,[],,12.0,True
+Day 15/Phenylethanol_200ppm_1.csv,2024-06-12,0,0,[],,13.0,True
+Day 15/Phenylethanol_200ppm_2.csv,2024-06-12,0,0,[],,14.0,True
+Day 15/Phenylethanol_200ppm_3.csv,2024-06-12,0,0,[],,15.0,True
+Day 15/Phenylethanol_1000ppm_1.csv,2024-06-12,0,0,[],,16.0,True
+Day 15/Phenylethanol_1000ppm_2.csv,2024-06-12,0,0,[],,17.0,True
+Day 15/Phenylethanol_1000ppm_3.csv,2024-06-12,0,0,[],,18.0,True
+Day 16/Diacetyl_0.1ppm_1.csv,2024-06-14,0,0,[],,4.0,True
+Day 16/Diacetyl_0.1ppm_2.csv,2024-06-14,0,0,[],,5.0,True
+Day 16/Diacetyl_0.1ppm_3.csv,2024-06-14,0,0,[],,6.0,True
+Day 16/Diacetyl_1ppm_1.csv,2024-06-14,0,0,[],,7.0,True
+Day 16/Diacetyl_1ppm_2.csv,2024-06-14,0,0,[],,8.0,True
+Day 16/Diacetyl_1ppm_3.csv,2024-06-14,0,0,[],,9.0,True
+Day 16/EtOH_4.csv,2024-06-14,0,0,[],,10.0,True
+Day 16/EtOH_5.csv,2024-06-14,0,0,[],,11.0,True
+Day 16/EtOH_6.csv,2024-06-14,0,0,[],,12.0,True
+Day 16/Phenylethanol_200ppm_1.csv,2024-06-14,0,0,[],,13.0,True
+Day 16/Phenylethanol_200ppm_2.csv,2024-06-14,0,0,[],,14.0,True
+Day 16/Phenylethanol_200ppm_3.csv,2024-06-14,0,0,[],,15.0,True
+Day 16/Phenylethanol_1000ppm_1.csv,2024-06-14,0,0,[],,16.0,True
+Day 16/Phenylethanol_1000ppm_2.csv,2024-06-14,0,0,[],,17.0,True
+Day 16/Phenylethanol_1000ppm_3.csv,2024-06-14,0,0,[],,18.0,True
+Day 17/Diacetyl_0.1ppm_1.csv,2024-06-18,0,0,[],,4.0,True
+Day 17/Diacetyl_0.1ppm_2.csv,2024-06-18,0,0,[],,5.0,True
+Day 17/Diacetyl_0.1ppm_3.csv,2024-06-18,0,0,[],,6.0,True
+Day 17/Diacetyl_1ppm_1.csv,2024-06-18,0,0,[],,7.0,True
+Day 17/Diacetyl_1ppm_2.csv,2024-06-18,0,0,[],,8.0,True
+Day 17/Diacetyl_1ppm_3.csv,2024-06-18,0,0,[],,9.0,True
+Day 17/EtOH_4.csv,2024-06-18,0,0,[],,10.0,True
+Day 17/EtOH_5.csv,2024-06-18,0,0,[],,11.0,True
+Day 17/EtOH_6.csv,2024-06-18,0,0,[],,12.0,True
+Day 17/Phenylethanol_200ppm_1.csv,2024-06-18,0,0,[],,13.0,True
+Day 17/Phenylethanol_200ppm_2.csv,2024-06-18,0,0,[],,14.0,True
+Day 17/Phenylethanol_200ppm_3.csv,2024-06-18,0,0,[],,15.0,True
+Day 17/Phenylethanol_1000ppm_1.csv,2024-06-18,0,0,[],,16.0,True
+Day 17/Phenylethanol_1000ppm_2.csv,2024-06-18,0,0,[],,17.0,True
+Day 17/Phenylethanol_1000ppm_3.csv,2024-06-18,0,0,[],,18.0,True
+Day 18/Diacetyl_0.1ppm_1.csv,2024-06-21,0,0,[],,4.0,True
+Day 18/Diacetyl_0.1ppm_2.csv,2024-06-21,0,0,[],,5.0,True
+Day 18/Diacetyl_0.1ppm_3.csv,2024-06-21,0,0,[],,6.0,True
+Day 18/Diacetyl_1ppm_1.csv,2024-06-21,0,0,[],,7.0,True
+Day 18/Diacetyl_1ppm_2.csv,2024-06-21,0,0,[],,8.0,True
+Day 18/Diacetyl_1ppm_3.csv,2024-06-21,0,0,[],,9.0,True
+Day 18/EtOH_4.csv,2024-06-21,0,0,[],,10.0,True
+Day 18/EtOH_5.csv,2024-06-21,0,0,[],,11.0,True
+Day 18/EtOH_6.csv,2024-06-21,0,0,[],,12.0,True
+Day 18/Phenylethanol_200ppm_1.csv,2024-06-21,0,0,[],,13.0,True
+Day 18/Phenylethanol_200ppm_2.csv,2024-06-21,0,0,[],,14.0,True
+Day 18/Phenylethanol_200ppm_3.csv,2024-06-21,0,0,[],,15.0,True
+Day 18/Phenylethanol_1000ppm_1.csv,2024-06-21,0,0,[],,16.0,True
+Day 18/Phenylethanol_1000ppm_2.csv,2024-06-21,0,0,[],,17.0,True
+Day 18/Phenylethanol_1000ppm_3.csv,2024-06-21,0,0,[],,18.0,True
+Day 19/Diacetyl_0.1ppm_1.csv,2024-07-18,0,0,[],,4.0,True
+Day 19/Diacetyl_0.1ppm_2.csv,2024-07-18,0,0,[],,5.0,True
+Day 19/Diacetyl_0.1ppm_3.csv,2024-07-18,0,0,[],,6.0,True
+Day 19/Diacetyl_1ppm_1.csv,2024-07-18,0,0,[],,7.0,True
+Day 19/Diacetyl_1ppm_2.csv,2024-07-18,0,0,[],,8.0,True
+Day 19/Diacetyl_1ppm_3.csv,2024-07-18,0,0,[],,9.0,True
+Day 19/EtOH_4.csv,2024-07-18,0,0,[],,10.0,True
+Day 19/EtOH_5.csv,2024-07-18,0,0,[],,11.0,True
+Day 19/EtOH_6.csv,2024-07-18,0,0,[],,12.0,True
+Day 19/Phenylethanol_200ppm_1.csv,2024-07-18,0,0,[],,13.0,True
+Day 19/Phenylethanol_200ppm_2.csv,2024-07-18,0,0,[],,14.0,True
+Day 19/Phenylethanol_200ppm_3.csv,2024-07-18,0,0,[],,15.0,True
+Day 19/Phenylethanol_1000ppm_1.csv,2024-07-18,0,0,[],,16.0,True
+Day 19/Phenylethanol_1000ppm_2.csv,2024-07-18,0,0,[],,17.0,True
+Day 19/Phenylethanol_1000ppm_3.csv,2024-07-18,0,0,[],,18.0,True
+Day 20/Diacetyl_0.1ppm_1.csv,2024-08-21,0,0,[],,4.0,True
+Day 20/Diacetyl_0.1ppm_2.csv,2024-08-21,0,0,[],,5.0,True
+Day 20/Diacetyl_0.1ppm_3.csv,2024-08-21,0,0,[],,6.0,True
+Day 20/Diacetyl_1ppm_1.csv,2024-08-21,0,0,[],,7.0,True
+Day 20/Diacetyl_1ppm_2.csv,2024-08-21,0,0,[],,8.0,True
+Day 20/Diacetyl_1ppm_3.csv,2024-08-21,0,0,[],,9.0,True
+Day 20/EtOH_4.csv,2024-08-21,0,0,[],,10.0,True
+Day 20/EtOH_5.csv,2024-08-21,0,0,[],,11.0,True
+Day 20/EtOH_6.csv,2024-08-21,0,0,[],,12.0,True
+Day 20/Phenylethanol_200ppm_1.csv,2024-08-21,0,0,[],,13.0,True
+Day 20/Phenylethanol_200ppm_2.csv,2024-08-21,0,0,[],,14.0,True
+Day 20/Phenylethanol_200ppm_3.csv,2024-08-21,0,0,[],,15.0,True
+Day 20/Phenylethanol_1000ppm_1.csv,2024-08-21,0,0,[],,16.0,True
+Day 20/Phenylethanol_1000ppm_2.csv,2024-08-21,0,0,[],,17.0,True
+Day 20/Phenylethanol_1000ppm_3.csv,2024-08-21,0,0,[],,18.0,True
+Day 21/Diacetyl_0.1ppm_1.csv,2024-08-22,0,0,[],,4.0,True
+Day 21/Diacetyl_0.1ppm_2.csv,2024-08-22,0,0,[],,5.0,True
+Day 21/Diacetyl_0.1ppm_3.csv,2024-08-22,0,0,[],,6.0,True
+Day 21/Diacetyl_1ppm_1.csv,2024-08-22,0,0,[],,7.0,True
+Day 21/Diacetyl_1ppm_2.csv,2024-08-22,0,0,[],,8.0,True
+Day 21/Diacetyl_1ppm_3.csv,2024-08-22,0,0,[],,9.0,True
+Day 21/EtOH_4.csv,2024-08-22,0,0,[],,10.0,True
+Day 21/EtOH_5.csv,2024-08-22,0,0,[],,11.0,True
+Day 21/EtOH_6.csv,2024-08-22,0,0,[],,12.0,True
+Day 21/Phenylethanol_200ppm_1.csv,2024-08-22,0,0,[],,13.0,True
+Day 21/Phenylethanol_200ppm_2.csv,2024-08-22,0,0,[],,14.0,True
+Day 21/Phenylethanol_200ppm_3.csv,2024-08-22,0,0,[],,15.0,True
+Day 21/Phenylethanol_1000ppm_1.csv,2024-08-22,0,0,[],,16.0,True
+Day 21/Phenylethanol_1000ppm_2.csv,2024-08-22,0,0,[],,17.0,True
+Day 21/Phenylethanol_1000ppm_3.csv,2024-08-22,0,0,[],,18.0,True
+Day 22/Diacetyl_0.1ppm_1.csv,2024-08-27,0,0,[],,4.0,True
+Day 22/Diacetyl_0.1ppm_2.csv,2024-08-27,0,0,[],,5.0,True
+Day 22/Diacetyl_0.1ppm_3.csv,2024-08-27,0,0,[],,6.0,True
+Day 22/Diacetyl_1ppm_1.csv,2024-08-27,0,0,[],,7.0,True
+Day 22/Diacetyl_1ppm_2.csv,2024-08-27,0,0,[],,8.0,True
+Day 22/Diacetyl_1ppm_3.csv,2024-08-27,0,0,[],,9.0,True
+Day 22/EtOH_4.csv,2024-08-27,0,0,[],,10.0,True
+Day 22/EtOH_5.csv,2024-08-27,0,0,[],,11.0,True
+Day 22/EtOH_6.csv,2024-08-27,0,0,[],,12.0,True
+Day 22/Phenylethanol_200ppm_1.csv,2024-08-27,0,0,[],,13.0,True
+Day 22/Phenylethanol_200ppm_2.csv,2024-08-27,0,0,[],,14.0,True
+Day 22/Phenylethanol_200ppm_3.csv,2024-08-27,0,0,[],,15.0,True
+Day 22/Phenylethanol_1000ppm_1.csv,2024-08-27,0,0,[],,16.0,True
+Day 22/Phenylethanol_1000ppm_2.csv,2024-08-27,0,0,[],,17.0,True
+Day 22/Phenylethanol_1000ppm_3.csv,2024-08-27,0,0,[],,18.0,True
+Day 23/Diacetyl_0.1ppm_1.csv,2024-08-30,0,0,[],,4.0,True
+Day 23/Diacetyl_0.1ppm_2.csv,2024-08-30,0,0,[],,5.0,True
+Day 23/Diacetyl_0.1ppm_3.csv,2024-08-30,0,0,[],,6.0,True
+Day 23/Diacetyl_1ppm_1.csv,2024-08-30,0,0,[],,7.0,True
+Day 23/Diacetyl_1ppm_2.csv,2024-08-30,0,0,[],,8.0,True
+Day 23/Diacetyl_1ppm_3.csv,2024-08-30,0,0,[],,9.0,True
+Day 23/EtOH_4.csv,2024-08-30,0,0,[],,10.0,True
+Day 23/EtOH_5.csv,2024-08-30,0,0,[],,11.0,True
+Day 23/EtOH_6.csv,2024-08-30,0,0,[],,12.0,True
+Day 23/Phenylethanol_200ppm_1.csv,2024-08-30,0,0,[],,13.0,True
+Day 23/Phenylethanol_200ppm_2.csv,2024-08-30,0,0,[],,14.0,True
+Day 23/Phenylethanol_200ppm_3.csv,2024-08-30,0,0,[],,15.0,True
+Day 23/Phenylethanol_1000ppm_1.csv,2024-08-30,0,0,[],,16.0,True
+Day 23/Phenylethanol_1000ppm_2.csv,2024-08-30,0,0,[],,17.0,True
+Day 23/Phenylethanol_1000ppm_3.csv,2024-08-30,0,0,[],,18.0,True
+Day 24/Diacetyl_0.1ppm_1.csv,2024-09-03,0,0,[],,4.0,True
+Day 24/Diacetyl_0.1ppm_2.csv,2024-09-03,0,0,[],,5.0,True
+Day 24/Diacetyl_0.1ppm_3.csv,2024-09-03,0,0,[],,6.0,True
+Day 24/Diacetyl_1ppm_1.csv,2024-09-03,0,0,[],,7.0,True
+Day 24/Diacetyl_1ppm_2.csv,2024-09-03,0,0,[],,8.0,True
+Day 24/Diacetyl_1ppm_3.csv,2024-09-03,0,0,[],,9.0,True
+Day 24/EtOH_4.csv,2024-09-03,0,0,[],,10.0,True
+Day 24/EtOH_5.csv,2024-09-03,0,0,[],,11.0,True
+Day 24/EtOH_6.csv,2024-09-03,0,0,[],,12.0,True
+Day 24/Phenylethanol_200ppm_1.csv,2024-09-03,0,0,[],,13.0,True
+Day 24/Phenylethanol_200ppm_2.csv,2024-09-03,0,0,[],,14.0,True
+Day 24/Phenylethanol_200ppm_3.csv,2024-09-03,0,0,[],,15.0,True
+Day 24/Phenylethanol_1000ppm_1.csv,2024-09-03,0,0,[],,16.0,True
+Day 24/Phenylethanol_1000ppm_2.csv,2024-09-03,0,0,[],,17.0,True
+Day 24/Phenylethanol_1000ppm_3.csv,2024-09-03,0,0,[],,18.0,True
+Day 25/Diacetyl_0.1ppm_1.csv,2024-09-06,0,0,[],,4.0,True
+Day 25/Diacetyl_0.1ppm_2.csv,2024-09-06,0,0,[],,5.0,True
+Day 25/Diacetyl_0.1ppm_3.csv,2024-09-06,0,0,[],,6.0,True
+Day 25/Diacetyl_1ppm_1.csv,2024-09-06,0,0,[],,7.0,True
+Day 25/Diacetyl_1ppm_2.csv,2024-09-06,0,0,[],,8.0,True
+Day 25/Diacetyl_1ppm_3.csv,2024-09-06,0,0,[],,9.0,True
+Day 25/EtOH_4.csv,2024-09-06,0,0,[],,10.0,True
+Day 25/EtOH_5.csv,2024-09-06,0,0,[],,11.0,True
+Day 25/EtOH_6.csv,2024-09-06,0,0,[],,12.0,True
+Day 25/Phenylethanol_200ppm_1.csv,2024-09-06,0,0,[],,13.0,True
+Day 25/Phenylethanol_200ppm_2.csv,2024-09-06,0,0,[],,14.0,True
+Day 25/Phenylethanol_200ppm_3.csv,2024-09-06,0,0,[],,15.0,True
+Day 25/Phenylethanol_1000ppm_1.csv,2024-09-06,0,0,[],,16.0,True
+Day 25/Phenylethanol_1000ppm_2.csv,2024-09-06,0,0,[],,17.0,True
+Day 25/Phenylethanol_1000ppm_3.csv,2024-09-06,0,0,[],,18.0,True
+Day 26/Diacetyl_0.1ppm_1.csv,2024-10-31,0,0,[],,4.0,True
+Day 26/Diacetyl_0.1ppm_2.csv,2024-10-31,0,0,[],,5.0,True
+Day 26/Diacetyl_0.1ppm_3.csv,2024-10-31,0,0,[],,6.0,True
+Day 26/Diacetyl_1ppm_1.csv,2024-10-31,0,0,[],,7.0,True
+Day 26/Diacetyl_1ppm_2.csv,2024-10-31,0,0,[],,8.0,True
+Day 26/Diacetyl_1ppm_3.csv,2024-10-31,0,0,[],,9.0,True
+Day 26/EtOH_4.csv,2024-10-31,0,0,[],,10.0,True
+Day 26/EtOH_5.csv,2024-10-31,0,0,[],,11.0,True
+Day 26/EtOH_6.csv,2024-10-31,0,0,[],,12.0,True
+Day 26/Phenylethanol_200ppm_1.csv,2024-10-31,0,0,[],,13.0,True
+Day 26/Phenylethanol_200ppm_2.csv,2024-10-31,0,0,[],,14.0,True
+Day 26/Phenylethanol_200ppm_3.csv,2024-10-31,0,0,[],,15.0,True
+Day 26/Phenylethanol_1000ppm_1.csv,2024-10-31,0,0,[],,16.0,True
+Day 26/Phenylethanol_1000ppm_2.csv,2024-10-31,0,0,[],,17.0,True
+Day 26/Phenylethanol_1000ppm_3.csv,2024-10-31,0,0,[],,18.0,True
+Day 27/Diacetyl_0.1ppm_1.csv,2024-11-07,0,0,[],,4.0,True
+Day 27/Diacetyl_0.1ppm_2.csv,2024-11-07,0,0,[],,5.0,True
+Day 27/Diacetyl_0.1ppm_3.csv,2024-11-07,0,0,[],,6.0,True
+Day 27/Diacetyl_1ppm_1.csv,2024-11-07,0,0,[],,7.0,True
+Day 27/Diacetyl_1ppm_2.csv,2024-11-07,0,0,[],,8.0,True
+Day 27/Diacetyl_1ppm_3.csv,2024-11-07,0,0,[],,9.0,True
+Day 27/EtOH_4.csv,2024-11-07,0,0,[],,10.0,True
+Day 27/EtOH_5.csv,2024-11-07,0,0,[],,11.0,True
+Day 27/EtOH_6.csv,2024-11-07,0,0,[],,12.0,True
+Day 27/Phenylethanol_200ppm_1.csv,2024-11-07,0,0,[],,13.0,True
+Day 27/Phenylethanol_200ppm_2.csv,2024-11-07,0,0,[],,14.0,True
+Day 27/Phenylethanol_200ppm_3.csv,2024-11-07,0,0,[],,15.0,True
+Day 27/Phenylethanol_1000ppm_1.csv,2024-11-07,0,0,[],,16.0,True
+Day 27/Phenylethanol_1000ppm_2.csv,2024-11-07,0,0,[],,17.0,True
+Day 27/Phenylethanol_1000ppm_3.csv,2024-11-07,0,0,[],,18.0,True
+Day 28/Diacetyl_0.1ppm_1.csv,2024-11-22,0,0,[],,4.0,True
+Day 28/Diacetyl_0.1ppm_2.csv,2024-11-22,0,0,[],,5.0,True
+Day 28/Diacetyl_0.1ppm_3.csv,2024-11-22,0,0,[],,6.0,True
+Day 28/Diacetyl_1ppm_1.csv,2024-11-22,0,0,[],,7.0,True
+Day 28/Diacetyl_1ppm_2.csv,2024-11-22,0,0,[],,8.0,True
+Day 28/Diacetyl_1ppm_3.csv,2024-11-22,0,0,[],,9.0,True
+Day 28/EtOH_4.csv,2024-11-22,0,0,[],,10.0,True
+Day 28/EtOH_5.csv,2024-11-22,0,0,[],,11.0,True
+Day 28/EtOH_6.csv,2024-11-22,0,0,[],,12.0,True
+Day 28/Phenylethanol_200ppm_1.csv,2024-11-22,0,0,[],,13.0,True
+Day 28/Phenylethanol_200ppm_2.csv,2024-11-22,0,0,[],,14.0,True
+Day 28/Phenylethanol_200ppm_3.csv,2024-11-22,0,0,[],,15.0,True
+Day 28/Phenylethanol_1000ppm_1.csv,2024-11-22,0,0,[],,16.0,True
+Day 28/Phenylethanol_1000ppm_2.csv,2024-11-22,0,0,[],,17.0,True
+Day 28/Phenylethanol_1000ppm_3.csv,2024-11-22,0,0,[],,18.0,True
+Day 29/Diacetyl_0.1ppm_1.csv,2024-11-28,0,0,[],,4.0,True
+Day 29/Diacetyl_0.1ppm_2.csv,2024-11-28,0,0,[],,5.0,True
+Day 29/Diacetyl_0.1ppm_3.csv,2024-11-28,0,0,[],,6.0,True
+Day 29/Diacetyl_1ppm_1.csv,2024-11-28,0,0,[],,7.0,True
+Day 29/Diacetyl_1ppm_2.csv,2024-11-28,0,0,[],,8.0,True
+Day 29/Diacetyl_1ppm_3.csv,2024-11-28,0,0,[],,9.0,True
+Day 29/EtOH_4.csv,2024-11-28,0,0,[],,10.0,True
+Day 29/EtOH_5.csv,2024-11-28,0,0,[],,11.0,True
+Day 29/EtOH_6.csv,2024-11-28,0,0,[],,12.0,True
+Day 29/Phenylethanol_200ppm_1.csv,2024-11-28,0,0,[],,13.0,True
+Day 29/Phenylethanol_200ppm_2.csv,2024-11-28,0,0,[],,14.0,True
+Day 29/Phenylethanol_200ppm_3.csv,2024-11-28,0,0,[],,15.0,True
+Day 29/Phenylethanol_1000ppm_1.csv,2024-11-28,0,0,[],,16.0,True
+Day 29/Phenylethanol_1000ppm_2.csv,2024-11-28,0,0,[],,17.0,True
+Day 29/Phenylethanol_1000ppm_3.csv,2024-11-28,0,0,[],,18.0,True
+Day 30/Diacetyl_0.1ppm_1.csv,2024-12-03,0,0,[],,4.0,True
+Day 30/Diacetyl_0.1ppm_2.csv,2024-12-03,0,0,[],,5.0,True
+Day 30/Diacetyl_0.1ppm_3.csv,2024-12-03,0,0,[],,6.0,True
+Day 30/Diacetyl_1ppm_1.csv,2024-12-03,0,0,[],,7.0,True
+Day 30/Diacetyl_1ppm_2.csv,2024-12-03,0,0,[],,8.0,True
+Day 30/Diacetyl_1ppm_3.csv,2024-12-03,0,0,[],,9.0,True
+Day 30/EtOH_4.csv,2024-12-03,0,0,[],,10.0,True
+Day 30/EtOH_5.csv,2024-12-03,0,0,[],,11.0,True
+Day 30/EtOH_6.csv,2024-12-03,0,0,[],,12.0,True
+Day 30/Phenylethanol_200ppm_1.csv,2024-12-03,0,0,[],,13.0,True
+Day 30/Phenylethanol_200ppm_2.csv,2024-12-03,0,0,[],,14.0,True
+Day 30/Phenylethanol_200ppm_3.csv,2024-12-03,0,0,[],,15.0,True
+Day 30/Phenylethanol_1000ppm_1.csv,2024-12-03,0,0,[],,16.0,True
+Day 30/Phenylethanol_1000ppm_2.csv,2024-12-03,0,0,[],,17.0,True
+Day 30/Phenylethanol_1000ppm_3.csv,2024-12-03,0,0,[],,18.0,True
+Day 31/Diacetyl_0.1ppm_1.csv,2024-12-13,0,0,[],,4.0,True
+Day 31/Diacetyl_0.1ppm_2.csv,2024-12-13,0,0,[],,5.0,True
+Day 31/Diacetyl_0.1ppm_3.csv,2024-12-13,0,0,[],,6.0,True
+Day 31/Diacetyl_1ppm_1.csv,2024-12-13,0,0,[],,7.0,True
+Day 31/Diacetyl_1ppm_2.csv,2024-12-13,0,0,[],,8.0,True
+Day 31/Diacetyl_1ppm_3.csv,2024-12-13,0,0,[],,9.0,True
+Day 31/EtOH_4.csv,2024-12-13,0,0,[],,10.0,True
+Day 31/EtOH_5.csv,2024-12-13,0,0,[],,11.0,True
+Day 31/EtOH_6.csv,2024-12-13,0,0,[],,12.0,True
+Day 31/Phenylethanol_200ppm_1.csv,2024-12-13,0,0,[],,13.0,True
+Day 31/Phenylethanol_200ppm_2.csv,2024-12-13,0,0,[],,14.0,True
+Day 31/Phenylethanol_200ppm_3.csv,2024-12-13,0,0,[],,15.0,True
+Day 31/Phenylethanol_1000ppm_1.csv,2024-12-13,0,0,[],,16.0,True
+Day 31/Phenylethanol_1000ppm_2.csv,2024-12-13,0,0,[],,17.0,True
+Day 31/Phenylethanol_1000ppm_3.csv,2024-12-13,0,0,[],,18.0,True
+Day 32/Diacetyl_0.1ppm_1.csv,2025-01-08,0,0,[],,4.0,True
+Day 32/Diacetyl_0.1ppm_2.csv,2025-01-08,0,0,[],,5.0,True
+Day 32/Diacetyl_0.1ppm_3.csv,2025-01-08,0,0,[],,6.0,True
+Day 32/Diacetyl_1ppm_1.csv,2025-01-08,0,0,[],,7.0,True
+Day 32/Diacetyl_1ppm_2.csv,2025-01-08,0,0,[],,8.0,True
+Day 32/Diacetyl_1ppm_3.csv,2025-01-08,0,0,[],,9.0,True
+Day 32/EtOH_4.csv,2025-01-08,0,0,[],,10.0,True
+Day 32/EtOH_5.csv,2025-01-08,0,0,[],,11.0,True
+Day 32/EtOH_6.csv,2025-01-08,0,0,[],,12.0,True
+Day 32/Phenylethanol_200ppm_1.csv,2025-01-08,0,0,[],,13.0,True
+Day 32/Phenylethanol_200ppm_2.csv,2025-01-08,0,0,[],,14.0,True
+Day 32/Phenylethanol_200ppm_3.csv,2025-01-08,0,0,[],,15.0,True
+Day 32/Phenylethanol_1000ppm_1.csv,2025-01-08,0,0,[],,16.0,True
+Day 32/Phenylethanol_1000ppm_2.csv,2025-01-08,0,0,[],,17.0,True
+Day 32/Phenylethanol_1000ppm_3.csv,2025-01-08,0,0,[],,18.0,True
+Day 33/Diacetyl_0.1ppm_1.csv,2025-01-10,0,0,[],,4.0,True
+Day 33/Diacetyl_0.1ppm_2.csv,2025-01-10,0,0,[],,5.0,True
+Day 33/Diacetyl_0.1ppm_3.csv,2025-01-10,0,0,[],,6.0,True
+Day 33/Diacetyl_1ppm_1.csv,2025-01-10,0,0,[],,7.0,True
+Day 33/Diacetyl_1ppm_2.csv,2025-01-10,0,0,[],,8.0,True
+Day 33/Diacetyl_1ppm_3.csv,2025-01-10,0,0,[],,9.0,True
+Day 33/EtOH_4.csv,2025-01-10,0,0,[],,10.0,True
+Day 33/EtOH_5.csv,2025-01-10,0,0,[],,11.0,True
+Day 33/EtOH_6.csv,2025-01-10,0,0,[],,12.0,True
+Day 33/Phenylethanol_200ppm_1.csv,2025-01-10,0,0,[],,13.0,True
+Day 33/Phenylethanol_200ppm_2.csv,2025-01-10,0,0,[],,14.0,True
+Day 33/Phenylethanol_200ppm_3.csv,2025-01-10,0,0,[],,15.0,True
+Day 33/Phenylethanol_1000ppm_1.csv,2025-01-10,0,0,[],,16.0,True
+Day 33/Phenylethanol_1000ppm_2.csv,2025-01-10,0,0,[],,17.0,True
+Day 33/Phenylethanol_1000ppm_3.csv,2025-01-10,0,0,[],,18.0,True
+Day 34/Diacetyl_0.1ppm_1.csv,2025-01-14,0,0,[],,4.0,True
+Day 34/Diacetyl_0.1ppm_2.csv,2025-01-14,0,0,[],,5.0,True
+Day 34/Diacetyl_0.1ppm_3.csv,2025-01-14,0,0,[],,6.0,True
+Day 34/Diacetyl_1ppm_1.csv,2025-01-14,0,0,[],,7.0,True
+Day 34/Diacetyl_1ppm_2.csv,2025-01-14,0,0,[],,8.0,True
+Day 34/Diacetyl_1ppm_3.csv,2025-01-14,0,0,[],,9.0,True
+Day 34/EtOH_4.csv,2025-01-14,0,0,[],,10.0,True
+Day 34/EtOH_5.csv,2025-01-14,0,0,[],,11.0,True
+Day 34/EtOH_6.csv,2025-01-14,0,0,[],,12.0,True
+Day 34/Phenylethanol_200ppm_1.csv,2025-01-14,0,0,[],,13.0,True
+Day 34/Phenylethanol_200ppm_2.csv,2025-01-14,0,0,[],,14.0,True
+Day 34/Phenylethanol_200ppm_3.csv,2025-01-14,0,0,[],,15.0,True
+Day 34/Phenylethanol_1000ppm_1.csv,2025-01-14,0,0,[],,16.0,True
+Day 34/Phenylethanol_1000ppm_2.csv,2025-01-14,0,0,[],,17.0,True
+Day 34/Phenylethanol_1000ppm_3.csv,2025-01-14,0,0,[],,18.0,True
+Day 35/Diacetyl_0.1ppm_1.csv,2025-01-17,0,0,[],,4.0,True
+Day 35/Diacetyl_0.1ppm_2.csv,2025-01-17,0,0,[],,5.0,True
+Day 35/Diacetyl_0.1ppm_3.csv,2025-01-17,0,0,[],,6.0,True
+Day 35/Diacetyl_1ppm_1.csv,2025-01-17,0,0,[],,7.0,True
+Day 35/Diacetyl_1ppm_2.csv,2025-01-17,0,0,[],,8.0,True
+Day 35/Diacetyl_1ppm_3.csv,2025-01-17,0,0,[],,9.0,True
+Day 35/EtOH_4.csv,2025-01-17,0,0,[],,10.0,True
+Day 35/EtOH_5.csv,2025-01-17,0,0,[],,11.0,True
+Day 35/EtOH_6.csv,2025-01-17,0,0,[],,12.0,True
+Day 35/Phenylethanol_200ppm_1.csv,2025-01-17,0,0,[],,13.0,True
+Day 35/Phenylethanol_200ppm_2.csv,2025-01-17,0,0,[],,14.0,True
+Day 35/Phenylethanol_200ppm_3.csv,2025-01-17,0,0,[],,15.0,True
+Day 35/Phenylethanol_1000ppm_1.csv,2025-01-17,0,0,[],,16.0,True
+Day 35/Phenylethanol_1000ppm_2.csv,2025-01-17,0,0,[],,17.0,True
+Day 35/Phenylethanol_1000ppm_3.csv,2025-01-17,0,0,[],,18.0,True
+Day 36/Diacetyl_0.1ppm_1.csv,2025-01-21,0,0,[],,4.0,True
+Day 36/Diacetyl_0.1ppm_2.csv,2025-01-21,0,0,[],,5.0,True
+Day 36/Diacetyl_0.1ppm_3.csv,2025-01-21,0,0,[],,6.0,True
+Day 36/Diacetyl_1ppm_1.csv,2025-01-21,0,0,[],,7.0,True
+Day 36/Diacetyl_1ppm_2.csv,2025-01-21,0,0,[],,8.0,True
+Day 36/Diacetyl_1ppm_3.csv,2025-01-21,0,0,[],,9.0,True
+Day 36/EtOH_4.csv,2025-01-21,0,0,[],,10.0,True
+Day 36/EtOH_5.csv,2025-01-21,0,0,[],,11.0,True
+Day 36/EtOH_6.csv,2025-01-21,0,0,[],,12.0,True
+Day 36/Phenylethanol_200ppm_1.csv,2025-01-21,0,0,[],,13.0,True
+Day 36/Phenylethanol_200ppm_2.csv,2025-01-21,0,0,[],,14.0,True
+Day 36/Phenylethanol_200ppm_3.csv,2025-01-21,0,0,[],,15.0,True
+Day 36/Phenylethanol_1000ppm_1.csv,2025-01-21,0,0,[],,16.0,True
+Day 36/Phenylethanol_1000ppm_2.csv,2025-01-21,0,0,[],,17.0,True
+Day 36/Phenylethanol_1000ppm_3.csv,2025-01-21,0,0,[],,18.0,True
+Day 37/Diacetyl_0.1ppm_1.csv,2025-01-23,0,0,[],,4.0,True
+Day 37/Diacetyl_0.1ppm_2.csv,2025-01-23,0,0,[],,5.0,True
+Day 37/Diacetyl_0.1ppm_3.csv,2025-01-23,0,0,[],,6.0,True
+Day 37/Diacetyl_1ppm_1.csv,2025-01-23,0,0,[],,7.0,True
+Day 37/Diacetyl_1ppm_2.csv,2025-01-23,0,0,[],,8.0,True
+Day 37/Diacetyl_1ppm_3.csv,2025-01-23,0,0,[],,9.0,True
+Day 37/EtOH_4.csv,2025-01-23,0,0,[],,10.0,True
+Day 37/EtOH_5.csv,2025-01-23,0,0,[],,11.0,True
+Day 37/Phenylethanol_200ppm_1.csv,2025-01-23,0,0,[],,12.0,True
+Day 37/Phenylethanol_200ppm_2.csv,2025-01-23,0,0,[],,13.0,True
+Day 37/Phenylethanol_200ppm_3.csv,2025-01-23,0,0,[],,14.0,True
+Day 37/Phenylethanol_1000ppm_1.csv,2025-01-23,0,0,[],,15.0,True
+Day 37/Phenylethanol_1000ppm_2.csv,2025-01-23,0,0,[],,16.0,True
+Day 37/Phenylethanol_1000ppm_3.csv,2025-01-23,0,0,[],,17.0,True
+Day 38/Diacetyl_0.1ppm_1.csv,2025-01-29,0,0,[],,4.0,True
+Day 38/Diacetyl_0.1ppm_2.csv,2025-01-29,0,0,[],,5.0,True
+Day 38/Diacetyl_0.1ppm_3.csv,2025-01-29,0,0,[],,6.0,True
+Day 38/Diacetyl_1ppm_1.csv,2025-01-29,0,0,[],,7.0,True
+Day 38/Diacetyl_1ppm_2.csv,2025-01-29,0,0,[],,8.0,True
+Day 38/Diacetyl_1ppm_3.csv,2025-01-29,0,0,[],,9.0,True
+Day 38/EtOH_4.csv,2025-01-29,0,0,[],,10.0,True
+Day 38/EtOH_5.csv,2025-01-29,0,0,[],,11.0,True
+Day 38/EtOH_6.csv,2025-01-29,0,0,[],,12.0,True
+Day 38/Phenylethanol_200ppm_1.csv,2025-01-29,0,0,[],,13.0,True
+Day 38/Phenylethanol_200ppm_2.csv,2025-01-29,0,0,[],,14.0,True
+Day 38/Phenylethanol_200ppm_3.csv,2025-01-29,0,0,[],,15.0,True
+Day 38/Phenylethanol_1000ppm_1.csv,2025-01-29,0,0,[],,16.0,True
+Day 38/Phenylethanol_1000ppm_2.csv,2025-01-29,0,0,[],,17.0,True
+Day 38/Phenylethanol_1000ppm_3.csv,2025-01-29,0,0,[],,18.0,True
+Day 39/Diacetyl_0.1ppm_1.csv,2025-01-31,0,0,[],,4.0,True
+Day 39/Diacetyl_0.1ppm_2.csv,2025-01-31,0,0,[],,5.0,True
+Day 39/Diacetyl_0.1ppm_3.csv,2025-01-31,0,0,[],,6.0,True
+Day 39/Diacetyl_1ppm_1.csv,2025-01-31,0,0,[],,7.0,True
+Day 39/Diacetyl_1ppm_2.csv,2025-01-31,0,0,[],,8.0,True
+Day 39/Diacetyl_1ppm_3.csv,2025-01-31,0,0,[],,9.0,True
+Day 39/EtOH_4.csv,2025-01-31,0,0,[],,10.0,True
+Day 39/EtOH_5.csv,2025-01-31,0,0,[],,11.0,True
+Day 39/EtOH_6.csv,2025-01-31,0,0,[],,12.0,True
+Day 39/Phenylethanol_200ppm_1.csv,2025-01-31,0,0,[],,13.0,True
+Day 39/Phenylethanol_200ppm_2.csv,2025-01-31,0,0,[],,14.0,True
+Day 39/Phenylethanol_200ppm_3.csv,2025-01-31,0,0,[],,15.0,True
+Day 39/Phenylethanol_1000ppm_1.csv,2025-01-31,0,0,[],,16.0,True
+Day 39/Phenylethanol_1000ppm_2.csv,2025-01-31,0,0,[],,17.0,True
+Day 39/Phenylethanol_1000ppm_3.csv,2025-01-31,0,0,[],,18.0,True
+Day 40/Diacetyl_0.1ppm_1.csv,2025-02-05,0,0,[],,4.0,True
+Day 40/Diacetyl_0.1ppm_2.csv,2025-02-05,0,0,[],,5.0,True
+Day 40/Diacetyl_0.1ppm_3.csv,2025-02-05,0,0,[],,6.0,True
+Day 40/Diacetyl_1ppm_1.csv,2025-02-05,0,0,[],,7.0,True
+Day 40/Diacetyl_1ppm_2.csv,2025-02-05,0,0,[],,8.0,True
+Day 40/Diacetyl_1ppm_3.csv,2025-02-05,0,0,[],,9.0,True
+Day 40/EtOH_4.csv,2025-02-05,0,0,[],,10.0,True
+Day 40/EtOH_5.csv,2025-02-05,0,0,[],,11.0,True
+Day 40/EtOH_6.csv,2025-02-05,0,0,[],,12.0,True
+Day 40/Phenylethanol_200ppm_1.csv,2025-02-05,0,0,[],,13.0,True
+Day 40/Phenylethanol_200ppm_2.csv,2025-02-05,0,0,[],,14.0,True
+Day 40/Phenylethanol_200ppm_3.csv,2025-02-05,0,0,[],,15.0,True
+Day 40/Phenylethanol_1000ppm_1.csv,2025-02-05,0,0,[],,16.0,True
+Day 40/Phenylethanol_1000ppm_2.csv,2025-02-05,0,0,[],,17.0,True
+Day 40/Phenylethanol_1000ppm_3.csv,2025-02-05,0,0,[],,18.0,True
+Day 1/Diacetyl_0.1ppm_1.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,4.0,True
+Day 1/Diacetyl_0.1ppm_2.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,5.0,True
+Day 1/Diacetyl_0.1ppm_3.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,6.0,True
+Day 1/Diacetyl_1ppm_1.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,7.0,True
+Day 1/Diacetyl_1ppm_2.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,8.0,True
+Day 1/Diacetyl_1ppm_3.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,9.0,True
+Day 1/EtOH_4.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,10.0,True
+Day 1/EtOH_5.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,11.0,True
+Day 1/EtOH_6.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,12.0,True
+Day 1/Phenylethanol_200ppm_1.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,13.0,True
+Day 1/Phenylethanol_200ppm_2.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,14.0,True
+Day 1/Phenylethanol_200ppm_3.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,15.0,True
+Day 1/Phenylethanol_1000ppm_1.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,16.0,True
+Day 1/Phenylethanol_1000ppm_2.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,17.0,True
+Day 1/Phenylethanol_1000ppm_3.csv,2024-02-16,1,1,"[""Day 1/EtOH_1.csv""]",1.0,18.0,True
+Day 2/Diacetyl_0.1ppm_1.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,4.0,True
+Day 2/Diacetyl_0.1ppm_2.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,5.0,True
+Day 2/Diacetyl_0.1ppm_3.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,6.0,True
+Day 2/Diacetyl_1ppm_1.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,7.0,True
+Day 2/Diacetyl_1ppm_2.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,8.0,True
+Day 2/Diacetyl_1ppm_3.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,9.0,True
+Day 2/EtOH_4.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,10.0,True
+Day 2/EtOH_5.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,11.0,True
+Day 2/EtOH_6.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,12.0,True
+Day 2/Phenylethanol_200ppm_1.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,13.0,True
+Day 2/Phenylethanol_200ppm_2.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,14.0,True
+Day 2/Phenylethanol_200ppm_3.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,15.0,True
+Day 2/Phenylethanol_1000ppm_1.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,16.0,True
+Day 2/Phenylethanol_1000ppm_2.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,17.0,True
+Day 2/Phenylethanol_1000ppm_3.csv,2024-02-23,1,1,"[""Day 2/EtOH_1.csv""]",1.0,18.0,True
+Day 3/Diacetyl_0.1ppm_1.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,4.0,True
+Day 3/Diacetyl_0.1ppm_2.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,5.0,True
+Day 3/Diacetyl_0.1ppm_3.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,6.0,True
+Day 3/Diacetyl_1ppm_1.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,7.0,True
+Day 3/Diacetyl_1ppm_2.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,8.0,True
+Day 3/Diacetyl_1ppm_3.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,9.0,True
+Day 3/EtOH_4.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,10.0,True
+Day 3/EtOH_5.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,11.0,True
+Day 3/EtOH_6.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,12.0,True
+Day 3/Phenylethanol_200ppm_1.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,13.0,True
+Day 3/Phenylethanol_200ppm_2.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,14.0,True
+Day 3/Phenylethanol_200ppm_3.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,15.0,True
+Day 3/Phenylethanol_1000ppm_1.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,16.0,True
+Day 3/Phenylethanol_1000ppm_2.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,17.0,True
+Day 3/Phenylethanol_1000ppm_3.csv,2024-03-01,1,1,"[""Day 3/EtOH_1.csv""]",1.0,18.0,True
+Day 4/Diacetyl_0.1ppm_1.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,4.0,True
+Day 4/Diacetyl_0.1ppm_2.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,5.0,True
+Day 4/Diacetyl_0.1ppm_3.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,6.0,True
+Day 4/Diacetyl_1ppm_1.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,7.0,True
+Day 4/Diacetyl_1ppm_2.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,8.0,True
+Day 4/Diacetyl_1ppm_3.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,9.0,True
+Day 4/EtOH_4.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,10.0,True
+Day 4/EtOH_5.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,11.0,True
+Day 4/EtOH_6.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,12.0,True
+Day 4/Phenylethanol_200ppm_1.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,13.0,True
+Day 4/Phenylethanol_200ppm_2.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,14.0,True
+Day 4/Phenylethanol_200ppm_3.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,15.0,True
+Day 4/Phenylethanol_1000ppm_1.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,16.0,True
+Day 4/Phenylethanol_1000ppm_2.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,17.0,True
+Day 4/Phenylethanol_1000ppm_3.csv,2024-03-06,1,1,"[""Day 4/EtOH_1.csv""]",1.0,18.0,True
+Day 5/Diacetyl_0.1ppm_1.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,4.0,True
+Day 5/Diacetyl_0.1ppm_2.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,5.0,True
+Day 5/Diacetyl_0.1ppm_3.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,6.0,True
+Day 5/Diacetyl_1ppm_1.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,7.0,True
+Day 5/Diacetyl_1ppm_2.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,8.0,True
+Day 5/Diacetyl_1ppm_3.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,9.0,True
+Day 5/EtOH_4.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,10.0,True
+Day 5/EtOH_5.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,11.0,True
+Day 5/EtOH_6.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,12.0,True
+Day 5/Phenylethanol_200ppm_1.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,13.0,True
+Day 5/Phenylethanol_200ppm_2.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,14.0,True
+Day 5/Phenylethanol_200ppm_3.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,15.0,True
+Day 5/Phenylethanol_1000ppm_1.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,16.0,True
+Day 5/Phenylethanol_1000ppm_2.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,17.0,True
+Day 5/Phenylethanol_1000ppm_3.csv,2024-03-19,1,1,"[""Day 5/EtOH_1.csv""]",1.0,18.0,True
+Day 6/Diacetyl_0.1ppm_1.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,4.0,True
+Day 6/Diacetyl_0.1ppm_2.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,5.0,True
+Day 6/Diacetyl_0.1ppm_3.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,6.0,True
+Day 6/Diacetyl_1ppm_1.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,7.0,True
+Day 6/Diacetyl_1ppm_2.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,8.0,True
+Day 6/Diacetyl_1ppm_3.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,9.0,True
+Day 6/EtOH_4.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,10.0,True
+Day 6/EtOH_5.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,11.0,True
+Day 6/EtOH_6.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,12.0,True
+Day 6/Phenylethanol_200ppm_1.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,13.0,True
+Day 6/Phenylethanol_200ppm_2.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,14.0,True
+Day 6/Phenylethanol_200ppm_3.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,15.0,True
+Day 6/Phenylethanol_1000ppm_1.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,16.0,True
+Day 6/Phenylethanol_1000ppm_2.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,17.0,True
+Day 6/Phenylethanol_1000ppm_3.csv,2024-03-22,1,1,"[""Day 6/EtOH_1.csv""]",1.0,18.0,True
+Day 7/Diacetyl_0.1ppm_1.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,4.0,True
+Day 7/Diacetyl_0.1ppm_2.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,5.0,True
+Day 7/Diacetyl_0.1ppm_3.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,6.0,True
+Day 7/Diacetyl_1ppm_1.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,7.0,True
+Day 7/Diacetyl_1ppm_2.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,8.0,True
+Day 7/Diacetyl_1ppm_3.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,9.0,True
+Day 7/EtOH_4.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,10.0,True
+Day 7/EtOH_5.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,11.0,True
+Day 7/EtOH_6.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,12.0,True
+Day 7/Phenylethanol_200ppm_1.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,13.0,True
+Day 7/Phenylethanol_200ppm_2.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,14.0,True
+Day 7/Phenylethanol_200ppm_3.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,15.0,True
+Day 7/Phenylethanol_1000ppm_1.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,16.0,True
+Day 7/Phenylethanol_1000ppm_2.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,17.0,True
+Day 7/Phenylethanol_1000ppm_3.csv,2024-04-03,1,1,"[""Day 7/EtOH_1.csv""]",1.0,18.0,True
+Day 8/Diacetyl_0.1ppm_1.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,4.0,True
+Day 8/Diacetyl_0.1ppm_2.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,5.0,True
+Day 8/Diacetyl_0.1ppm_3.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,6.0,True
+Day 8/Diacetyl_1ppm_1.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,7.0,True
+Day 8/Diacetyl_1ppm_2.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,8.0,True
+Day 8/Diacetyl_1ppm_3.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,9.0,True
+Day 8/EtOH_4.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,10.0,True
+Day 8/EtOH_5.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,11.0,True
+Day 8/EtOH_6.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,12.0,True
+Day 8/Phenylethanol_200ppm_1.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,13.0,True
+Day 8/Phenylethanol_200ppm_2.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,14.0,True
+Day 8/Phenylethanol_200ppm_3.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,15.0,True
+Day 8/Phenylethanol_1000ppm_1.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,16.0,True
+Day 8/Phenylethanol_1000ppm_2.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,17.0,True
+Day 8/Phenylethanol_1000ppm_3.csv,2024-04-09,1,1,"[""Day 8/EtOH_1.csv""]",1.0,18.0,True
+Day 9/Diacetyl_0.1ppm_1.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,4.0,True
+Day 9/Diacetyl_0.1ppm_2.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,5.0,True
+Day 9/Diacetyl_0.1ppm_3.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,6.0,True
+Day 9/Diacetyl_1ppm_1.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,7.0,True
+Day 9/Diacetyl_1ppm_2.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,8.0,True
+Day 9/Diacetyl_1ppm_3.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,9.0,True
+Day 9/EtOH_4.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,10.0,True
+Day 9/EtOH_5.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,11.0,True
+Day 9/EtOH_6.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,12.0,True
+Day 9/Phenylethanol_200ppm_1.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,13.0,True
+Day 9/Phenylethanol_200ppm_2.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,14.0,True
+Day 9/Phenylethanol_200ppm_3.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,15.0,True
+Day 9/Phenylethanol_1000ppm_1.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,16.0,True
+Day 9/Phenylethanol_1000ppm_2.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,17.0,True
+Day 9/Phenylethanol_1000ppm_3.csv,2024-04-12,1,1,"[""Day 9/EtOH_1.csv""]",1.0,18.0,True
+Day 10/Diacetyl_0.1ppm_1.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,4.0,True
+Day 10/Diacetyl_0.1ppm_2.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,5.0,True
+Day 10/Diacetyl_0.1ppm_3.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,6.0,True
+Day 10/Diacetyl_1ppm_1.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,7.0,True
+Day 10/Diacetyl_1ppm_2.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,8.0,True
+Day 10/Diacetyl_1ppm_3.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,9.0,True
+Day 10/EtOH_4.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,10.0,True
+Day 10/EtOH_5.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,11.0,True
+Day 10/EtOH_6.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,12.0,True
+Day 10/Phenylethanol_200ppm_1.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,13.0,True
+Day 10/Phenylethanol_200ppm_2.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,14.0,True
+Day 10/Phenylethanol_200ppm_3.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,15.0,True
+Day 10/Phenylethanol_1000ppm_1.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,16.0,True
+Day 10/Phenylethanol_1000ppm_2.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,17.0,True
+Day 10/Phenylethanol_1000ppm_3.csv,2024-04-16,1,1,"[""Day 10/EtOH_1.csv""]",1.0,18.0,True
+Day 11/Diacetyl_0.1ppm_1.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,4.0,True
+Day 11/Diacetyl_0.1ppm_2.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,5.0,True
+Day 11/Diacetyl_0.1ppm_3.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,6.0,True
+Day 11/Diacetyl_1ppm_1.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,7.0,True
+Day 11/Diacetyl_1ppm_2.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,8.0,True
+Day 11/Diacetyl_1ppm_3.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,9.0,True
+Day 11/EtOH_4.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,10.0,True
+Day 11/EtOH_5.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,11.0,True
+Day 11/EtOH_6.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,12.0,True
+Day 11/Phenylethanol_200ppm_1.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,13.0,True
+Day 11/Phenylethanol_200ppm_2.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,14.0,True
+Day 11/Phenylethanol_200ppm_3.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,15.0,True
+Day 11/Phenylethanol_1000ppm_1.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,16.0,True
+Day 11/Phenylethanol_1000ppm_2.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,17.0,True
+Day 11/Phenylethanol_1000ppm_3.csv,2024-04-26,1,1,"[""Day 11/EtOH_1.csv""]",1.0,18.0,True
+Day 12/Diacetyl_0.1ppm_1.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,3.0,True
+Day 12/Diacetyl_0.1ppm_2.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,4.0,True
+Day 12/Diacetyl_0.1ppm_3.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,5.0,True
+Day 12/Diacetyl_1ppm_1.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,6.0,True
+Day 12/Diacetyl_1ppm_2.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,7.0,True
+Day 12/Diacetyl_1ppm_3.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,8.0,True
+Day 12/EtOH_3.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,9.0,True
+Day 12/EtOH_4.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,10.0,True
+Day 12/EtOH_5.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,11.0,True
+Day 12/Phenylethanol_200ppm_1.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,12.0,True
+Day 12/Phenylethanol_200ppm_2.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,13.0,True
+Day 12/Phenylethanol_200ppm_3.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,14.0,True
+Day 12/Phenylethanol_1000ppm_1.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,15.0,True
+Day 12/Phenylethanol_1000ppm_2.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,16.0,True
+Day 12/Phenylethanol_1000ppm_3.csv,2024-05-07,1,1,"[""Day 12/EtOH_1.csv""]",1.0,17.0,True
+Day 13/Diacetyl_0.1ppm_1.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,4.0,True
+Day 13/Diacetyl_0.1ppm_2.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,5.0,True
+Day 13/Diacetyl_0.1ppm_3.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,6.0,True
+Day 13/Diacetyl_1ppm_1.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,7.0,True
+Day 13/Diacetyl_1ppm_2.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,8.0,True
+Day 13/Diacetyl_1ppm_3.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,9.0,True
+Day 13/EtOH_4.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,10.0,True
+Day 13/EtOH_5.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,11.0,True
+Day 13/EtOH_6.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,12.0,True
+Day 13/Phenylethanol_200ppm_1.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,13.0,True
+Day 13/Phenylethanol_200ppm_2.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,14.0,True
+Day 13/Phenylethanol_200ppm_3.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,15.0,True
+Day 13/Phenylethanol_1000ppm_1.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,16.0,True
+Day 13/Phenylethanol_1000ppm_2.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,17.0,True
+Day 13/Phenylethanol_1000ppm_3.csv,2024-05-14,1,1,"[""Day 13/EtOH_1.csv""]",1.0,18.0,True
+Day 15/Diacetyl_0.1ppm_1.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,4.0,True
+Day 15/Diacetyl_0.1ppm_2.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,5.0,True
+Day 15/Diacetyl_0.1ppm_3.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,6.0,True
+Day 15/Diacetyl_1ppm_1.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,7.0,True
+Day 15/Diacetyl_1ppm_2.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,8.0,True
+Day 15/Diacetyl_1ppm_3.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,9.0,True
+Day 15/EtOH_4.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,10.0,True
+Day 15/EtOH_5.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,11.0,True
+Day 15/EtOH_6.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,12.0,True
+Day 15/Phenylethanol_200ppm_1.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,13.0,True
+Day 15/Phenylethanol_200ppm_2.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,14.0,True
+Day 15/Phenylethanol_200ppm_3.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,15.0,True
+Day 15/Phenylethanol_1000ppm_1.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,16.0,True
+Day 15/Phenylethanol_1000ppm_2.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,17.0,True
+Day 15/Phenylethanol_1000ppm_3.csv,2024-06-12,1,1,"[""Day 15/EtOH_1.csv""]",1.0,18.0,True
+Day 16/Diacetyl_0.1ppm_1.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,4.0,True
+Day 16/Diacetyl_0.1ppm_2.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,5.0,True
+Day 16/Diacetyl_0.1ppm_3.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,6.0,True
+Day 16/Diacetyl_1ppm_1.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,7.0,True
+Day 16/Diacetyl_1ppm_2.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,8.0,True
+Day 16/Diacetyl_1ppm_3.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,9.0,True
+Day 16/EtOH_4.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,10.0,True
+Day 16/EtOH_5.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,11.0,True
+Day 16/EtOH_6.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,12.0,True
+Day 16/Phenylethanol_200ppm_1.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,13.0,True
+Day 16/Phenylethanol_200ppm_2.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,14.0,True
+Day 16/Phenylethanol_200ppm_3.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,15.0,True
+Day 16/Phenylethanol_1000ppm_1.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,16.0,True
+Day 16/Phenylethanol_1000ppm_2.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,17.0,True
+Day 16/Phenylethanol_1000ppm_3.csv,2024-06-14,1,1,"[""Day 16/EtOH_1.csv""]",1.0,18.0,True
+Day 17/Diacetyl_0.1ppm_1.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,4.0,True
+Day 17/Diacetyl_0.1ppm_2.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,5.0,True
+Day 17/Diacetyl_0.1ppm_3.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,6.0,True
+Day 17/Diacetyl_1ppm_1.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,7.0,True
+Day 17/Diacetyl_1ppm_2.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,8.0,True
+Day 17/Diacetyl_1ppm_3.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,9.0,True
+Day 17/EtOH_4.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,10.0,True
+Day 17/EtOH_5.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,11.0,True
+Day 17/EtOH_6.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,12.0,True
+Day 17/Phenylethanol_200ppm_1.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,13.0,True
+Day 17/Phenylethanol_200ppm_2.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,14.0,True
+Day 17/Phenylethanol_200ppm_3.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,15.0,True
+Day 17/Phenylethanol_1000ppm_1.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,16.0,True
+Day 17/Phenylethanol_1000ppm_2.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,17.0,True
+Day 17/Phenylethanol_1000ppm_3.csv,2024-06-18,1,1,"[""Day 17/EtOH_1.csv""]",1.0,18.0,True
+Day 18/Diacetyl_0.1ppm_1.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,4.0,True
+Day 18/Diacetyl_0.1ppm_2.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,5.0,True
+Day 18/Diacetyl_0.1ppm_3.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,6.0,True
+Day 18/Diacetyl_1ppm_1.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,7.0,True
+Day 18/Diacetyl_1ppm_2.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,8.0,True
+Day 18/Diacetyl_1ppm_3.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,9.0,True
+Day 18/EtOH_4.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,10.0,True
+Day 18/EtOH_5.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,11.0,True
+Day 18/EtOH_6.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,12.0,True
+Day 18/Phenylethanol_200ppm_1.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,13.0,True
+Day 18/Phenylethanol_200ppm_2.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,14.0,True
+Day 18/Phenylethanol_200ppm_3.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,15.0,True
+Day 18/Phenylethanol_1000ppm_1.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,16.0,True
+Day 18/Phenylethanol_1000ppm_2.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,17.0,True
+Day 18/Phenylethanol_1000ppm_3.csv,2024-06-21,1,1,"[""Day 18/EtOH_1.csv""]",1.0,18.0,True
+Day 19/Diacetyl_0.1ppm_1.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,4.0,True
+Day 19/Diacetyl_0.1ppm_2.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,5.0,True
+Day 19/Diacetyl_0.1ppm_3.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,6.0,True
+Day 19/Diacetyl_1ppm_1.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,7.0,True
+Day 19/Diacetyl_1ppm_2.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,8.0,True
+Day 19/Diacetyl_1ppm_3.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,9.0,True
+Day 19/EtOH_4.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,10.0,True
+Day 19/EtOH_5.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,11.0,True
+Day 19/EtOH_6.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,12.0,True
+Day 19/Phenylethanol_200ppm_1.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,13.0,True
+Day 19/Phenylethanol_200ppm_2.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,14.0,True
+Day 19/Phenylethanol_200ppm_3.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,15.0,True
+Day 19/Phenylethanol_1000ppm_1.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,16.0,True
+Day 19/Phenylethanol_1000ppm_2.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,17.0,True
+Day 19/Phenylethanol_1000ppm_3.csv,2024-07-18,1,1,"[""Day 19/EtOH_1.csv""]",1.0,18.0,True
+Day 20/Diacetyl_0.1ppm_1.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,4.0,True
+Day 20/Diacetyl_0.1ppm_2.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,5.0,True
+Day 20/Diacetyl_0.1ppm_3.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,6.0,True
+Day 20/Diacetyl_1ppm_1.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,7.0,True
+Day 20/Diacetyl_1ppm_2.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,8.0,True
+Day 20/Diacetyl_1ppm_3.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,9.0,True
+Day 20/EtOH_4.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,10.0,True
+Day 20/EtOH_5.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,11.0,True
+Day 20/EtOH_6.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,12.0,True
+Day 20/Phenylethanol_200ppm_1.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,13.0,True
+Day 20/Phenylethanol_200ppm_2.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,14.0,True
+Day 20/Phenylethanol_200ppm_3.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,15.0,True
+Day 20/Phenylethanol_1000ppm_1.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,16.0,True
+Day 20/Phenylethanol_1000ppm_2.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,17.0,True
+Day 20/Phenylethanol_1000ppm_3.csv,2024-08-21,1,1,"[""Day 20/EtOH_1.csv""]",1.0,18.0,True
+Day 21/Diacetyl_0.1ppm_1.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,4.0,True
+Day 21/Diacetyl_0.1ppm_2.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,5.0,True
+Day 21/Diacetyl_0.1ppm_3.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,6.0,True
+Day 21/Diacetyl_1ppm_1.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,7.0,True
+Day 21/Diacetyl_1ppm_2.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,8.0,True
+Day 21/Diacetyl_1ppm_3.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,9.0,True
+Day 21/EtOH_4.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,10.0,True
+Day 21/EtOH_5.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,11.0,True
+Day 21/EtOH_6.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,12.0,True
+Day 21/Phenylethanol_200ppm_1.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,13.0,True
+Day 21/Phenylethanol_200ppm_2.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,14.0,True
+Day 21/Phenylethanol_200ppm_3.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,15.0,True
+Day 21/Phenylethanol_1000ppm_1.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,16.0,True
+Day 21/Phenylethanol_1000ppm_2.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,17.0,True
+Day 21/Phenylethanol_1000ppm_3.csv,2024-08-22,1,1,"[""Day 21/EtOH_1.csv""]",1.0,18.0,True
+Day 22/Diacetyl_0.1ppm_1.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,4.0,True
+Day 22/Diacetyl_0.1ppm_2.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,5.0,True
+Day 22/Diacetyl_0.1ppm_3.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,6.0,True
+Day 22/Diacetyl_1ppm_1.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,7.0,True
+Day 22/Diacetyl_1ppm_2.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,8.0,True
+Day 22/Diacetyl_1ppm_3.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,9.0,True
+Day 22/EtOH_4.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,10.0,True
+Day 22/EtOH_5.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,11.0,True
+Day 22/EtOH_6.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,12.0,True
+Day 22/Phenylethanol_200ppm_1.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,13.0,True
+Day 22/Phenylethanol_200ppm_2.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,14.0,True
+Day 22/Phenylethanol_200ppm_3.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,15.0,True
+Day 22/Phenylethanol_1000ppm_1.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,16.0,True
+Day 22/Phenylethanol_1000ppm_2.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,17.0,True
+Day 22/Phenylethanol_1000ppm_3.csv,2024-08-27,1,1,"[""Day 22/EtOH_1.csv""]",1.0,18.0,True
+Day 23/Diacetyl_0.1ppm_1.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,4.0,True
+Day 23/Diacetyl_0.1ppm_2.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,5.0,True
+Day 23/Diacetyl_0.1ppm_3.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,6.0,True
+Day 23/Diacetyl_1ppm_1.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,7.0,True
+Day 23/Diacetyl_1ppm_2.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,8.0,True
+Day 23/Diacetyl_1ppm_3.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,9.0,True
+Day 23/EtOH_4.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,10.0,True
+Day 23/EtOH_5.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,11.0,True
+Day 23/EtOH_6.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,12.0,True
+Day 23/Phenylethanol_200ppm_1.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,13.0,True
+Day 23/Phenylethanol_200ppm_2.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,14.0,True
+Day 23/Phenylethanol_200ppm_3.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,15.0,True
+Day 23/Phenylethanol_1000ppm_1.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,16.0,True
+Day 23/Phenylethanol_1000ppm_2.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,17.0,True
+Day 23/Phenylethanol_1000ppm_3.csv,2024-08-30,1,1,"[""Day 23/EtOH_1.csv""]",1.0,18.0,True
+Day 24/Diacetyl_0.1ppm_1.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,4.0,True
+Day 24/Diacetyl_0.1ppm_2.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,5.0,True
+Day 24/Diacetyl_0.1ppm_3.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,6.0,True
+Day 24/Diacetyl_1ppm_1.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,7.0,True
+Day 24/Diacetyl_1ppm_2.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,8.0,True
+Day 24/Diacetyl_1ppm_3.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,9.0,True
+Day 24/EtOH_4.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,10.0,True
+Day 24/EtOH_5.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,11.0,True
+Day 24/EtOH_6.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,12.0,True
+Day 24/Phenylethanol_200ppm_1.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,13.0,True
+Day 24/Phenylethanol_200ppm_2.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,14.0,True
+Day 24/Phenylethanol_200ppm_3.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,15.0,True
+Day 24/Phenylethanol_1000ppm_1.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,16.0,True
+Day 24/Phenylethanol_1000ppm_2.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,17.0,True
+Day 24/Phenylethanol_1000ppm_3.csv,2024-09-03,1,1,"[""Day 24/EtOH_1.csv""]",1.0,18.0,True
+Day 25/Diacetyl_0.1ppm_1.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,4.0,True
+Day 25/Diacetyl_0.1ppm_2.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,5.0,True
+Day 25/Diacetyl_0.1ppm_3.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,6.0,True
+Day 25/Diacetyl_1ppm_1.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,7.0,True
+Day 25/Diacetyl_1ppm_2.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,8.0,True
+Day 25/Diacetyl_1ppm_3.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,9.0,True
+Day 25/EtOH_4.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,10.0,True
+Day 25/EtOH_5.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,11.0,True
+Day 25/EtOH_6.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,12.0,True
+Day 25/Phenylethanol_200ppm_1.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,13.0,True
+Day 25/Phenylethanol_200ppm_2.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,14.0,True
+Day 25/Phenylethanol_200ppm_3.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,15.0,True
+Day 25/Phenylethanol_1000ppm_1.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,16.0,True
+Day 25/Phenylethanol_1000ppm_2.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,17.0,True
+Day 25/Phenylethanol_1000ppm_3.csv,2024-09-06,1,1,"[""Day 25/EtOH_1.csv""]",1.0,18.0,True
+Day 26/Diacetyl_0.1ppm_1.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,4.0,True
+Day 26/Diacetyl_0.1ppm_2.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,5.0,True
+Day 26/Diacetyl_0.1ppm_3.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,6.0,True
+Day 26/Diacetyl_1ppm_1.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,7.0,True
+Day 26/Diacetyl_1ppm_2.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,8.0,True
+Day 26/Diacetyl_1ppm_3.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,9.0,True
+Day 26/EtOH_4.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,10.0,True
+Day 26/EtOH_5.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,11.0,True
+Day 26/EtOH_6.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,12.0,True
+Day 26/Phenylethanol_200ppm_1.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,13.0,True
+Day 26/Phenylethanol_200ppm_2.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,14.0,True
+Day 26/Phenylethanol_200ppm_3.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,15.0,True
+Day 26/Phenylethanol_1000ppm_1.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,16.0,True
+Day 26/Phenylethanol_1000ppm_2.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,17.0,True
+Day 26/Phenylethanol_1000ppm_3.csv,2024-10-31,1,1,"[""Day 26/EtOH_1.csv""]",1.0,18.0,True
+Day 27/Diacetyl_0.1ppm_1.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,4.0,True
+Day 27/Diacetyl_0.1ppm_2.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,5.0,True
+Day 27/Diacetyl_0.1ppm_3.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,6.0,True
+Day 27/Diacetyl_1ppm_1.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,7.0,True
+Day 27/Diacetyl_1ppm_2.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,8.0,True
+Day 27/Diacetyl_1ppm_3.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,9.0,True
+Day 27/EtOH_4.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,10.0,True
+Day 27/EtOH_5.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,11.0,True
+Day 27/EtOH_6.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,12.0,True
+Day 27/Phenylethanol_200ppm_1.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,13.0,True
+Day 27/Phenylethanol_200ppm_2.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,14.0,True
+Day 27/Phenylethanol_200ppm_3.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,15.0,True
+Day 27/Phenylethanol_1000ppm_1.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,16.0,True
+Day 27/Phenylethanol_1000ppm_2.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,17.0,True
+Day 27/Phenylethanol_1000ppm_3.csv,2024-11-07,1,1,"[""Day 27/EtOH_1.csv""]",1.0,18.0,True
+Day 28/Diacetyl_0.1ppm_1.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,4.0,True
+Day 28/Diacetyl_0.1ppm_2.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,5.0,True
+Day 28/Diacetyl_0.1ppm_3.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,6.0,True
+Day 28/Diacetyl_1ppm_1.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,7.0,True
+Day 28/Diacetyl_1ppm_2.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,8.0,True
+Day 28/Diacetyl_1ppm_3.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,9.0,True
+Day 28/EtOH_4.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,10.0,True
+Day 28/EtOH_5.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,11.0,True
+Day 28/EtOH_6.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,12.0,True
+Day 28/Phenylethanol_200ppm_1.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,13.0,True
+Day 28/Phenylethanol_200ppm_2.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,14.0,True
+Day 28/Phenylethanol_200ppm_3.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,15.0,True
+Day 28/Phenylethanol_1000ppm_1.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,16.0,True
+Day 28/Phenylethanol_1000ppm_2.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,17.0,True
+Day 28/Phenylethanol_1000ppm_3.csv,2024-11-22,1,1,"[""Day 28/EtOH_1.csv""]",1.0,18.0,True
+Day 29/Diacetyl_0.1ppm_1.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,4.0,True
+Day 29/Diacetyl_0.1ppm_2.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,5.0,True
+Day 29/Diacetyl_0.1ppm_3.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,6.0,True
+Day 29/Diacetyl_1ppm_1.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,7.0,True
+Day 29/Diacetyl_1ppm_2.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,8.0,True
+Day 29/Diacetyl_1ppm_3.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,9.0,True
+Day 29/EtOH_4.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,10.0,True
+Day 29/EtOH_5.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,11.0,True
+Day 29/EtOH_6.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,12.0,True
+Day 29/Phenylethanol_200ppm_1.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,13.0,True
+Day 29/Phenylethanol_200ppm_2.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,14.0,True
+Day 29/Phenylethanol_200ppm_3.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,15.0,True
+Day 29/Phenylethanol_1000ppm_1.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,16.0,True
+Day 29/Phenylethanol_1000ppm_2.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,17.0,True
+Day 29/Phenylethanol_1000ppm_3.csv,2024-11-28,1,1,"[""Day 29/EtOH_1.csv""]",1.0,18.0,True
+Day 30/Diacetyl_0.1ppm_1.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,4.0,True
+Day 30/Diacetyl_0.1ppm_2.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,5.0,True
+Day 30/Diacetyl_0.1ppm_3.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,6.0,True
+Day 30/Diacetyl_1ppm_1.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,7.0,True
+Day 30/Diacetyl_1ppm_2.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,8.0,True
+Day 30/Diacetyl_1ppm_3.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,9.0,True
+Day 30/EtOH_4.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,10.0,True
+Day 30/EtOH_5.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,11.0,True
+Day 30/EtOH_6.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,12.0,True
+Day 30/Phenylethanol_200ppm_1.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,13.0,True
+Day 30/Phenylethanol_200ppm_2.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,14.0,True
+Day 30/Phenylethanol_200ppm_3.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,15.0,True
+Day 30/Phenylethanol_1000ppm_1.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,16.0,True
+Day 30/Phenylethanol_1000ppm_2.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,17.0,True
+Day 30/Phenylethanol_1000ppm_3.csv,2024-12-03,1,1,"[""Day 30/EtOH_1.csv""]",1.0,18.0,True
+Day 31/Diacetyl_0.1ppm_1.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,4.0,True
+Day 31/Diacetyl_0.1ppm_2.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,5.0,True
+Day 31/Diacetyl_0.1ppm_3.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,6.0,True
+Day 31/Diacetyl_1ppm_1.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,7.0,True
+Day 31/Diacetyl_1ppm_2.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,8.0,True
+Day 31/Diacetyl_1ppm_3.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,9.0,True
+Day 31/EtOH_4.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,10.0,True
+Day 31/EtOH_5.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,11.0,True
+Day 31/EtOH_6.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,12.0,True
+Day 31/Phenylethanol_200ppm_1.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,13.0,True
+Day 31/Phenylethanol_200ppm_2.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,14.0,True
+Day 31/Phenylethanol_200ppm_3.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,15.0,True
+Day 31/Phenylethanol_1000ppm_1.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,16.0,True
+Day 31/Phenylethanol_1000ppm_2.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,17.0,True
+Day 31/Phenylethanol_1000ppm_3.csv,2024-12-13,1,1,"[""Day 31/EtOH_1.csv""]",1.0,18.0,True
+Day 32/Diacetyl_0.1ppm_1.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,4.0,True
+Day 32/Diacetyl_0.1ppm_2.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,5.0,True
+Day 32/Diacetyl_0.1ppm_3.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,6.0,True
+Day 32/Diacetyl_1ppm_1.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,7.0,True
+Day 32/Diacetyl_1ppm_2.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,8.0,True
+Day 32/Diacetyl_1ppm_3.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,9.0,True
+Day 32/EtOH_4.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,10.0,True
+Day 32/EtOH_5.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,11.0,True
+Day 32/EtOH_6.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,12.0,True
+Day 32/Phenylethanol_200ppm_1.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,13.0,True
+Day 32/Phenylethanol_200ppm_2.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,14.0,True
+Day 32/Phenylethanol_200ppm_3.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,15.0,True
+Day 32/Phenylethanol_1000ppm_1.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,16.0,True
+Day 32/Phenylethanol_1000ppm_2.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,17.0,True
+Day 32/Phenylethanol_1000ppm_3.csv,2025-01-08,1,1,"[""Day 32/EtOH_1.csv""]",1.0,18.0,True
+Day 33/Diacetyl_0.1ppm_1.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,4.0,True
+Day 33/Diacetyl_0.1ppm_2.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,5.0,True
+Day 33/Diacetyl_0.1ppm_3.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,6.0,True
+Day 33/Diacetyl_1ppm_1.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,7.0,True
+Day 33/Diacetyl_1ppm_2.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,8.0,True
+Day 33/Diacetyl_1ppm_3.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,9.0,True
+Day 33/EtOH_4.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,10.0,True
+Day 33/EtOH_5.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,11.0,True
+Day 33/EtOH_6.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,12.0,True
+Day 33/Phenylethanol_200ppm_1.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,13.0,True
+Day 33/Phenylethanol_200ppm_2.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,14.0,True
+Day 33/Phenylethanol_200ppm_3.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,15.0,True
+Day 33/Phenylethanol_1000ppm_1.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,16.0,True
+Day 33/Phenylethanol_1000ppm_2.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,17.0,True
+Day 33/Phenylethanol_1000ppm_3.csv,2025-01-10,1,1,"[""Day 33/EtOH_1.csv""]",1.0,18.0,True
+Day 34/Diacetyl_0.1ppm_1.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,4.0,True
+Day 34/Diacetyl_0.1ppm_2.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,5.0,True
+Day 34/Diacetyl_0.1ppm_3.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,6.0,True
+Day 34/Diacetyl_1ppm_1.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,7.0,True
+Day 34/Diacetyl_1ppm_2.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,8.0,True
+Day 34/Diacetyl_1ppm_3.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,9.0,True
+Day 34/EtOH_4.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,10.0,True
+Day 34/EtOH_5.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,11.0,True
+Day 34/EtOH_6.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,12.0,True
+Day 34/Phenylethanol_200ppm_1.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,13.0,True
+Day 34/Phenylethanol_200ppm_2.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,14.0,True
+Day 34/Phenylethanol_200ppm_3.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,15.0,True
+Day 34/Phenylethanol_1000ppm_1.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,16.0,True
+Day 34/Phenylethanol_1000ppm_2.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,17.0,True
+Day 34/Phenylethanol_1000ppm_3.csv,2025-01-14,1,1,"[""Day 34/EtOH_1.csv""]",1.0,18.0,True
+Day 35/Diacetyl_0.1ppm_1.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,4.0,True
+Day 35/Diacetyl_0.1ppm_2.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,5.0,True
+Day 35/Diacetyl_0.1ppm_3.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,6.0,True
+Day 35/Diacetyl_1ppm_1.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,7.0,True
+Day 35/Diacetyl_1ppm_2.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,8.0,True
+Day 35/Diacetyl_1ppm_3.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,9.0,True
+Day 35/EtOH_4.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,10.0,True
+Day 35/EtOH_5.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,11.0,True
+Day 35/EtOH_6.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,12.0,True
+Day 35/Phenylethanol_200ppm_1.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,13.0,True
+Day 35/Phenylethanol_200ppm_2.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,14.0,True
+Day 35/Phenylethanol_200ppm_3.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,15.0,True
+Day 35/Phenylethanol_1000ppm_1.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,16.0,True
+Day 35/Phenylethanol_1000ppm_2.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,17.0,True
+Day 35/Phenylethanol_1000ppm_3.csv,2025-01-17,1,1,"[""Day 35/EtOH_1.csv""]",1.0,18.0,True
+Day 36/Diacetyl_0.1ppm_1.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,4.0,True
+Day 36/Diacetyl_0.1ppm_2.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,5.0,True
+Day 36/Diacetyl_0.1ppm_3.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,6.0,True
+Day 36/Diacetyl_1ppm_1.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,7.0,True
+Day 36/Diacetyl_1ppm_2.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,8.0,True
+Day 36/Diacetyl_1ppm_3.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,9.0,True
+Day 36/EtOH_4.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,10.0,True
+Day 36/EtOH_5.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,11.0,True
+Day 36/EtOH_6.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,12.0,True
+Day 36/Phenylethanol_200ppm_1.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,13.0,True
+Day 36/Phenylethanol_200ppm_2.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,14.0,True
+Day 36/Phenylethanol_200ppm_3.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,15.0,True
+Day 36/Phenylethanol_1000ppm_1.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,16.0,True
+Day 36/Phenylethanol_1000ppm_2.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,17.0,True
+Day 36/Phenylethanol_1000ppm_3.csv,2025-01-21,1,1,"[""Day 36/EtOH_1.csv""]",1.0,18.0,True
+Day 37/Diacetyl_0.1ppm_1.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,4.0,True
+Day 37/Diacetyl_0.1ppm_2.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,5.0,True
+Day 37/Diacetyl_0.1ppm_3.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,6.0,True
+Day 37/Diacetyl_1ppm_1.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,7.0,True
+Day 37/Diacetyl_1ppm_2.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,8.0,True
+Day 37/Diacetyl_1ppm_3.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,9.0,True
+Day 37/EtOH_4.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,10.0,True
+Day 37/EtOH_5.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,11.0,True
+Day 37/Phenylethanol_200ppm_1.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,12.0,True
+Day 37/Phenylethanol_200ppm_2.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,13.0,True
+Day 37/Phenylethanol_200ppm_3.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,14.0,True
+Day 37/Phenylethanol_1000ppm_1.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,15.0,True
+Day 37/Phenylethanol_1000ppm_2.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,16.0,True
+Day 37/Phenylethanol_1000ppm_3.csv,2025-01-23,1,1,"[""Day 37/EtOH_1.csv""]",1.0,17.0,True
+Day 38/Diacetyl_0.1ppm_1.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,4.0,True
+Day 38/Diacetyl_0.1ppm_2.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,5.0,True
+Day 38/Diacetyl_0.1ppm_3.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,6.0,True
+Day 38/Diacetyl_1ppm_1.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,7.0,True
+Day 38/Diacetyl_1ppm_2.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,8.0,True
+Day 38/Diacetyl_1ppm_3.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,9.0,True
+Day 38/EtOH_4.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,10.0,True
+Day 38/EtOH_5.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,11.0,True
+Day 38/EtOH_6.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,12.0,True
+Day 38/Phenylethanol_200ppm_1.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,13.0,True
+Day 38/Phenylethanol_200ppm_2.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,14.0,True
+Day 38/Phenylethanol_200ppm_3.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,15.0,True
+Day 38/Phenylethanol_1000ppm_1.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,16.0,True
+Day 38/Phenylethanol_1000ppm_2.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,17.0,True
+Day 38/Phenylethanol_1000ppm_3.csv,2025-01-29,1,1,"[""Day 38/EtOH_1.csv""]",1.0,18.0,True
+Day 39/Diacetyl_0.1ppm_1.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,4.0,True
+Day 39/Diacetyl_0.1ppm_2.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,5.0,True
+Day 39/Diacetyl_0.1ppm_3.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,6.0,True
+Day 39/Diacetyl_1ppm_1.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,7.0,True
+Day 39/Diacetyl_1ppm_2.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,8.0,True
+Day 39/Diacetyl_1ppm_3.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,9.0,True
+Day 39/EtOH_4.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,10.0,True
+Day 39/EtOH_5.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,11.0,True
+Day 39/EtOH_6.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,12.0,True
+Day 39/Phenylethanol_200ppm_1.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,13.0,True
+Day 39/Phenylethanol_200ppm_2.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,14.0,True
+Day 39/Phenylethanol_200ppm_3.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,15.0,True
+Day 39/Phenylethanol_1000ppm_1.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,16.0,True
+Day 39/Phenylethanol_1000ppm_2.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,17.0,True
+Day 39/Phenylethanol_1000ppm_3.csv,2025-01-31,1,1,"[""Day 39/EtOH_1.csv""]",1.0,18.0,True
+Day 40/Diacetyl_0.1ppm_1.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,4.0,True
+Day 40/Diacetyl_0.1ppm_2.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,5.0,True
+Day 40/Diacetyl_0.1ppm_3.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,6.0,True
+Day 40/Diacetyl_1ppm_1.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,7.0,True
+Day 40/Diacetyl_1ppm_2.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,8.0,True
+Day 40/Diacetyl_1ppm_3.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,9.0,True
+Day 40/EtOH_4.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,10.0,True
+Day 40/EtOH_5.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,11.0,True
+Day 40/EtOH_6.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,12.0,True
+Day 40/Phenylethanol_200ppm_1.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,13.0,True
+Day 40/Phenylethanol_200ppm_2.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,14.0,True
+Day 40/Phenylethanol_200ppm_3.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,15.0,True
+Day 40/Phenylethanol_1000ppm_1.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,16.0,True
+Day 40/Phenylethanol_1000ppm_2.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,17.0,True
+Day 40/Phenylethanol_1000ppm_3.csv,2025-02-05,1,1,"[""Day 40/EtOH_1.csv""]",1.0,18.0,True
+Day 1/Diacetyl_0.1ppm_1.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,4.0,True
+Day 1/Diacetyl_0.1ppm_2.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,5.0,True
+Day 1/Diacetyl_0.1ppm_3.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,6.0,True
+Day 1/Diacetyl_1ppm_1.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,7.0,True
+Day 1/Diacetyl_1ppm_2.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,8.0,True
+Day 1/Diacetyl_1ppm_3.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,9.0,True
+Day 1/EtOH_4.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,10.0,True
+Day 1/EtOH_5.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,11.0,True
+Day 1/EtOH_6.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,12.0,True
+Day 1/Phenylethanol_200ppm_1.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,13.0,True
+Day 1/Phenylethanol_200ppm_2.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,14.0,True
+Day 1/Phenylethanol_200ppm_3.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,15.0,True
+Day 1/Phenylethanol_1000ppm_1.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,16.0,True
+Day 1/Phenylethanol_1000ppm_2.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,17.0,True
+Day 1/Phenylethanol_1000ppm_3.csv,2024-02-16,3,3,"[""Day 1/EtOH_1.csv"",""Day 1/EtOH_2.csv"",""Day 1/EtOH_3.csv""]",3.0,18.0,True
+Day 2/Diacetyl_0.1ppm_1.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,4.0,True
+Day 2/Diacetyl_0.1ppm_2.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,5.0,True
+Day 2/Diacetyl_0.1ppm_3.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,6.0,True
+Day 2/Diacetyl_1ppm_1.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,7.0,True
+Day 2/Diacetyl_1ppm_2.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,8.0,True
+Day 2/Diacetyl_1ppm_3.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,9.0,True
+Day 2/EtOH_4.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,10.0,True
+Day 2/EtOH_5.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,11.0,True
+Day 2/EtOH_6.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,12.0,True
+Day 2/Phenylethanol_200ppm_1.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,13.0,True
+Day 2/Phenylethanol_200ppm_2.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,14.0,True
+Day 2/Phenylethanol_200ppm_3.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,15.0,True
+Day 2/Phenylethanol_1000ppm_1.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,16.0,True
+Day 2/Phenylethanol_1000ppm_2.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,17.0,True
+Day 2/Phenylethanol_1000ppm_3.csv,2024-02-23,3,3,"[""Day 2/EtOH_1.csv"",""Day 2/EtOH_2.csv"",""Day 2/EtOH_3.csv""]",3.0,18.0,True
+Day 3/Diacetyl_0.1ppm_1.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,4.0,True
+Day 3/Diacetyl_0.1ppm_2.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,5.0,True
+Day 3/Diacetyl_0.1ppm_3.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,6.0,True
+Day 3/Diacetyl_1ppm_1.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,7.0,True
+Day 3/Diacetyl_1ppm_2.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,8.0,True
+Day 3/Diacetyl_1ppm_3.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,9.0,True
+Day 3/EtOH_4.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,10.0,True
+Day 3/EtOH_5.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,11.0,True
+Day 3/EtOH_6.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,12.0,True
+Day 3/Phenylethanol_200ppm_1.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,13.0,True
+Day 3/Phenylethanol_200ppm_2.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,14.0,True
+Day 3/Phenylethanol_200ppm_3.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,15.0,True
+Day 3/Phenylethanol_1000ppm_1.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,16.0,True
+Day 3/Phenylethanol_1000ppm_2.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,17.0,True
+Day 3/Phenylethanol_1000ppm_3.csv,2024-03-01,3,3,"[""Day 3/EtOH_1.csv"",""Day 3/EtOH_2.csv"",""Day 3/EtOH_3.csv""]",3.0,18.0,True
+Day 4/Diacetyl_0.1ppm_1.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,4.0,True
+Day 4/Diacetyl_0.1ppm_2.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,5.0,True
+Day 4/Diacetyl_0.1ppm_3.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,6.0,True
+Day 4/Diacetyl_1ppm_1.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,7.0,True
+Day 4/Diacetyl_1ppm_2.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,8.0,True
+Day 4/Diacetyl_1ppm_3.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,9.0,True
+Day 4/EtOH_4.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,10.0,True
+Day 4/EtOH_5.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,11.0,True
+Day 4/EtOH_6.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,12.0,True
+Day 4/Phenylethanol_200ppm_1.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,13.0,True
+Day 4/Phenylethanol_200ppm_2.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,14.0,True
+Day 4/Phenylethanol_200ppm_3.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,15.0,True
+Day 4/Phenylethanol_1000ppm_1.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,16.0,True
+Day 4/Phenylethanol_1000ppm_2.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,17.0,True
+Day 4/Phenylethanol_1000ppm_3.csv,2024-03-06,3,3,"[""Day 4/EtOH_1.csv"",""Day 4/EtOH_2.csv"",""Day 4/EtOH_3.csv""]",3.0,18.0,True
+Day 5/Diacetyl_0.1ppm_1.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,4.0,True
+Day 5/Diacetyl_0.1ppm_2.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,5.0,True
+Day 5/Diacetyl_0.1ppm_3.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,6.0,True
+Day 5/Diacetyl_1ppm_1.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,7.0,True
+Day 5/Diacetyl_1ppm_2.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,8.0,True
+Day 5/Diacetyl_1ppm_3.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,9.0,True
+Day 5/EtOH_4.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,10.0,True
+Day 5/EtOH_5.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,11.0,True
+Day 5/EtOH_6.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,12.0,True
+Day 5/Phenylethanol_200ppm_1.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,13.0,True
+Day 5/Phenylethanol_200ppm_2.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,14.0,True
+Day 5/Phenylethanol_200ppm_3.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,15.0,True
+Day 5/Phenylethanol_1000ppm_1.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,16.0,True
+Day 5/Phenylethanol_1000ppm_2.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,17.0,True
+Day 5/Phenylethanol_1000ppm_3.csv,2024-03-19,3,3,"[""Day 5/EtOH_1.csv"",""Day 5/EtOH_2.csv"",""Day 5/EtOH_3.csv""]",3.0,18.0,True
+Day 6/Diacetyl_0.1ppm_1.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,4.0,True
+Day 6/Diacetyl_0.1ppm_2.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,5.0,True
+Day 6/Diacetyl_0.1ppm_3.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,6.0,True
+Day 6/Diacetyl_1ppm_1.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,7.0,True
+Day 6/Diacetyl_1ppm_2.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,8.0,True
+Day 6/Diacetyl_1ppm_3.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,9.0,True
+Day 6/EtOH_4.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,10.0,True
+Day 6/EtOH_5.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,11.0,True
+Day 6/EtOH_6.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,12.0,True
+Day 6/Phenylethanol_200ppm_1.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,13.0,True
+Day 6/Phenylethanol_200ppm_2.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,14.0,True
+Day 6/Phenylethanol_200ppm_3.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,15.0,True
+Day 6/Phenylethanol_1000ppm_1.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,16.0,True
+Day 6/Phenylethanol_1000ppm_2.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,17.0,True
+Day 6/Phenylethanol_1000ppm_3.csv,2024-03-22,3,3,"[""Day 6/EtOH_1.csv"",""Day 6/EtOH_2.csv"",""Day 6/EtOH_3.csv""]",3.0,18.0,True
+Day 7/Diacetyl_0.1ppm_1.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,4.0,True
+Day 7/Diacetyl_0.1ppm_2.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,5.0,True
+Day 7/Diacetyl_0.1ppm_3.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,6.0,True
+Day 7/Diacetyl_1ppm_1.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,7.0,True
+Day 7/Diacetyl_1ppm_2.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,8.0,True
+Day 7/Diacetyl_1ppm_3.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,9.0,True
+Day 7/EtOH_4.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,10.0,True
+Day 7/EtOH_5.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,11.0,True
+Day 7/EtOH_6.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,12.0,True
+Day 7/Phenylethanol_200ppm_1.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,13.0,True
+Day 7/Phenylethanol_200ppm_2.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,14.0,True
+Day 7/Phenylethanol_200ppm_3.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,15.0,True
+Day 7/Phenylethanol_1000ppm_1.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,16.0,True
+Day 7/Phenylethanol_1000ppm_2.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,17.0,True
+Day 7/Phenylethanol_1000ppm_3.csv,2024-04-03,3,3,"[""Day 7/EtOH_1.csv"",""Day 7/EtOH_2.csv"",""Day 7/EtOH_3.csv""]",3.0,18.0,True
+Day 8/Diacetyl_0.1ppm_1.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,4.0,True
+Day 8/Diacetyl_0.1ppm_2.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,5.0,True
+Day 8/Diacetyl_0.1ppm_3.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,6.0,True
+Day 8/Diacetyl_1ppm_1.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,7.0,True
+Day 8/Diacetyl_1ppm_2.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,8.0,True
+Day 8/Diacetyl_1ppm_3.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,9.0,True
+Day 8/EtOH_4.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,10.0,True
+Day 8/EtOH_5.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,11.0,True
+Day 8/EtOH_6.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,12.0,True
+Day 8/Phenylethanol_200ppm_1.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,13.0,True
+Day 8/Phenylethanol_200ppm_2.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,14.0,True
+Day 8/Phenylethanol_200ppm_3.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,15.0,True
+Day 8/Phenylethanol_1000ppm_1.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,16.0,True
+Day 8/Phenylethanol_1000ppm_2.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,17.0,True
+Day 8/Phenylethanol_1000ppm_3.csv,2024-04-09,3,3,"[""Day 8/EtOH_1.csv"",""Day 8/EtOH_2.csv"",""Day 8/EtOH_3.csv""]",3.0,18.0,True
+Day 9/Diacetyl_0.1ppm_1.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,4.0,True
+Day 9/Diacetyl_0.1ppm_2.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,5.0,True
+Day 9/Diacetyl_0.1ppm_3.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,6.0,True
+Day 9/Diacetyl_1ppm_1.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,7.0,True
+Day 9/Diacetyl_1ppm_2.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,8.0,True
+Day 9/Diacetyl_1ppm_3.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,9.0,True
+Day 9/EtOH_4.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,10.0,True
+Day 9/EtOH_5.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,11.0,True
+Day 9/EtOH_6.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,12.0,True
+Day 9/Phenylethanol_200ppm_1.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,13.0,True
+Day 9/Phenylethanol_200ppm_2.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,14.0,True
+Day 9/Phenylethanol_200ppm_3.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,15.0,True
+Day 9/Phenylethanol_1000ppm_1.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,16.0,True
+Day 9/Phenylethanol_1000ppm_2.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,17.0,True
+Day 9/Phenylethanol_1000ppm_3.csv,2024-04-12,3,3,"[""Day 9/EtOH_1.csv"",""Day 9/EtOH_2.csv"",""Day 9/EtOH_3.csv""]",3.0,18.0,True
+Day 10/Diacetyl_0.1ppm_1.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,4.0,True
+Day 10/Diacetyl_0.1ppm_2.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,5.0,True
+Day 10/Diacetyl_0.1ppm_3.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,6.0,True
+Day 10/Diacetyl_1ppm_1.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,7.0,True
+Day 10/Diacetyl_1ppm_2.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,8.0,True
+Day 10/Diacetyl_1ppm_3.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,9.0,True
+Day 10/EtOH_4.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,10.0,True
+Day 10/EtOH_5.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,11.0,True
+Day 10/EtOH_6.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,12.0,True
+Day 10/Phenylethanol_200ppm_1.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,13.0,True
+Day 10/Phenylethanol_200ppm_2.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,14.0,True
+Day 10/Phenylethanol_200ppm_3.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,15.0,True
+Day 10/Phenylethanol_1000ppm_1.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,16.0,True
+Day 10/Phenylethanol_1000ppm_2.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,17.0,True
+Day 10/Phenylethanol_1000ppm_3.csv,2024-04-16,3,3,"[""Day 10/EtOH_1.csv"",""Day 10/EtOH_2.csv"",""Day 10/EtOH_3.csv""]",3.0,18.0,True
+Day 11/Diacetyl_0.1ppm_1.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,4.0,True
+Day 11/Diacetyl_0.1ppm_2.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,5.0,True
+Day 11/Diacetyl_0.1ppm_3.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,6.0,True
+Day 11/Diacetyl_1ppm_1.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,7.0,True
+Day 11/Diacetyl_1ppm_2.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,8.0,True
+Day 11/Diacetyl_1ppm_3.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,9.0,True
+Day 11/EtOH_4.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,10.0,True
+Day 11/EtOH_5.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,11.0,True
+Day 11/EtOH_6.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,12.0,True
+Day 11/Phenylethanol_200ppm_1.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,13.0,True
+Day 11/Phenylethanol_200ppm_2.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,14.0,True
+Day 11/Phenylethanol_200ppm_3.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,15.0,True
+Day 11/Phenylethanol_1000ppm_1.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,16.0,True
+Day 11/Phenylethanol_1000ppm_2.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,17.0,True
+Day 11/Phenylethanol_1000ppm_3.csv,2024-04-26,3,3,"[""Day 11/EtOH_1.csv"",""Day 11/EtOH_2.csv"",""Day 11/EtOH_3.csv""]",3.0,18.0,True
+Day 12/Diacetyl_0.1ppm_1.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,3.0,True
+Day 12/Diacetyl_0.1ppm_2.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,4.0,True
+Day 12/Diacetyl_0.1ppm_3.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,5.0,True
+Day 12/Diacetyl_1ppm_1.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,6.0,True
+Day 12/Diacetyl_1ppm_2.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,7.0,True
+Day 12/Diacetyl_1ppm_3.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,8.0,True
+Day 12/EtOH_3.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,9.0,True
+Day 12/EtOH_4.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,10.0,True
+Day 12/EtOH_5.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,11.0,True
+Day 12/Phenylethanol_200ppm_1.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,12.0,True
+Day 12/Phenylethanol_200ppm_2.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,13.0,True
+Day 12/Phenylethanol_200ppm_3.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,14.0,True
+Day 12/Phenylethanol_1000ppm_1.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,15.0,True
+Day 12/Phenylethanol_1000ppm_2.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,16.0,True
+Day 12/Phenylethanol_1000ppm_3.csv,2024-05-07,3,2,"[""Day 12/EtOH_1.csv"",""Day 12/EtOH_2.csv""]",2.0,17.0,True
+Day 13/Diacetyl_0.1ppm_1.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,4.0,True
+Day 13/Diacetyl_0.1ppm_2.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,5.0,True
+Day 13/Diacetyl_0.1ppm_3.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,6.0,True
+Day 13/Diacetyl_1ppm_1.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,7.0,True
+Day 13/Diacetyl_1ppm_2.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,8.0,True
+Day 13/Diacetyl_1ppm_3.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,9.0,True
+Day 13/EtOH_4.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,10.0,True
+Day 13/EtOH_5.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,11.0,True
+Day 13/EtOH_6.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,12.0,True
+Day 13/Phenylethanol_200ppm_1.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,13.0,True
+Day 13/Phenylethanol_200ppm_2.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,14.0,True
+Day 13/Phenylethanol_200ppm_3.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,15.0,True
+Day 13/Phenylethanol_1000ppm_1.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,16.0,True
+Day 13/Phenylethanol_1000ppm_2.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,17.0,True
+Day 13/Phenylethanol_1000ppm_3.csv,2024-05-14,3,3,"[""Day 13/EtOH_1.csv"",""Day 13/EtOH_2.csv"",""Day 13/EtOH_3.csv""]",3.0,18.0,True
+Day 15/Diacetyl_0.1ppm_1.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,4.0,True
+Day 15/Diacetyl_0.1ppm_2.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,5.0,True
+Day 15/Diacetyl_0.1ppm_3.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,6.0,True
+Day 15/Diacetyl_1ppm_1.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,7.0,True
+Day 15/Diacetyl_1ppm_2.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,8.0,True
+Day 15/Diacetyl_1ppm_3.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,9.0,True
+Day 15/EtOH_4.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,10.0,True
+Day 15/EtOH_5.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,11.0,True
+Day 15/EtOH_6.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,12.0,True
+Day 15/Phenylethanol_200ppm_1.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,13.0,True
+Day 15/Phenylethanol_200ppm_2.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,14.0,True
+Day 15/Phenylethanol_200ppm_3.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,15.0,True
+Day 15/Phenylethanol_1000ppm_1.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,16.0,True
+Day 15/Phenylethanol_1000ppm_2.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,17.0,True
+Day 15/Phenylethanol_1000ppm_3.csv,2024-06-12,3,3,"[""Day 15/EtOH_1.csv"",""Day 15/EtOH_2.csv"",""Day 15/EtOH_3.csv""]",3.0,18.0,True
+Day 16/Diacetyl_0.1ppm_1.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,4.0,True
+Day 16/Diacetyl_0.1ppm_2.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,5.0,True
+Day 16/Diacetyl_0.1ppm_3.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,6.0,True
+Day 16/Diacetyl_1ppm_1.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,7.0,True
+Day 16/Diacetyl_1ppm_2.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,8.0,True
+Day 16/Diacetyl_1ppm_3.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,9.0,True
+Day 16/EtOH_4.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,10.0,True
+Day 16/EtOH_5.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,11.0,True
+Day 16/EtOH_6.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,12.0,True
+Day 16/Phenylethanol_200ppm_1.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,13.0,True
+Day 16/Phenylethanol_200ppm_2.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,14.0,True
+Day 16/Phenylethanol_200ppm_3.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,15.0,True
+Day 16/Phenylethanol_1000ppm_1.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,16.0,True
+Day 16/Phenylethanol_1000ppm_2.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,17.0,True
+Day 16/Phenylethanol_1000ppm_3.csv,2024-06-14,3,3,"[""Day 16/EtOH_1.csv"",""Day 16/EtOH_2.csv"",""Day 16/EtOH_3.csv""]",3.0,18.0,True
+Day 17/Diacetyl_0.1ppm_1.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,4.0,True
+Day 17/Diacetyl_0.1ppm_2.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,5.0,True
+Day 17/Diacetyl_0.1ppm_3.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,6.0,True
+Day 17/Diacetyl_1ppm_1.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,7.0,True
+Day 17/Diacetyl_1ppm_2.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,8.0,True
+Day 17/Diacetyl_1ppm_3.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,9.0,True
+Day 17/EtOH_4.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,10.0,True
+Day 17/EtOH_5.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,11.0,True
+Day 17/EtOH_6.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,12.0,True
+Day 17/Phenylethanol_200ppm_1.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,13.0,True
+Day 17/Phenylethanol_200ppm_2.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,14.0,True
+Day 17/Phenylethanol_200ppm_3.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,15.0,True
+Day 17/Phenylethanol_1000ppm_1.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,16.0,True
+Day 17/Phenylethanol_1000ppm_2.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,17.0,True
+Day 17/Phenylethanol_1000ppm_3.csv,2024-06-18,3,3,"[""Day 17/EtOH_1.csv"",""Day 17/EtOH_2.csv"",""Day 17/EtOH_3.csv""]",3.0,18.0,True
+Day 18/Diacetyl_0.1ppm_1.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,4.0,True
+Day 18/Diacetyl_0.1ppm_2.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,5.0,True
+Day 18/Diacetyl_0.1ppm_3.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,6.0,True
+Day 18/Diacetyl_1ppm_1.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,7.0,True
+Day 18/Diacetyl_1ppm_2.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,8.0,True
+Day 18/Diacetyl_1ppm_3.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,9.0,True
+Day 18/EtOH_4.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,10.0,True
+Day 18/EtOH_5.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,11.0,True
+Day 18/EtOH_6.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,12.0,True
+Day 18/Phenylethanol_200ppm_1.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,13.0,True
+Day 18/Phenylethanol_200ppm_2.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,14.0,True
+Day 18/Phenylethanol_200ppm_3.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,15.0,True
+Day 18/Phenylethanol_1000ppm_1.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,16.0,True
+Day 18/Phenylethanol_1000ppm_2.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,17.0,True
+Day 18/Phenylethanol_1000ppm_3.csv,2024-06-21,3,3,"[""Day 18/EtOH_1.csv"",""Day 18/EtOH_2.csv"",""Day 18/EtOH_3.csv""]",3.0,18.0,True
+Day 19/Diacetyl_0.1ppm_1.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,4.0,True
+Day 19/Diacetyl_0.1ppm_2.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,5.0,True
+Day 19/Diacetyl_0.1ppm_3.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,6.0,True
+Day 19/Diacetyl_1ppm_1.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,7.0,True
+Day 19/Diacetyl_1ppm_2.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,8.0,True
+Day 19/Diacetyl_1ppm_3.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,9.0,True
+Day 19/EtOH_4.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,10.0,True
+Day 19/EtOH_5.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,11.0,True
+Day 19/EtOH_6.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,12.0,True
+Day 19/Phenylethanol_200ppm_1.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,13.0,True
+Day 19/Phenylethanol_200ppm_2.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,14.0,True
+Day 19/Phenylethanol_200ppm_3.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,15.0,True
+Day 19/Phenylethanol_1000ppm_1.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,16.0,True
+Day 19/Phenylethanol_1000ppm_2.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,17.0,True
+Day 19/Phenylethanol_1000ppm_3.csv,2024-07-18,3,3,"[""Day 19/EtOH_1.csv"",""Day 19/EtOH_2.csv"",""Day 19/EtOH_3.csv""]",3.0,18.0,True
+Day 20/Diacetyl_0.1ppm_1.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,4.0,True
+Day 20/Diacetyl_0.1ppm_2.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,5.0,True
+Day 20/Diacetyl_0.1ppm_3.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,6.0,True
+Day 20/Diacetyl_1ppm_1.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,7.0,True
+Day 20/Diacetyl_1ppm_2.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,8.0,True
+Day 20/Diacetyl_1ppm_3.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,9.0,True
+Day 20/EtOH_4.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,10.0,True
+Day 20/EtOH_5.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,11.0,True
+Day 20/EtOH_6.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,12.0,True
+Day 20/Phenylethanol_200ppm_1.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,13.0,True
+Day 20/Phenylethanol_200ppm_2.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,14.0,True
+Day 20/Phenylethanol_200ppm_3.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,15.0,True
+Day 20/Phenylethanol_1000ppm_1.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,16.0,True
+Day 20/Phenylethanol_1000ppm_2.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,17.0,True
+Day 20/Phenylethanol_1000ppm_3.csv,2024-08-21,3,3,"[""Day 20/EtOH_1.csv"",""Day 20/EtOH_2.csv"",""Day 20/EtOH_3.csv""]",3.0,18.0,True
+Day 21/Diacetyl_0.1ppm_1.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,4.0,True
+Day 21/Diacetyl_0.1ppm_2.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,5.0,True
+Day 21/Diacetyl_0.1ppm_3.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,6.0,True
+Day 21/Diacetyl_1ppm_1.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,7.0,True
+Day 21/Diacetyl_1ppm_2.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,8.0,True
+Day 21/Diacetyl_1ppm_3.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,9.0,True
+Day 21/EtOH_4.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,10.0,True
+Day 21/EtOH_5.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,11.0,True
+Day 21/EtOH_6.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,12.0,True
+Day 21/Phenylethanol_200ppm_1.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,13.0,True
+Day 21/Phenylethanol_200ppm_2.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,14.0,True
+Day 21/Phenylethanol_200ppm_3.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,15.0,True
+Day 21/Phenylethanol_1000ppm_1.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,16.0,True
+Day 21/Phenylethanol_1000ppm_2.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,17.0,True
+Day 21/Phenylethanol_1000ppm_3.csv,2024-08-22,3,3,"[""Day 21/EtOH_1.csv"",""Day 21/EtOH_2.csv"",""Day 21/EtOH_3.csv""]",3.0,18.0,True
+Day 22/Diacetyl_0.1ppm_1.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,4.0,True
+Day 22/Diacetyl_0.1ppm_2.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,5.0,True
+Day 22/Diacetyl_0.1ppm_3.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,6.0,True
+Day 22/Diacetyl_1ppm_1.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,7.0,True
+Day 22/Diacetyl_1ppm_2.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,8.0,True
+Day 22/Diacetyl_1ppm_3.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,9.0,True
+Day 22/EtOH_4.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,10.0,True
+Day 22/EtOH_5.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,11.0,True
+Day 22/EtOH_6.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,12.0,True
+Day 22/Phenylethanol_200ppm_1.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,13.0,True
+Day 22/Phenylethanol_200ppm_2.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,14.0,True
+Day 22/Phenylethanol_200ppm_3.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,15.0,True
+Day 22/Phenylethanol_1000ppm_1.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,16.0,True
+Day 22/Phenylethanol_1000ppm_2.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,17.0,True
+Day 22/Phenylethanol_1000ppm_3.csv,2024-08-27,3,3,"[""Day 22/EtOH_1.csv"",""Day 22/EtOH_2.csv"",""Day 22/EtOH_3.csv""]",3.0,18.0,True
+Day 23/Diacetyl_0.1ppm_1.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,4.0,True
+Day 23/Diacetyl_0.1ppm_2.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,5.0,True
+Day 23/Diacetyl_0.1ppm_3.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,6.0,True
+Day 23/Diacetyl_1ppm_1.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,7.0,True
+Day 23/Diacetyl_1ppm_2.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,8.0,True
+Day 23/Diacetyl_1ppm_3.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,9.0,True
+Day 23/EtOH_4.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,10.0,True
+Day 23/EtOH_5.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,11.0,True
+Day 23/EtOH_6.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,12.0,True
+Day 23/Phenylethanol_200ppm_1.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,13.0,True
+Day 23/Phenylethanol_200ppm_2.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,14.0,True
+Day 23/Phenylethanol_200ppm_3.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,15.0,True
+Day 23/Phenylethanol_1000ppm_1.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,16.0,True
+Day 23/Phenylethanol_1000ppm_2.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,17.0,True
+Day 23/Phenylethanol_1000ppm_3.csv,2024-08-30,3,3,"[""Day 23/EtOH_1.csv"",""Day 23/EtOH_2.csv"",""Day 23/EtOH_3.csv""]",3.0,18.0,True
+Day 24/Diacetyl_0.1ppm_1.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,4.0,True
+Day 24/Diacetyl_0.1ppm_2.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,5.0,True
+Day 24/Diacetyl_0.1ppm_3.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,6.0,True
+Day 24/Diacetyl_1ppm_1.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,7.0,True
+Day 24/Diacetyl_1ppm_2.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,8.0,True
+Day 24/Diacetyl_1ppm_3.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,9.0,True
+Day 24/EtOH_4.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,10.0,True
+Day 24/EtOH_5.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,11.0,True
+Day 24/EtOH_6.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,12.0,True
+Day 24/Phenylethanol_200ppm_1.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,13.0,True
+Day 24/Phenylethanol_200ppm_2.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,14.0,True
+Day 24/Phenylethanol_200ppm_3.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,15.0,True
+Day 24/Phenylethanol_1000ppm_1.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,16.0,True
+Day 24/Phenylethanol_1000ppm_2.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,17.0,True
+Day 24/Phenylethanol_1000ppm_3.csv,2024-09-03,3,3,"[""Day 24/EtOH_1.csv"",""Day 24/EtOH_2.csv"",""Day 24/EtOH_3.csv""]",3.0,18.0,True
+Day 25/Diacetyl_0.1ppm_1.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,4.0,True
+Day 25/Diacetyl_0.1ppm_2.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,5.0,True
+Day 25/Diacetyl_0.1ppm_3.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,6.0,True
+Day 25/Diacetyl_1ppm_1.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,7.0,True
+Day 25/Diacetyl_1ppm_2.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,8.0,True
+Day 25/Diacetyl_1ppm_3.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,9.0,True
+Day 25/EtOH_4.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,10.0,True
+Day 25/EtOH_5.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,11.0,True
+Day 25/EtOH_6.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,12.0,True
+Day 25/Phenylethanol_200ppm_1.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,13.0,True
+Day 25/Phenylethanol_200ppm_2.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,14.0,True
+Day 25/Phenylethanol_200ppm_3.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,15.0,True
+Day 25/Phenylethanol_1000ppm_1.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,16.0,True
+Day 25/Phenylethanol_1000ppm_2.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,17.0,True
+Day 25/Phenylethanol_1000ppm_3.csv,2024-09-06,3,3,"[""Day 25/EtOH_1.csv"",""Day 25/EtOH_2.csv"",""Day 25/EtOH_3.csv""]",3.0,18.0,True
+Day 26/Diacetyl_0.1ppm_1.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,4.0,True
+Day 26/Diacetyl_0.1ppm_2.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,5.0,True
+Day 26/Diacetyl_0.1ppm_3.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,6.0,True
+Day 26/Diacetyl_1ppm_1.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,7.0,True
+Day 26/Diacetyl_1ppm_2.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,8.0,True
+Day 26/Diacetyl_1ppm_3.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,9.0,True
+Day 26/EtOH_4.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,10.0,True
+Day 26/EtOH_5.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,11.0,True
+Day 26/EtOH_6.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,12.0,True
+Day 26/Phenylethanol_200ppm_1.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,13.0,True
+Day 26/Phenylethanol_200ppm_2.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,14.0,True
+Day 26/Phenylethanol_200ppm_3.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,15.0,True
+Day 26/Phenylethanol_1000ppm_1.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,16.0,True
+Day 26/Phenylethanol_1000ppm_2.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,17.0,True
+Day 26/Phenylethanol_1000ppm_3.csv,2024-10-31,3,3,"[""Day 26/EtOH_1.csv"",""Day 26/EtOH_2.csv"",""Day 26/EtOH_3.csv""]",3.0,18.0,True
+Day 27/Diacetyl_0.1ppm_1.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,4.0,True
+Day 27/Diacetyl_0.1ppm_2.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,5.0,True
+Day 27/Diacetyl_0.1ppm_3.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,6.0,True
+Day 27/Diacetyl_1ppm_1.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,7.0,True
+Day 27/Diacetyl_1ppm_2.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,8.0,True
+Day 27/Diacetyl_1ppm_3.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,9.0,True
+Day 27/EtOH_4.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,10.0,True
+Day 27/EtOH_5.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,11.0,True
+Day 27/EtOH_6.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,12.0,True
+Day 27/Phenylethanol_200ppm_1.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,13.0,True
+Day 27/Phenylethanol_200ppm_2.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,14.0,True
+Day 27/Phenylethanol_200ppm_3.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,15.0,True
+Day 27/Phenylethanol_1000ppm_1.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,16.0,True
+Day 27/Phenylethanol_1000ppm_2.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,17.0,True
+Day 27/Phenylethanol_1000ppm_3.csv,2024-11-07,3,3,"[""Day 27/EtOH_1.csv"",""Day 27/EtOH_2.csv"",""Day 27/EtOH_3.csv""]",3.0,18.0,True
+Day 28/Diacetyl_0.1ppm_1.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,4.0,True
+Day 28/Diacetyl_0.1ppm_2.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,5.0,True
+Day 28/Diacetyl_0.1ppm_3.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,6.0,True
+Day 28/Diacetyl_1ppm_1.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,7.0,True
+Day 28/Diacetyl_1ppm_2.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,8.0,True
+Day 28/Diacetyl_1ppm_3.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,9.0,True
+Day 28/EtOH_4.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,10.0,True
+Day 28/EtOH_5.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,11.0,True
+Day 28/EtOH_6.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,12.0,True
+Day 28/Phenylethanol_200ppm_1.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,13.0,True
+Day 28/Phenylethanol_200ppm_2.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,14.0,True
+Day 28/Phenylethanol_200ppm_3.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,15.0,True
+Day 28/Phenylethanol_1000ppm_1.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,16.0,True
+Day 28/Phenylethanol_1000ppm_2.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,17.0,True
+Day 28/Phenylethanol_1000ppm_3.csv,2024-11-22,3,3,"[""Day 28/EtOH_1.csv"",""Day 28/EtOH_2.csv"",""Day 28/EtOH_3.csv""]",3.0,18.0,True
+Day 29/Diacetyl_0.1ppm_1.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,4.0,True
+Day 29/Diacetyl_0.1ppm_2.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,5.0,True
+Day 29/Diacetyl_0.1ppm_3.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,6.0,True
+Day 29/Diacetyl_1ppm_1.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,7.0,True
+Day 29/Diacetyl_1ppm_2.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,8.0,True
+Day 29/Diacetyl_1ppm_3.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,9.0,True
+Day 29/EtOH_4.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,10.0,True
+Day 29/EtOH_5.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,11.0,True
+Day 29/EtOH_6.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,12.0,True
+Day 29/Phenylethanol_200ppm_1.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,13.0,True
+Day 29/Phenylethanol_200ppm_2.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,14.0,True
+Day 29/Phenylethanol_200ppm_3.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,15.0,True
+Day 29/Phenylethanol_1000ppm_1.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,16.0,True
+Day 29/Phenylethanol_1000ppm_2.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,17.0,True
+Day 29/Phenylethanol_1000ppm_3.csv,2024-11-28,3,3,"[""Day 29/EtOH_1.csv"",""Day 29/EtOH_2.csv"",""Day 29/EtOH_3.csv""]",3.0,18.0,True
+Day 30/Diacetyl_0.1ppm_1.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,4.0,True
+Day 30/Diacetyl_0.1ppm_2.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,5.0,True
+Day 30/Diacetyl_0.1ppm_3.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,6.0,True
+Day 30/Diacetyl_1ppm_1.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,7.0,True
+Day 30/Diacetyl_1ppm_2.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,8.0,True
+Day 30/Diacetyl_1ppm_3.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,9.0,True
+Day 30/EtOH_4.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,10.0,True
+Day 30/EtOH_5.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,11.0,True
+Day 30/EtOH_6.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,12.0,True
+Day 30/Phenylethanol_200ppm_1.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,13.0,True
+Day 30/Phenylethanol_200ppm_2.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,14.0,True
+Day 30/Phenylethanol_200ppm_3.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,15.0,True
+Day 30/Phenylethanol_1000ppm_1.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,16.0,True
+Day 30/Phenylethanol_1000ppm_2.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,17.0,True
+Day 30/Phenylethanol_1000ppm_3.csv,2024-12-03,3,3,"[""Day 30/EtOH_1.csv"",""Day 30/EtOH_2.csv"",""Day 30/EtOH_3.csv""]",3.0,18.0,True
+Day 31/Diacetyl_0.1ppm_1.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,4.0,True
+Day 31/Diacetyl_0.1ppm_2.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,5.0,True
+Day 31/Diacetyl_0.1ppm_3.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,6.0,True
+Day 31/Diacetyl_1ppm_1.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,7.0,True
+Day 31/Diacetyl_1ppm_2.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,8.0,True
+Day 31/Diacetyl_1ppm_3.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,9.0,True
+Day 31/EtOH_4.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,10.0,True
+Day 31/EtOH_5.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,11.0,True
+Day 31/EtOH_6.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,12.0,True
+Day 31/Phenylethanol_200ppm_1.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,13.0,True
+Day 31/Phenylethanol_200ppm_2.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,14.0,True
+Day 31/Phenylethanol_200ppm_3.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,15.0,True
+Day 31/Phenylethanol_1000ppm_1.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,16.0,True
+Day 31/Phenylethanol_1000ppm_2.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,17.0,True
+Day 31/Phenylethanol_1000ppm_3.csv,2024-12-13,3,3,"[""Day 31/EtOH_1.csv"",""Day 31/EtOH_2.csv"",""Day 31/EtOH_3.csv""]",3.0,18.0,True
+Day 32/Diacetyl_0.1ppm_1.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,4.0,True
+Day 32/Diacetyl_0.1ppm_2.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,5.0,True
+Day 32/Diacetyl_0.1ppm_3.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,6.0,True
+Day 32/Diacetyl_1ppm_1.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,7.0,True
+Day 32/Diacetyl_1ppm_2.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,8.0,True
+Day 32/Diacetyl_1ppm_3.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,9.0,True
+Day 32/EtOH_4.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,10.0,True
+Day 32/EtOH_5.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,11.0,True
+Day 32/EtOH_6.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,12.0,True
+Day 32/Phenylethanol_200ppm_1.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,13.0,True
+Day 32/Phenylethanol_200ppm_2.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,14.0,True
+Day 32/Phenylethanol_200ppm_3.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,15.0,True
+Day 32/Phenylethanol_1000ppm_1.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,16.0,True
+Day 32/Phenylethanol_1000ppm_2.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,17.0,True
+Day 32/Phenylethanol_1000ppm_3.csv,2025-01-08,3,3,"[""Day 32/EtOH_1.csv"",""Day 32/EtOH_2.csv"",""Day 32/EtOH_3.csv""]",3.0,18.0,True
+Day 33/Diacetyl_0.1ppm_1.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,4.0,True
+Day 33/Diacetyl_0.1ppm_2.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,5.0,True
+Day 33/Diacetyl_0.1ppm_3.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,6.0,True
+Day 33/Diacetyl_1ppm_1.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,7.0,True
+Day 33/Diacetyl_1ppm_2.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,8.0,True
+Day 33/Diacetyl_1ppm_3.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,9.0,True
+Day 33/EtOH_4.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,10.0,True
+Day 33/EtOH_5.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,11.0,True
+Day 33/EtOH_6.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,12.0,True
+Day 33/Phenylethanol_200ppm_1.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,13.0,True
+Day 33/Phenylethanol_200ppm_2.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,14.0,True
+Day 33/Phenylethanol_200ppm_3.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,15.0,True
+Day 33/Phenylethanol_1000ppm_1.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,16.0,True
+Day 33/Phenylethanol_1000ppm_2.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,17.0,True
+Day 33/Phenylethanol_1000ppm_3.csv,2025-01-10,3,3,"[""Day 33/EtOH_1.csv"",""Day 33/EtOH_2.csv"",""Day 33/EtOH_3.csv""]",3.0,18.0,True
+Day 34/Diacetyl_0.1ppm_1.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,4.0,True
+Day 34/Diacetyl_0.1ppm_2.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,5.0,True
+Day 34/Diacetyl_0.1ppm_3.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,6.0,True
+Day 34/Diacetyl_1ppm_1.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,7.0,True
+Day 34/Diacetyl_1ppm_2.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,8.0,True
+Day 34/Diacetyl_1ppm_3.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,9.0,True
+Day 34/EtOH_4.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,10.0,True
+Day 34/EtOH_5.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,11.0,True
+Day 34/EtOH_6.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,12.0,True
+Day 34/Phenylethanol_200ppm_1.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,13.0,True
+Day 34/Phenylethanol_200ppm_2.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,14.0,True
+Day 34/Phenylethanol_200ppm_3.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,15.0,True
+Day 34/Phenylethanol_1000ppm_1.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,16.0,True
+Day 34/Phenylethanol_1000ppm_2.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,17.0,True
+Day 34/Phenylethanol_1000ppm_3.csv,2025-01-14,3,3,"[""Day 34/EtOH_1.csv"",""Day 34/EtOH_2.csv"",""Day 34/EtOH_3.csv""]",3.0,18.0,True
+Day 35/Diacetyl_0.1ppm_1.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,4.0,True
+Day 35/Diacetyl_0.1ppm_2.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,5.0,True
+Day 35/Diacetyl_0.1ppm_3.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,6.0,True
+Day 35/Diacetyl_1ppm_1.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,7.0,True
+Day 35/Diacetyl_1ppm_2.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,8.0,True
+Day 35/Diacetyl_1ppm_3.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,9.0,True
+Day 35/EtOH_4.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,10.0,True
+Day 35/EtOH_5.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,11.0,True
+Day 35/EtOH_6.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,12.0,True
+Day 35/Phenylethanol_200ppm_1.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,13.0,True
+Day 35/Phenylethanol_200ppm_2.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,14.0,True
+Day 35/Phenylethanol_200ppm_3.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,15.0,True
+Day 35/Phenylethanol_1000ppm_1.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,16.0,True
+Day 35/Phenylethanol_1000ppm_2.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,17.0,True
+Day 35/Phenylethanol_1000ppm_3.csv,2025-01-17,3,3,"[""Day 35/EtOH_1.csv"",""Day 35/EtOH_2.csv"",""Day 35/EtOH_3.csv""]",3.0,18.0,True
+Day 36/Diacetyl_0.1ppm_1.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,4.0,True
+Day 36/Diacetyl_0.1ppm_2.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,5.0,True
+Day 36/Diacetyl_0.1ppm_3.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,6.0,True
+Day 36/Diacetyl_1ppm_1.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,7.0,True
+Day 36/Diacetyl_1ppm_2.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,8.0,True
+Day 36/Diacetyl_1ppm_3.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,9.0,True
+Day 36/EtOH_4.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,10.0,True
+Day 36/EtOH_5.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,11.0,True
+Day 36/EtOH_6.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,12.0,True
+Day 36/Phenylethanol_200ppm_1.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,13.0,True
+Day 36/Phenylethanol_200ppm_2.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,14.0,True
+Day 36/Phenylethanol_200ppm_3.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,15.0,True
+Day 36/Phenylethanol_1000ppm_1.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,16.0,True
+Day 36/Phenylethanol_1000ppm_2.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,17.0,True
+Day 36/Phenylethanol_1000ppm_3.csv,2025-01-21,3,3,"[""Day 36/EtOH_1.csv"",""Day 36/EtOH_2.csv"",""Day 36/EtOH_3.csv""]",3.0,18.0,True
+Day 37/Diacetyl_0.1ppm_1.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,4.0,True
+Day 37/Diacetyl_0.1ppm_2.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,5.0,True
+Day 37/Diacetyl_0.1ppm_3.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,6.0,True
+Day 37/Diacetyl_1ppm_1.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,7.0,True
+Day 37/Diacetyl_1ppm_2.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,8.0,True
+Day 37/Diacetyl_1ppm_3.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,9.0,True
+Day 37/EtOH_4.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,10.0,True
+Day 37/EtOH_5.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,11.0,True
+Day 37/Phenylethanol_200ppm_1.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,12.0,True
+Day 37/Phenylethanol_200ppm_2.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,13.0,True
+Day 37/Phenylethanol_200ppm_3.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,14.0,True
+Day 37/Phenylethanol_1000ppm_1.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,15.0,True
+Day 37/Phenylethanol_1000ppm_2.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,16.0,True
+Day 37/Phenylethanol_1000ppm_3.csv,2025-01-23,3,3,"[""Day 37/EtOH_1.csv"",""Day 37/EtOH_2.csv"",""Day 37/EtOH_3.csv""]",3.0,17.0,True
+Day 38/Diacetyl_0.1ppm_1.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,4.0,True
+Day 38/Diacetyl_0.1ppm_2.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,5.0,True
+Day 38/Diacetyl_0.1ppm_3.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,6.0,True
+Day 38/Diacetyl_1ppm_1.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,7.0,True
+Day 38/Diacetyl_1ppm_2.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,8.0,True
+Day 38/Diacetyl_1ppm_3.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,9.0,True
+Day 38/EtOH_4.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,10.0,True
+Day 38/EtOH_5.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,11.0,True
+Day 38/EtOH_6.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,12.0,True
+Day 38/Phenylethanol_200ppm_1.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,13.0,True
+Day 38/Phenylethanol_200ppm_2.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,14.0,True
+Day 38/Phenylethanol_200ppm_3.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,15.0,True
+Day 38/Phenylethanol_1000ppm_1.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,16.0,True
+Day 38/Phenylethanol_1000ppm_2.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,17.0,True
+Day 38/Phenylethanol_1000ppm_3.csv,2025-01-29,3,3,"[""Day 38/EtOH_1.csv"",""Day 38/EtOH_2.csv"",""Day 38/EtOH_3.csv""]",3.0,18.0,True
+Day 39/Diacetyl_0.1ppm_1.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,4.0,True
+Day 39/Diacetyl_0.1ppm_2.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,5.0,True
+Day 39/Diacetyl_0.1ppm_3.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,6.0,True
+Day 39/Diacetyl_1ppm_1.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,7.0,True
+Day 39/Diacetyl_1ppm_2.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,8.0,True
+Day 39/Diacetyl_1ppm_3.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,9.0,True
+Day 39/EtOH_4.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,10.0,True
+Day 39/EtOH_5.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,11.0,True
+Day 39/EtOH_6.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,12.0,True
+Day 39/Phenylethanol_200ppm_1.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,13.0,True
+Day 39/Phenylethanol_200ppm_2.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,14.0,True
+Day 39/Phenylethanol_200ppm_3.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,15.0,True
+Day 39/Phenylethanol_1000ppm_1.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,16.0,True
+Day 39/Phenylethanol_1000ppm_2.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,17.0,True
+Day 39/Phenylethanol_1000ppm_3.csv,2025-01-31,3,3,"[""Day 39/EtOH_1.csv"",""Day 39/EtOH_2.csv"",""Day 39/EtOH_3.csv""]",3.0,18.0,True
+Day 40/Diacetyl_0.1ppm_1.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,4.0,True
+Day 40/Diacetyl_0.1ppm_2.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,5.0,True
+Day 40/Diacetyl_0.1ppm_3.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,6.0,True
+Day 40/Diacetyl_1ppm_1.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,7.0,True
+Day 40/Diacetyl_1ppm_2.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,8.0,True
+Day 40/Diacetyl_1ppm_3.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,9.0,True
+Day 40/EtOH_4.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,10.0,True
+Day 40/EtOH_5.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,11.0,True
+Day 40/EtOH_6.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,12.0,True
+Day 40/Phenylethanol_200ppm_1.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,13.0,True
+Day 40/Phenylethanol_200ppm_2.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,14.0,True
+Day 40/Phenylethanol_200ppm_3.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,15.0,True
+Day 40/Phenylethanol_1000ppm_1.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,16.0,True
+Day 40/Phenylethanol_1000ppm_2.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,17.0,True
+Day 40/Phenylethanol_1000ppm_3.csv,2025-02-05,3,3,"[""Day 40/EtOH_1.csv"",""Day 40/EtOH_2.csv"",""Day 40/EtOH_3.csv""]",3.0,18.0,True

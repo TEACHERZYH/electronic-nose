@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "enose-drift-toolkit"
+version = "1.0.0"
+description = "Date-aware electronic-nose selection, reconstruction and evaluation"
+requires-python = ">=3.10,<3.11"
+license = {text = "MIT"}
+dependencies = ["numpy==2.0.2", "scipy==1.13.1", "pandas==2.2.3", "scikit-learn==1.6.1", "pyarrow==18.1.0", "PyYAML==6.0.2", "joblib==1.4.2", "threadpoolctl==3.6.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

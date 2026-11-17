@@ -1,0 +1,18 @@
+{
+  "title": "Long-Term Drift Behavior of Electronic Nose",
+  "creators": [
+    "Wörner, Julius",
+    "Eimler, Jonas",
+    "Pein-Hackelbusch, Miriam"
+  ],
+  "doi": "10.5281/zenodo.15681119",
+  "landing_page": "https://zenodo.org/records/15681119",
+  "download_url": "https://zenodo.org/records/15681119/files/Dataset.zip?download=1",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "archive_bytes": 141110296,
+  "archive_sha256": "6962b58ee95da3853982dabc444eb0a30ea907c1b97f817bc7369b62cd3ed247",
+  "archive_md5": "9937678cac4118c53287276009172a74",
+  "metadata_checked": "2026-11-17",
+  "changes": "Derived feature matrices, sample/date partitions, rankings, masks, and prediction outputs are included. The original archive is downloaded separately."
+}

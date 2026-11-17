@@ -1,0 +1,81 @@
+seed,model_key,method,candidate_index,parameters,alpha,validation_worst_macro_f1,validation_mean_macro_f1,validation_complete_macro_f1,selected
+11,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},1.0,0.539432501044378,0.5620340577957519,0.5426400347372992,False
+11,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},10.0,0.5269763016779103,0.5568749099675494,0.5426400347372992,False
+11,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},100.0,0.5367192862045298,0.5581195231577221,0.5426400347372992,False
+11,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},1.0,0.5429040581749941,0.5594363518557415,0.5429645542427497,False
+11,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},10.0,0.5409534288683381,0.5590075103122027,0.5429645542427497,False
+11,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},100.0,0.5409534288683381,0.5655459870381114,0.5429645542427497,False
+11,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},1.0,0.5793299961494032,0.5849592714618115,0.5793299961494032,False
+11,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},10.0,0.5793299961494032,0.5861268673823632,0.5793299961494032,True
+11,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},100.0,0.5793299961494032,0.584389023774519,0.5793299961494032,False
+11,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},1.0,0.5914032589780098,0.6343267184849235,0.6752767289018999,True
+11,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},10.0,0.5787051590483828,0.630077450905156,0.6752767289018999,False
+11,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},100.0,0.5579480329674604,0.6199642209155257,0.6752767289018999,False
+11,multimask_extra,multimask_global_extratrees,0,"{'max_features': 'sqrt', 'min_samples_leaf': 2}",,0.596984393757503,0.6196562488563642,0.6147155673863749,False
+11,multimask_extra,multimask_global_extratrees,1,"{'max_features': 'sqrt', 'min_samples_leaf': 5}",,0.6025490196078432,0.6149779915242579,0.6025490196078432,False
+11,multimask_extra,multimask_global_extratrees,2,"{'max_features': 0.5, 'min_samples_leaf': 2}",,0.5773737373737374,0.6024084690325572,0.5773737373737374,False
+11,multimask_extra,multimask_global_extratrees,3,"{'max_features': 0.5, 'min_samples_leaf': 5}",,0.6336904761904762,0.646734334228102,0.6336904761904762,True
+23,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},1.0,0.5398874934589221,0.5716299132305683,0.55,False
+23,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},10.0,0.5333333333333333,0.5640326717855293,0.55,False
+23,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},100.0,0.532744636316065,0.5614062291136953,0.55,False
+23,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},1.0,0.5342128344470265,0.5617028329779377,0.5429645542427497,False
+23,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},10.0,0.5411506975671625,0.5623899218080418,0.5429645542427497,False
+23,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},100.0,0.5429645542427497,0.5627963831527277,0.5429645542427497,False
+23,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},1.0,0.5793299961494032,0.5837815328087832,0.5808699237270666,False
+23,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},10.0,0.5808699237270666,0.5838161043484662,0.5808699237270666,True
+23,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},100.0,0.5808699237270666,0.5831495482892999,0.5808699237270666,False
+23,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},1.0,0.5629826487079802,0.6346287892228015,0.6752767289018999,False
+23,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},10.0,0.5816700968477395,0.6374825885982676,0.6752767289018999,True
+23,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},100.0,0.5624808020186864,0.6369013822086396,0.6752767289018999,False
+23,multimask_extra,multimask_global_extratrees,0,"{'max_features': 'sqrt', 'min_samples_leaf': 2}",,0.6060544217687075,0.6184327946411191,0.6060544217687075,False
+23,multimask_extra,multimask_global_extratrees,1,"{'max_features': 'sqrt', 'min_samples_leaf': 5}",,0.5956838473094155,0.6152580299116552,0.5989851678376269,False
+23,multimask_extra,multimask_global_extratrees,2,"{'max_features': 0.5, 'min_samples_leaf': 2}",,0.6446770708283314,0.6675710147120566,0.6626314263410282,True
+23,multimask_extra,multimask_global_extratrees,3,"{'max_features': 0.5, 'min_samples_leaf': 5}",,0.6361409552692846,0.662517049837793,0.6604761904761905,False
+37,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},1.0,0.5202184752407415,0.5379292812163069,0.5283086620682529,False
+37,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},10.0,0.5283086620682529,0.5438890370937997,0.5283086620682529,False
+37,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},100.0,0.5283086620682529,0.5442704853449895,0.5283086620682529,False
+37,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},1.0,0.5132860236548392,0.5490399015144594,0.5292842136854742,False
+37,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},10.0,0.5270748299319729,0.5540510989490118,0.5292842136854742,False
+37,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},100.0,0.5252002349863287,0.5489945831038743,0.5292842136854742,False
+37,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},1.0,0.5808699237270666,0.5846423727675064,0.5808699237270666,True
+37,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},10.0,0.5719199283363933,0.5830368259806238,0.5808699237270666,False
+37,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},100.0,0.5616635180799829,0.5800169310907283,0.5808699237270666,False
+37,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},1.0,0.587479994222158,0.6432410594371203,0.6752767289018999,True
+37,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},10.0,0.5859182621742393,0.6410537140151438,0.6752767289018999,False
+37,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},100.0,0.5735874102304841,0.6390533867550856,0.6752767289018999,False
+37,multimask_extra,multimask_global_extratrees,0,"{'max_features': 'sqrt', 'min_samples_leaf': 2}",,0.604913716899189,0.614524078527628,0.6143137254901961,True
+37,multimask_extra,multimask_global_extratrees,1,"{'max_features': 'sqrt', 'min_samples_leaf': 5}",,0.5982257367924815,0.625235240565147,0.6270833927976786,False
+37,multimask_extra,multimask_global_extratrees,2,"{'max_features': 0.5, 'min_samples_leaf': 2}",,0.5784091167056367,0.5983129838773631,0.5784091167056367,False
+37,multimask_extra,multimask_global_extratrees,3,"{'max_features': 0.5, 'min_samples_leaf': 5}",,0.5758986175115208,0.6161811762017796,0.5758986175115208,False
+53,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},1.0,0.53026334058407,0.5556636945051163,0.5727329229768254,False
+53,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},10.0,0.5209779305643191,0.5480931601526406,0.5727329229768254,False
+53,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},100.0,0.5320696124733131,0.5607419084998367,0.5727329229768254,False
+53,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},1.0,0.5234020236362158,0.5559538192755993,0.5429645542427497,False
+53,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},10.0,0.5234020236362158,0.5585457181637334,0.5429645542427497,False
+53,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},100.0,0.5234020236362158,0.5555756095866493,0.5429645542427497,False
+53,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},1.0,0.578028803494642,0.5896669703713352,0.5793299961494032,False
+53,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},10.0,0.5793299961494032,0.5870849192533507,0.5793299961494032,True
+53,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},100.0,0.5793299961494032,0.5840257069962892,0.5793299961494032,False
+53,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},1.0,0.6112013717715142,0.6426434726489101,0.6752767289018999,True
+53,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},10.0,0.6054507645208276,0.6396153262672246,0.6752767289018999,False
+53,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},100.0,0.5920621239225891,0.6432125915276435,0.6752767289018999,False
+53,multimask_extra,multimask_global_extratrees,0,"{'max_features': 'sqrt', 'min_samples_leaf': 2}",,0.6074216534071255,0.6115811159024377,0.6074216534071255,False
+53,multimask_extra,multimask_global_extratrees,1,"{'max_features': 'sqrt', 'min_samples_leaf': 5}",,0.6037903626428216,0.6139073478228309,0.6143137254901961,False
+53,multimask_extra,multimask_global_extratrees,2,"{'max_features': 0.5, 'min_samples_leaf': 2}",,0.6181377259208419,0.6321117656489266,0.6189115704976047,True
+53,multimask_extra,multimask_global_extratrees,3,"{'max_features': 0.5, 'min_samples_leaf': 5}",,0.5937829414925433,0.6265598465879143,0.6347941539224833,False
+71,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},1.0,0.5334609179533565,0.5386993964336745,0.5395509097948124,False
+71,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},10.0,0.5274498644986451,0.5397633951304437,0.5395509097948124,False
+71,ridge_rbf,ridge_reconstruct_rbf,0,{'C': 0.3},100.0,0.525163976277444,0.5370498239804243,0.5395509097948124,False
+71,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},1.0,0.5292842136854742,0.5508466403614402,0.5292842136854742,False
+71,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},10.0,0.5292842136854742,0.557683800444834,0.5292842136854742,False
+71,ridge_rbf,ridge_reconstruct_rbf,1,{'C': 1.0},100.0,0.5292842136854742,0.5552012634441088,0.5292842136854742,False
+71,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},1.0,0.5793299961494032,0.5835744785249776,0.5808699237270666,False
+71,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},10.0,0.5793299961494032,0.5853028599375161,0.5808699237270666,True
+71,ridge_rbf,ridge_reconstruct_rbf,2,{'C': 3.0},100.0,0.5793299961494032,0.5847932597606726,0.5808699237270666,False
+71,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},1.0,0.6112013717715142,0.6668512116429881,0.6752767289018999,True
+71,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},10.0,0.6054507645208276,0.6559615807896978,0.6752767289018999,False
+71,ridge_lda,ridge_reconstruct_shrinkage_lda,0,{},100.0,0.5920621239225891,0.6479943516483042,0.6752767289018999,False
+71,multimask_extra,multimask_global_extratrees,0,"{'max_features': 'sqrt', 'min_samples_leaf': 2}",,0.5861045246712694,0.6008334539426059,0.5861045246712694,False
+71,multimask_extra,multimask_global_extratrees,1,"{'max_features': 'sqrt', 'min_samples_leaf': 5}",,0.5924848484848485,0.6232869357088355,0.6403156652971566,True
+71,multimask_extra,multimask_global_extratrees,2,"{'max_features': 0.5, 'min_samples_leaf': 2}",,0.5470916104146577,0.6024057912375347,0.6059501100513572,False
+71,multimask_extra,multimask_global_extratrees,3,"{'max_features': 0.5, 'min_samples_leaf': 5}",,0.5920327868852459,0.608524357623798,0.6052253876667869,False

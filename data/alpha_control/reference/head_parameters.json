@@ -1,0 +1,68 @@
+{
+  "selected_sensors": [
+    16,
+    15,
+    2,
+    1,
+    31,
+    6,
+    24,
+    36,
+    8,
+    7,
+    35,
+    13,
+    62,
+    5,
+    34,
+    25
+  ],
+  "converged_fraction": 0.985,
+  "heads": [
+    {
+      "seed": 11,
+      "selected_C": 0.1,
+      "temperature": 4.110315772242162,
+      "warnings": [],
+      "n_iter": [
+        265
+      ]
+    },
+    {
+      "seed": 23,
+      "selected_C": 0.1,
+      "temperature": 4.110315772242162,
+      "warnings": [],
+      "n_iter": [
+        265
+      ]
+    },
+    {
+      "seed": 37,
+      "selected_C": 0.1,
+      "temperature": 4.110315772242162,
+      "warnings": [],
+      "n_iter": [
+        265
+      ]
+    },
+    {
+      "seed": 53,
+      "selected_C": 0.1,
+      "temperature": 4.110315772242162,
+      "warnings": [],
+      "n_iter": [
+        265
+      ]
+    },
+    {
+      "seed": 71,
+      "selected_C": 0.1,
+      "temperature": 4.110315772242162,
+      "warnings": [],
+      "n_iter": [
+        265
+      ]
+    }
+  ]
+}

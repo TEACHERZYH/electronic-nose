@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "model_fits": 0,
+  "prediction_rows_by_source": {
+    "budget_predictions": 29155,
+    "corrected_baseline_predictions": 2380,
+    "crg_predictions": 5950,
+    "equal_fusion_predictions": 5950,
+    "feature_and_ranking_ablation_predictions": 5950,
+    "global_fusion_predictions": 5950,
+    "protocol_predictions": 27965,
+    "reconstruction_predictions": 23800,
+    "reference_missing_predictions": 5950,
+    "alpha0_predictions": 595,
+    "reference_predictions": 595
+  },
+  "date_seed_cells": 7814,
+  "case_count": 153,
+  "crg_saved_probability_replay_max_error": 2.220446049250313e-16,
+  "known_scores": {
+    "alpha075": 0.5480952380952381,
+    "alpha0": 0.5011363636363637,
+    "crg_random16": 0.6017377344877345,
+    "equal_random16": 0.558537851037851
+  },
+  "notes": [
+    "Fixed five-class metrics.",
+    "Seeds averaged within each date; dates weighted equally.",
+    "Global fusion shares the fixed beta=10 setting.",
+    "Alpha comparison uses a 500-iteration budget; alpha0 met the original stopping rule in 0 of 200 fits."
+  ]
+}

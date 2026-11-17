@@ -1,0 +1,76 @@
+seed,beta,method,class,validation_recall,classwise_weight
+11,10.0,ridge_reconstruct_rbf,2-Phenylethanol 1000 ppm,0.711764705882353,0.5122939298682662
+11,10.0,ridge_reconstruct_rbf,2-Phenylethanol 200 ppm,0.0058823529411764,0.0827213138303302
+11,10.0,ridge_reconstruct_rbf,Diacetyl 0.1 ppm,0.888235294117647,0.3519307357639315
+11,10.0,ridge_reconstruct_rbf,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+11,10.0,ridge_reconstruct_rbf,EtOH,0.6235294117647059,0.077969072930277
+11,10.0,ridge_reconstruct_shrinkage_lda,2-Phenylethanol 1000 ppm,0.7,0.4554343064094531
+11,10.0,ridge_reconstruct_shrinkage_lda,2-Phenylethanol 200 ppm,0.188235294117647,0.5123493441999987
+11,10.0,ridge_reconstruct_shrinkage_lda,Diacetyl 0.1 ppm,0.6941176470588235,0.050514373131421
+11,10.0,ridge_reconstruct_shrinkage_lda,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+11,10.0,ridge_reconstruct_shrinkage_lda,EtOH,0.6882352941176471,0.1489143145951023
+11,10.0,multimask_global_extratrees,2-Phenylethanol 1000 ppm,0.4352941176470588,0.0322717637222807
+11,10.0,multimask_global_extratrees,2-Phenylethanol 200 ppm,0.1647058823529411,0.4049293419696711
+11,10.0,multimask_global_extratrees,Diacetyl 0.1 ppm,0.9411764705882352,0.5975548911046474
+11,10.0,multimask_global_extratrees,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+11,10.0,multimask_global_extratrees,EtOH,0.8529411764705882,0.7731166124746206
+23,10.0,ridge_reconstruct_rbf,2-Phenylethanol 1000 ppm,0.711764705882353,0.6129345659665563
+23,10.0,ridge_reconstruct_rbf,2-Phenylethanol 200 ppm,0.0058823529411764,0.0838874287001281
+23,10.0,ridge_reconstruct_rbf,Diacetyl 0.1 ppm,0.8823529411764706,0.326873589550782
+23,10.0,ridge_reconstruct_rbf,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+23,10.0,ridge_reconstruct_rbf,EtOH,0.6176470588235294,0.0710255018755243
+23,10.0,ridge_reconstruct_shrinkage_lda,2-Phenylethanol 1000 ppm,0.6294117647058823,0.2690046792782192
+23,10.0,ridge_reconstruct_shrinkage_lda,2-Phenylethanol 200 ppm,0.1941176470588235,0.5510517399853311
+23,10.0,ridge_reconstruct_shrinkage_lda,Diacetyl 0.1 ppm,0.7470588235294118,0.0844899289629272
+23,10.0,ridge_reconstruct_shrinkage_lda,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+23,10.0,ridge_reconstruct_shrinkage_lda,EtOH,0.711764705882353,0.1820380014550389
+23,10.0,multimask_global_extratrees,2-Phenylethanol 1000 ppm,0.5470588235294118,0.1180607547552246
+23,10.0,multimask_global_extratrees,2-Phenylethanol 200 ppm,0.1529411764705882,0.3650608313145408
+23,10.0,multimask_global_extratrees,Diacetyl 0.1 ppm,0.9411764705882352,0.5886364814862908
+23,10.0,multimask_global_extratrees,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+23,10.0,multimask_global_extratrees,EtOH,0.8529411764705882,0.7469364966694367
+37,10.0,ridge_reconstruct_rbf,2-Phenylethanol 1000 ppm,0.711764705882353,0.4280565061786684
+37,10.0,ridge_reconstruct_rbf,2-Phenylethanol 200 ppm,0.0117647058823529,0.1012467759172083
+37,10.0,ridge_reconstruct_rbf,Diacetyl 0.1 ppm,0.8647058823529412,0.2993135540078513
+37,10.0,ridge_reconstruct_rbf,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+37,10.0,ridge_reconstruct_rbf,EtOH,0.6176470588235294,0.0767699253159814
+37,10.0,ridge_reconstruct_shrinkage_lda,2-Phenylethanol 1000 ppm,0.7352941176470589,0.5416117023142519
+37,10.0,ridge_reconstruct_shrinkage_lda,2-Phenylethanol 200 ppm,0.2058823529411764,0.7053804716049273
+37,10.0,ridge_reconstruct_shrinkage_lda,Diacetyl 0.1 ppm,0.7,0.057652457630467
+37,10.0,ridge_reconstruct_shrinkage_lda,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+37,10.0,ridge_reconstruct_shrinkage_lda,EtOH,0.6588235294117647,0.1158826072125652
+37,10.0,multimask_global_extratrees,2-Phenylethanol 1000 ppm,0.4470588235294118,0.0303317915070796
+37,10.0,multimask_global_extratrees,2-Phenylethanol 200 ppm,0.0764705882352941,0.1933727524778641
+37,10.0,multimask_global_extratrees,Diacetyl 0.1 ppm,0.9411764705882352,0.6430339883616818
+37,10.0,multimask_global_extratrees,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+37,10.0,multimask_global_extratrees,EtOH,0.8529411764705882,0.8073474674714531
+53,10.0,ridge_reconstruct_rbf,2-Phenylethanol 1000 ppm,0.711764705882353,0.4514978679283895
+53,10.0,ridge_reconstruct_rbf,2-Phenylethanol 200 ppm,0.0176470588235294,0.0638773818531433
+53,10.0,ridge_reconstruct_rbf,Diacetyl 0.1 ppm,0.8764705882352941,0.4536951787720605
+53,10.0,ridge_reconstruct_rbf,Diacetyl 1 ppm,0.9941176470588236,0.3398039776495762
+53,10.0,ridge_reconstruct_rbf,EtOH,0.6176470588235294,0.0717718761849397
+53,10.0,ridge_reconstruct_shrinkage_lda,2-Phenylethanol 1000 ppm,0.7294117647058823,0.5386366575595156
+53,10.0,ridge_reconstruct_shrinkage_lda,2-Phenylethanol 200 ppm,0.1941176470588235,0.3730346159404173
+53,10.0,ridge_reconstruct_shrinkage_lda,Diacetyl 0.1 ppm,0.6823529411764706,0.0651211310051409
+53,10.0,ridge_reconstruct_shrinkage_lda,Diacetyl 1 ppm,0.9882352941176472,0.3203920447008476
+53,10.0,ridge_reconstruct_shrinkage_lda,EtOH,0.7058823529411765,0.1734424152828779
+53,10.0,multimask_global_extratrees,2-Phenylethanol 1000 ppm,0.3294117647058823,0.0098654745120948
+53,10.0,multimask_global_extratrees,2-Phenylethanol 200 ppm,0.2352941176470588,0.5630880022064393
+53,10.0,multimask_global_extratrees,Diacetyl 0.1 ppm,0.8823529411764706,0.4811836902227986
+53,10.0,multimask_global_extratrees,Diacetyl 1 ppm,0.9941176470588236,0.3398039776495762
+53,10.0,multimask_global_extratrees,EtOH,0.8529411764705882,0.7547857085321823
+71,10.0,ridge_reconstruct_rbf,2-Phenylethanol 1000 ppm,0.711764705882353,0.4052670761685999
+71,10.0,ridge_reconstruct_rbf,2-Phenylethanol 200 ppm,0.0176470588235294,0.0787518382377581
+71,10.0,ridge_reconstruct_rbf,Diacetyl 0.1 ppm,0.8529411764705882,0.2626941872700337
+71,10.0,ridge_reconstruct_rbf,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+71,10.0,ridge_reconstruct_rbf,EtOH,0.6176470588235294,0.0702506839243577
+71,10.0,ridge_reconstruct_shrinkage_lda,2-Phenylethanol 1000 ppm,0.7470588235294118,0.5767953207845936
+71,10.0,ridge_reconstruct_shrinkage_lda,2-Phenylethanol 200 ppm,0.2352941176470588,0.6942084033020166
+71,10.0,ridge_reconstruct_shrinkage_lda,Diacetyl 0.1 ppm,0.711764705882353,0.0640219417014991
+71,10.0,ridge_reconstruct_shrinkage_lda,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+71,10.0,ridge_reconstruct_shrinkage_lda,EtOH,0.7176470588235294,0.1909611575484015
+71,10.0,multimask_global_extratrees,2-Phenylethanol 1000 ppm,0.4,0.0179376030468065
+71,10.0,multimask_global_extratrees,2-Phenylethanol 200 ppm,0.1235294117647058,0.2270397584602253
+71,10.0,multimask_global_extratrees,Diacetyl 0.1 ppm,0.9470588235294116,0.6732838710284672
+71,10.0,multimask_global_extratrees,Diacetyl 1 ppm,0.9941176470588236,0.3333333333333333
+71,10.0,multimask_global_extratrees,EtOH,0.8529411764705882,0.7387881585272406

@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "date": "2026-11-17",
+  "environment": {
+    "os": "Windows",
+    "python": "3.10.20",
+    "numpy": "2.0.2",
+    "pandas": "2.2.3",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.6.1",
+    "pyarrow": "18.1.0"
+  },
+  "module_and_data_tests_passed": 8,
+  "input_preflight_passed": [
+    "compact_selection",
+    "classwise_gate",
+    "source_archive_feature_preparation"
+  ],
+  "prediction_metric_audit_status": "PASS",
+  "date_seed_cells_recomputed": 7814,
+  "conditions_recomputed": 153,
+  "new_full_training_runs": 0,
+  "content_scan_status": "PASS",
+  "account_location_scan_status": "PASS",
+  "secret_pattern_scan_status": "PASS",
+  "pipeline_status": "Configured locally; hosted CI has not been executed."
+}

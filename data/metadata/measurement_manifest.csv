@@ -1,0 +1,701 @@
+sample_id,date,day_number,label,within_day_order,observed_ordinal,ethanol_replicate,source_name,split,environment
+Day 1/EtOH_1.csv,2024-02-16,1,EtOH,1,1,1.0,Day 1/EtOH_1.csv,train,0.0
+Day 1/EtOH_2.csv,2024-02-16,1,EtOH,2,2,2.0,Day 1/EtOH_2.csv,train,0.0
+Day 1/EtOH_3.csv,2024-02-16,1,EtOH,3,3,3.0,Day 1/EtOH_3.csv,train,0.0
+Day 1/Diacetyl_0.1ppm_1.csv,2024-02-16,1,Diacetyl 0.1 ppm,4,4,,Day 1/Diacetyl_0.1ppm_1.csv,train,0.0
+Day 1/Diacetyl_0.1ppm_2.csv,2024-02-16,1,Diacetyl 0.1 ppm,5,5,,Day 1/Diacetyl_0.1ppm_2.csv,train,0.0
+Day 1/Diacetyl_0.1ppm_3.csv,2024-02-16,1,Diacetyl 0.1 ppm,6,6,,Day 1/Diacetyl_0.1ppm_3.csv,train,0.0
+Day 1/Diacetyl_1ppm_1.csv,2024-02-16,1,Diacetyl 1 ppm,7,7,,Day 1/Diacetyl_1ppm_1.csv,train,0.0
+Day 1/Diacetyl_1ppm_2.csv,2024-02-16,1,Diacetyl 1 ppm,8,8,,Day 1/Diacetyl_1ppm_2.csv,train,0.0
+Day 1/Diacetyl_1ppm_3.csv,2024-02-16,1,Diacetyl 1 ppm,9,9,,Day 1/Diacetyl_1ppm_3.csv,train,0.0
+Day 1/EtOH_4.csv,2024-02-16,1,EtOH,10,10,4.0,Day 1/EtOH_4.csv,train,0.0
+Day 1/EtOH_5.csv,2024-02-16,1,EtOH,11,11,5.0,Day 1/EtOH_5.csv,train,0.0
+Day 1/EtOH_6.csv,2024-02-16,1,EtOH,12,12,6.0,Day 1/EtOH_6.csv,train,0.0
+Day 1/Phenylethanol_200ppm_1.csv,2024-02-16,1,2-Phenylethanol 200 ppm,13,13,,Day 1/Phenylethanol_200ppm_1.csv,train,0.0
+Day 1/Phenylethanol_200ppm_2.csv,2024-02-16,1,2-Phenylethanol 200 ppm,14,14,,Day 1/Phenylethanol_200ppm_2.csv,train,0.0
+Day 1/Phenylethanol_200ppm_3.csv,2024-02-16,1,2-Phenylethanol 200 ppm,15,15,,Day 1/Phenylethanol_200ppm_3.csv,train,0.0
+Day 1/Phenylethanol_1000ppm_1.csv,2024-02-16,1,2-Phenylethanol 1000 ppm,16,16,,Day 1/Phenylethanol_1000ppm_1.csv,train,0.0
+Day 1/Phenylethanol_1000ppm_2.csv,2024-02-16,1,2-Phenylethanol 1000 ppm,17,17,,Day 1/Phenylethanol_1000ppm_2.csv,train,0.0
+Day 1/Phenylethanol_1000ppm_3.csv,2024-02-16,1,2-Phenylethanol 1000 ppm,18,18,,Day 1/Phenylethanol_1000ppm_3.csv,train,0.0
+Day 2/EtOH_1.csv,2024-02-23,2,EtOH,1,1,1.0,Day 2/EtOH_1.csv,train,0.0
+Day 2/EtOH_2.csv,2024-02-23,2,EtOH,2,2,2.0,Day 2/EtOH_2.csv,train,0.0
+Day 2/EtOH_3.csv,2024-02-23,2,EtOH,3,3,3.0,Day 2/EtOH_3.csv,train,0.0
+Day 2/Diacetyl_0.1ppm_1.csv,2024-02-23,2,Diacetyl 0.1 ppm,4,4,,Day 2/Diacetyl_0.1ppm_1.csv,train,0.0
+Day 2/Diacetyl_0.1ppm_2.csv,2024-02-23,2,Diacetyl 0.1 ppm,5,5,,Day 2/Diacetyl_0.1ppm_2.csv,train,0.0
+Day 2/Diacetyl_0.1ppm_3.csv,2024-02-23,2,Diacetyl 0.1 ppm,6,6,,Day 2/Diacetyl_0.1ppm_3.csv,train,0.0
+Day 2/Diacetyl_1ppm_1.csv,2024-02-23,2,Diacetyl 1 ppm,7,7,,Day 2/Diacetyl_1ppm_1.csv,train,0.0
+Day 2/Diacetyl_1ppm_2.csv,2024-02-23,2,Diacetyl 1 ppm,8,8,,Day 2/Diacetyl_1ppm_2.csv,train,0.0
+Day 2/Diacetyl_1ppm_3.csv,2024-02-23,2,Diacetyl 1 ppm,9,9,,Day 2/Diacetyl_1ppm_3.csv,train,0.0
+Day 2/EtOH_4.csv,2024-02-23,2,EtOH,10,10,4.0,Day 2/EtOH_4.csv,train,0.0
+Day 2/EtOH_5.csv,2024-02-23,2,EtOH,11,11,5.0,Day 2/EtOH_5.csv,train,0.0
+Day 2/EtOH_6.csv,2024-02-23,2,EtOH,12,12,6.0,Day 2/EtOH_6.csv,train,0.0
+Day 2/Phenylethanol_200ppm_1.csv,2024-02-23,2,2-Phenylethanol 200 ppm,13,13,,Day 2/Phenylethanol_200ppm_1.csv,train,0.0
+Day 2/Phenylethanol_200ppm_2.csv,2024-02-23,2,2-Phenylethanol 200 ppm,14,14,,Day 2/Phenylethanol_200ppm_2.csv,train,0.0
+Day 2/Phenylethanol_200ppm_3.csv,2024-02-23,2,2-Phenylethanol 200 ppm,15,15,,Day 2/Phenylethanol_200ppm_3.csv,train,0.0
+Day 2/Phenylethanol_1000ppm_1.csv,2024-02-23,2,2-Phenylethanol 1000 ppm,16,16,,Day 2/Phenylethanol_1000ppm_1.csv,train,0.0
+Day 2/Phenylethanol_1000ppm_2.csv,2024-02-23,2,2-Phenylethanol 1000 ppm,17,17,,Day 2/Phenylethanol_1000ppm_2.csv,train,0.0
+Day 2/Phenylethanol_1000ppm_3.csv,2024-02-23,2,2-Phenylethanol 1000 ppm,18,18,,Day 2/Phenylethanol_1000ppm_3.csv,train,0.0
+Day 3/EtOH_1.csv,2024-03-01,3,EtOH,1,1,1.0,Day 3/EtOH_1.csv,train,0.0
+Day 3/EtOH_2.csv,2024-03-01,3,EtOH,2,2,2.0,Day 3/EtOH_2.csv,train,0.0
+Day 3/EtOH_3.csv,2024-03-01,3,EtOH,3,3,3.0,Day 3/EtOH_3.csv,train,0.0
+Day 3/Diacetyl_0.1ppm_1.csv,2024-03-01,3,Diacetyl 0.1 ppm,4,4,,Day 3/Diacetyl_0.1ppm_1.csv,train,0.0
+Day 3/Diacetyl_0.1ppm_2.csv,2024-03-01,3,Diacetyl 0.1 ppm,5,5,,Day 3/Diacetyl_0.1ppm_2.csv,train,0.0
+Day 3/Diacetyl_0.1ppm_3.csv,2024-03-01,3,Diacetyl 0.1 ppm,6,6,,Day 3/Diacetyl_0.1ppm_3.csv,train,0.0
+Day 3/Diacetyl_1ppm_1.csv,2024-03-01,3,Diacetyl 1 ppm,7,7,,Day 3/Diacetyl_1ppm_1.csv,train,0.0
+Day 3/Diacetyl_1ppm_2.csv,2024-03-01,3,Diacetyl 1 ppm,8,8,,Day 3/Diacetyl_1ppm_2.csv,train,0.0
+Day 3/Diacetyl_1ppm_3.csv,2024-03-01,3,Diacetyl 1 ppm,9,9,,Day 3/Diacetyl_1ppm_3.csv,train,0.0
+Day 3/EtOH_4.csv,2024-03-01,3,EtOH,10,10,4.0,Day 3/EtOH_4.csv,train,0.0
+Day 3/EtOH_5.csv,2024-03-01,3,EtOH,11,11,5.0,Day 3/EtOH_5.csv,train,0.0
+Day 3/EtOH_6.csv,2024-03-01,3,EtOH,12,12,6.0,Day 3/EtOH_6.csv,train,0.0
+Day 3/Phenylethanol_200ppm_1.csv,2024-03-01,3,2-Phenylethanol 200 ppm,13,13,,Day 3/Phenylethanol_200ppm_1.csv,train,0.0
+Day 3/Phenylethanol_200ppm_2.csv,2024-03-01,3,2-Phenylethanol 200 ppm,14,14,,Day 3/Phenylethanol_200ppm_2.csv,train,0.0
+Day 3/Phenylethanol_200ppm_3.csv,2024-03-01,3,2-Phenylethanol 200 ppm,15,15,,Day 3/Phenylethanol_200ppm_3.csv,train,0.0
+Day 3/Phenylethanol_1000ppm_1.csv,2024-03-01,3,2-Phenylethanol 1000 ppm,16,16,,Day 3/Phenylethanol_1000ppm_1.csv,train,0.0
+Day 3/Phenylethanol_1000ppm_2.csv,2024-03-01,3,2-Phenylethanol 1000 ppm,17,17,,Day 3/Phenylethanol_1000ppm_2.csv,train,0.0
+Day 3/Phenylethanol_1000ppm_3.csv,2024-03-01,3,2-Phenylethanol 1000 ppm,18,18,,Day 3/Phenylethanol_1000ppm_3.csv,train,0.0
+Day 4/EtOH_1.csv,2024-03-06,4,EtOH,1,1,1.0,Day 4/EtOH_1.csv,train,0.0
+Day 4/EtOH_2.csv,2024-03-06,4,EtOH,2,2,2.0,Day 4/EtOH_2.csv,train,0.0
+Day 4/EtOH_3.csv,2024-03-06,4,EtOH,3,3,3.0,Day 4/EtOH_3.csv,train,0.0
+Day 4/Diacetyl_0.1ppm_1.csv,2024-03-06,4,Diacetyl 0.1 ppm,4,4,,Day 4/Diacetyl_0.1ppm_1.csv,train,0.0
+Day 4/Diacetyl_0.1ppm_2.csv,2024-03-06,4,Diacetyl 0.1 ppm,5,5,,Day 4/Diacetyl_0.1ppm_2.csv,train,0.0
+Day 4/Diacetyl_0.1ppm_3.csv,2024-03-06,4,Diacetyl 0.1 ppm,6,6,,Day 4/Diacetyl_0.1ppm_3.csv,train,0.0
+Day 4/Diacetyl_1ppm_1.csv,2024-03-06,4,Diacetyl 1 ppm,7,7,,Day 4/Diacetyl_1ppm_1.csv,train,0.0
+Day 4/Diacetyl_1ppm_2.csv,2024-03-06,4,Diacetyl 1 ppm,8,8,,Day 4/Diacetyl_1ppm_2.csv,train,0.0
+Day 4/Diacetyl_1ppm_3.csv,2024-03-06,4,Diacetyl 1 ppm,9,9,,Day 4/Diacetyl_1ppm_3.csv,train,0.0
+Day 4/EtOH_4.csv,2024-03-06,4,EtOH,10,10,4.0,Day 4/EtOH_4.csv,train,0.0
+Day 4/EtOH_5.csv,2024-03-06,4,EtOH,11,11,5.0,Day 4/EtOH_5.csv,train,0.0
+Day 4/EtOH_6.csv,2024-03-06,4,EtOH,12,12,6.0,Day 4/EtOH_6.csv,train,0.0
+Day 4/Phenylethanol_200ppm_1.csv,2024-03-06,4,2-Phenylethanol 200 ppm,13,13,,Day 4/Phenylethanol_200ppm_1.csv,train,0.0
+Day 4/Phenylethanol_200ppm_2.csv,2024-03-06,4,2-Phenylethanol 200 ppm,14,14,,Day 4/Phenylethanol_200ppm_2.csv,train,0.0
+Day 4/Phenylethanol_200ppm_3.csv,2024-03-06,4,2-Phenylethanol 200 ppm,15,15,,Day 4/Phenylethanol_200ppm_3.csv,train,0.0
+Day 4/Phenylethanol_1000ppm_1.csv,2024-03-06,4,2-Phenylethanol 1000 ppm,16,16,,Day 4/Phenylethanol_1000ppm_1.csv,train,0.0
+Day 4/Phenylethanol_1000ppm_2.csv,2024-03-06,4,2-Phenylethanol 1000 ppm,17,17,,Day 4/Phenylethanol_1000ppm_2.csv,train,0.0
+Day 4/Phenylethanol_1000ppm_3.csv,2024-03-06,4,2-Phenylethanol 1000 ppm,18,18,,Day 4/Phenylethanol_1000ppm_3.csv,train,0.0
+Day 5/EtOH_1.csv,2024-03-19,5,EtOH,1,1,1.0,Day 5/EtOH_1.csv,train,1.0
+Day 5/EtOH_2.csv,2024-03-19,5,EtOH,2,2,2.0,Day 5/EtOH_2.csv,train,1.0
+Day 5/EtOH_3.csv,2024-03-19,5,EtOH,3,3,3.0,Day 5/EtOH_3.csv,train,1.0
+Day 5/Diacetyl_0.1ppm_1.csv,2024-03-19,5,Diacetyl 0.1 ppm,4,4,,Day 5/Diacetyl_0.1ppm_1.csv,train,1.0
+Day 5/Diacetyl_0.1ppm_2.csv,2024-03-19,5,Diacetyl 0.1 ppm,5,5,,Day 5/Diacetyl_0.1ppm_2.csv,train,1.0
+Day 5/Diacetyl_0.1ppm_3.csv,2024-03-19,5,Diacetyl 0.1 ppm,6,6,,Day 5/Diacetyl_0.1ppm_3.csv,train,1.0
+Day 5/Diacetyl_1ppm_1.csv,2024-03-19,5,Diacetyl 1 ppm,7,7,,Day 5/Diacetyl_1ppm_1.csv,train,1.0
+Day 5/Diacetyl_1ppm_2.csv,2024-03-19,5,Diacetyl 1 ppm,8,8,,Day 5/Diacetyl_1ppm_2.csv,train,1.0
+Day 5/Diacetyl_1ppm_3.csv,2024-03-19,5,Diacetyl 1 ppm,9,9,,Day 5/Diacetyl_1ppm_3.csv,train,1.0
+Day 5/EtOH_4.csv,2024-03-19,5,EtOH,10,10,4.0,Day 5/EtOH_4.csv,train,1.0
+Day 5/EtOH_5.csv,2024-03-19,5,EtOH,11,11,5.0,Day 5/EtOH_5.csv,train,1.0
+Day 5/EtOH_6.csv,2024-03-19,5,EtOH,12,12,6.0,Day 5/EtOH_6.csv,train,1.0
+Day 5/Phenylethanol_200ppm_1.csv,2024-03-19,5,2-Phenylethanol 200 ppm,13,13,,Day 5/Phenylethanol_200ppm_1.csv,train,1.0
+Day 5/Phenylethanol_200ppm_2.csv,2024-03-19,5,2-Phenylethanol 200 ppm,14,14,,Day 5/Phenylethanol_200ppm_2.csv,train,1.0
+Day 5/Phenylethanol_200ppm_3.csv,2024-03-19,5,2-Phenylethanol 200 ppm,15,15,,Day 5/Phenylethanol_200ppm_3.csv,train,1.0
+Day 5/Phenylethanol_1000ppm_1.csv,2024-03-19,5,2-Phenylethanol 1000 ppm,16,16,,Day 5/Phenylethanol_1000ppm_1.csv,train,1.0
+Day 5/Phenylethanol_1000ppm_2.csv,2024-03-19,5,2-Phenylethanol 1000 ppm,17,17,,Day 5/Phenylethanol_1000ppm_2.csv,train,1.0
+Day 5/Phenylethanol_1000ppm_3.csv,2024-03-19,5,2-Phenylethanol 1000 ppm,18,18,,Day 5/Phenylethanol_1000ppm_3.csv,train,1.0
+Day 6/EtOH_1.csv,2024-03-22,6,EtOH,1,1,1.0,Day 6/EtOH_1.csv,train,1.0
+Day 6/EtOH_2.csv,2024-03-22,6,EtOH,2,2,2.0,Day 6/EtOH_2.csv,train,1.0
+Day 6/EtOH_3.csv,2024-03-22,6,EtOH,3,3,3.0,Day 6/EtOH_3.csv,train,1.0
+Day 6/Diacetyl_0.1ppm_1.csv,2024-03-22,6,Diacetyl 0.1 ppm,4,4,,Day 6/Diacetyl_0.1ppm_1.csv,train,1.0
+Day 6/Diacetyl_0.1ppm_2.csv,2024-03-22,6,Diacetyl 0.1 ppm,5,5,,Day 6/Diacetyl_0.1ppm_2.csv,train,1.0
+Day 6/Diacetyl_0.1ppm_3.csv,2024-03-22,6,Diacetyl 0.1 ppm,6,6,,Day 6/Diacetyl_0.1ppm_3.csv,train,1.0
+Day 6/Diacetyl_1ppm_1.csv,2024-03-22,6,Diacetyl 1 ppm,7,7,,Day 6/Diacetyl_1ppm_1.csv,train,1.0
+Day 6/Diacetyl_1ppm_2.csv,2024-03-22,6,Diacetyl 1 ppm,8,8,,Day 6/Diacetyl_1ppm_2.csv,train,1.0
+Day 6/Diacetyl_1ppm_3.csv,2024-03-22,6,Diacetyl 1 ppm,9,9,,Day 6/Diacetyl_1ppm_3.csv,train,1.0
+Day 6/EtOH_4.csv,2024-03-22,6,EtOH,10,10,4.0,Day 6/EtOH_4.csv,train,1.0
+Day 6/EtOH_5.csv,2024-03-22,6,EtOH,11,11,5.0,Day 6/EtOH_5.csv,train,1.0
+Day 6/EtOH_6.csv,2024-03-22,6,EtOH,12,12,6.0,Day 6/EtOH_6.csv,train,1.0
+Day 6/Phenylethanol_200ppm_1.csv,2024-03-22,6,2-Phenylethanol 200 ppm,13,13,,Day 6/Phenylethanol_200ppm_1.csv,train,1.0
+Day 6/Phenylethanol_200ppm_2.csv,2024-03-22,6,2-Phenylethanol 200 ppm,14,14,,Day 6/Phenylethanol_200ppm_2.csv,train,1.0
+Day 6/Phenylethanol_200ppm_3.csv,2024-03-22,6,2-Phenylethanol 200 ppm,15,15,,Day 6/Phenylethanol_200ppm_3.csv,train,1.0
+Day 6/Phenylethanol_1000ppm_1.csv,2024-03-22,6,2-Phenylethanol 1000 ppm,16,16,,Day 6/Phenylethanol_1000ppm_1.csv,train,1.0
+Day 6/Phenylethanol_1000ppm_2.csv,2024-03-22,6,2-Phenylethanol 1000 ppm,17,17,,Day 6/Phenylethanol_1000ppm_2.csv,train,1.0
+Day 6/Phenylethanol_1000ppm_3.csv,2024-03-22,6,2-Phenylethanol 1000 ppm,18,18,,Day 6/Phenylethanol_1000ppm_3.csv,train,1.0
+Day 7/EtOH_1.csv,2024-04-03,7,EtOH,1,1,1.0,Day 7/EtOH_1.csv,train,1.0
+Day 7/EtOH_2.csv,2024-04-03,7,EtOH,2,2,2.0,Day 7/EtOH_2.csv,train,1.0
+Day 7/EtOH_3.csv,2024-04-03,7,EtOH,3,3,3.0,Day 7/EtOH_3.csv,train,1.0
+Day 7/Diacetyl_0.1ppm_1.csv,2024-04-03,7,Diacetyl 0.1 ppm,4,4,,Day 7/Diacetyl_0.1ppm_1.csv,train,1.0
+Day 7/Diacetyl_0.1ppm_2.csv,2024-04-03,7,Diacetyl 0.1 ppm,5,5,,Day 7/Diacetyl_0.1ppm_2.csv,train,1.0
+Day 7/Diacetyl_0.1ppm_3.csv,2024-04-03,7,Diacetyl 0.1 ppm,6,6,,Day 7/Diacetyl_0.1ppm_3.csv,train,1.0
+Day 7/Diacetyl_1ppm_1.csv,2024-04-03,7,Diacetyl 1 ppm,7,7,,Day 7/Diacetyl_1ppm_1.csv,train,1.0
+Day 7/Diacetyl_1ppm_2.csv,2024-04-03,7,Diacetyl 1 ppm,8,8,,Day 7/Diacetyl_1ppm_2.csv,train,1.0
+Day 7/Diacetyl_1ppm_3.csv,2024-04-03,7,Diacetyl 1 ppm,9,9,,Day 7/Diacetyl_1ppm_3.csv,train,1.0
+Day 7/EtOH_4.csv,2024-04-03,7,EtOH,10,10,4.0,Day 7/EtOH_4.csv,train,1.0
+Day 7/EtOH_5.csv,2024-04-03,7,EtOH,11,11,5.0,Day 7/EtOH_5.csv,train,1.0
+Day 7/EtOH_6.csv,2024-04-03,7,EtOH,12,12,6.0,Day 7/EtOH_6.csv,train,1.0
+Day 7/Phenylethanol_200ppm_1.csv,2024-04-03,7,2-Phenylethanol 200 ppm,13,13,,Day 7/Phenylethanol_200ppm_1.csv,train,1.0
+Day 7/Phenylethanol_200ppm_2.csv,2024-04-03,7,2-Phenylethanol 200 ppm,14,14,,Day 7/Phenylethanol_200ppm_2.csv,train,1.0
+Day 7/Phenylethanol_200ppm_3.csv,2024-04-03,7,2-Phenylethanol 200 ppm,15,15,,Day 7/Phenylethanol_200ppm_3.csv,train,1.0
+Day 7/Phenylethanol_1000ppm_1.csv,2024-04-03,7,2-Phenylethanol 1000 ppm,16,16,,Day 7/Phenylethanol_1000ppm_1.csv,train,1.0
+Day 7/Phenylethanol_1000ppm_2.csv,2024-04-03,7,2-Phenylethanol 1000 ppm,17,17,,Day 7/Phenylethanol_1000ppm_2.csv,train,1.0
+Day 7/Phenylethanol_1000ppm_3.csv,2024-04-03,7,2-Phenylethanol 1000 ppm,18,18,,Day 7/Phenylethanol_1000ppm_3.csv,train,1.0
+Day 8/EtOH_1.csv,2024-04-09,8,EtOH,1,1,1.0,Day 8/EtOH_1.csv,train,1.0
+Day 8/EtOH_2.csv,2024-04-09,8,EtOH,2,2,2.0,Day 8/EtOH_2.csv,train,1.0
+Day 8/EtOH_3.csv,2024-04-09,8,EtOH,3,3,3.0,Day 8/EtOH_3.csv,train,1.0
+Day 8/Diacetyl_0.1ppm_1.csv,2024-04-09,8,Diacetyl 0.1 ppm,4,4,,Day 8/Diacetyl_0.1ppm_1.csv,train,1.0
+Day 8/Diacetyl_0.1ppm_2.csv,2024-04-09,8,Diacetyl 0.1 ppm,5,5,,Day 8/Diacetyl_0.1ppm_2.csv,train,1.0
+Day 8/Diacetyl_0.1ppm_3.csv,2024-04-09,8,Diacetyl 0.1 ppm,6,6,,Day 8/Diacetyl_0.1ppm_3.csv,train,1.0
+Day 8/Diacetyl_1ppm_1.csv,2024-04-09,8,Diacetyl 1 ppm,7,7,,Day 8/Diacetyl_1ppm_1.csv,train,1.0
+Day 8/Diacetyl_1ppm_2.csv,2024-04-09,8,Diacetyl 1 ppm,8,8,,Day 8/Diacetyl_1ppm_2.csv,train,1.0
+Day 8/Diacetyl_1ppm_3.csv,2024-04-09,8,Diacetyl 1 ppm,9,9,,Day 8/Diacetyl_1ppm_3.csv,train,1.0
+Day 8/EtOH_4.csv,2024-04-09,8,EtOH,10,10,4.0,Day 8/EtOH_4.csv,train,1.0
+Day 8/EtOH_5.csv,2024-04-09,8,EtOH,11,11,5.0,Day 8/EtOH_5.csv,train,1.0
+Day 8/EtOH_6.csv,2024-04-09,8,EtOH,12,12,6.0,Day 8/EtOH_6.csv,train,1.0
+Day 8/Phenylethanol_200ppm_1.csv,2024-04-09,8,2-Phenylethanol 200 ppm,13,13,,Day 8/Phenylethanol_200ppm_1.csv,train,1.0
+Day 8/Phenylethanol_200ppm_2.csv,2024-04-09,8,2-Phenylethanol 200 ppm,14,14,,Day 8/Phenylethanol_200ppm_2.csv,train,1.0
+Day 8/Phenylethanol_200ppm_3.csv,2024-04-09,8,2-Phenylethanol 200 ppm,15,15,,Day 8/Phenylethanol_200ppm_3.csv,train,1.0
+Day 8/Phenylethanol_1000ppm_1.csv,2024-04-09,8,2-Phenylethanol 1000 ppm,16,16,,Day 8/Phenylethanol_1000ppm_1.csv,train,1.0
+Day 8/Phenylethanol_1000ppm_2.csv,2024-04-09,8,2-Phenylethanol 1000 ppm,17,17,,Day 8/Phenylethanol_1000ppm_2.csv,train,1.0
+Day 8/Phenylethanol_1000ppm_3.csv,2024-04-09,8,2-Phenylethanol 1000 ppm,18,18,,Day 8/Phenylethanol_1000ppm_3.csv,train,1.0
+Day 9/EtOH_1.csv,2024-04-12,9,EtOH,1,1,1.0,Day 9/EtOH_1.csv,train,2.0
+Day 9/EtOH_2.csv,2024-04-12,9,EtOH,2,2,2.0,Day 9/EtOH_2.csv,train,2.0
+Day 9/EtOH_3.csv,2024-04-12,9,EtOH,3,3,3.0,Day 9/EtOH_3.csv,train,2.0
+Day 9/Diacetyl_0.1ppm_1.csv,2024-04-12,9,Diacetyl 0.1 ppm,4,4,,Day 9/Diacetyl_0.1ppm_1.csv,train,2.0
+Day 9/Diacetyl_0.1ppm_2.csv,2024-04-12,9,Diacetyl 0.1 ppm,5,5,,Day 9/Diacetyl_0.1ppm_2.csv,train,2.0
+Day 9/Diacetyl_0.1ppm_3.csv,2024-04-12,9,Diacetyl 0.1 ppm,6,6,,Day 9/Diacetyl_0.1ppm_3.csv,train,2.0
+Day 9/Diacetyl_1ppm_1.csv,2024-04-12,9,Diacetyl 1 ppm,7,7,,Day 9/Diacetyl_1ppm_1.csv,train,2.0
+Day 9/Diacetyl_1ppm_2.csv,2024-04-12,9,Diacetyl 1 ppm,8,8,,Day 9/Diacetyl_1ppm_2.csv,train,2.0
+Day 9/Diacetyl_1ppm_3.csv,2024-04-12,9,Diacetyl 1 ppm,9,9,,Day 9/Diacetyl_1ppm_3.csv,train,2.0
+Day 9/EtOH_4.csv,2024-04-12,9,EtOH,10,10,4.0,Day 9/EtOH_4.csv,train,2.0
+Day 9/EtOH_5.csv,2024-04-12,9,EtOH,11,11,5.0,Day 9/EtOH_5.csv,train,2.0
+Day 9/EtOH_6.csv,2024-04-12,9,EtOH,12,12,6.0,Day 9/EtOH_6.csv,train,2.0
+Day 9/Phenylethanol_200ppm_1.csv,2024-04-12,9,2-Phenylethanol 200 ppm,13,13,,Day 9/Phenylethanol_200ppm_1.csv,train,2.0
+Day 9/Phenylethanol_200ppm_2.csv,2024-04-12,9,2-Phenylethanol 200 ppm,14,14,,Day 9/Phenylethanol_200ppm_2.csv,train,2.0
+Day 9/Phenylethanol_200ppm_3.csv,2024-04-12,9,2-Phenylethanol 200 ppm,15,15,,Day 9/Phenylethanol_200ppm_3.csv,train,2.0
+Day 9/Phenylethanol_1000ppm_1.csv,2024-04-12,9,2-Phenylethanol 1000 ppm,16,16,,Day 9/Phenylethanol_1000ppm_1.csv,train,2.0
+Day 9/Phenylethanol_1000ppm_2.csv,2024-04-12,9,2-Phenylethanol 1000 ppm,17,17,,Day 9/Phenylethanol_1000ppm_2.csv,train,2.0
+Day 9/Phenylethanol_1000ppm_3.csv,2024-04-12,9,2-Phenylethanol 1000 ppm,18,18,,Day 9/Phenylethanol_1000ppm_3.csv,train,2.0
+Day 10/EtOH_1.csv,2024-04-16,10,EtOH,1,1,1.0,Day 10/EtOH_1.csv,train,2.0
+Day 10/EtOH_2.csv,2024-04-16,10,EtOH,2,2,2.0,Day 10/EtOH_2.csv,train,2.0
+Day 10/EtOH_3.csv,2024-04-16,10,EtOH,3,3,3.0,Day 10/EtOH_3.csv,train,2.0
+Day 10/Diacetyl_0.1ppm_1.csv,2024-04-16,10,Diacetyl 0.1 ppm,4,4,,Day 10/Diacetyl_0.1ppm_1.csv,train,2.0
+Day 10/Diacetyl_0.1ppm_2.csv,2024-04-16,10,Diacetyl 0.1 ppm,5,5,,Day 10/Diacetyl_0.1ppm_2.csv,train,2.0
+Day 10/Diacetyl_0.1ppm_3.csv,2024-04-16,10,Diacetyl 0.1 ppm,6,6,,Day 10/Diacetyl_0.1ppm_3.csv,train,2.0
+Day 10/Diacetyl_1ppm_1.csv,2024-04-16,10,Diacetyl 1 ppm,7,7,,Day 10/Diacetyl_1ppm_1.csv,train,2.0
+Day 10/Diacetyl_1ppm_2.csv,2024-04-16,10,Diacetyl 1 ppm,8,8,,Day 10/Diacetyl_1ppm_2.csv,train,2.0
+Day 10/Diacetyl_1ppm_3.csv,2024-04-16,10,Diacetyl 1 ppm,9,9,,Day 10/Diacetyl_1ppm_3.csv,train,2.0
+Day 10/EtOH_4.csv,2024-04-16,10,EtOH,10,10,4.0,Day 10/EtOH_4.csv,train,2.0
+Day 10/EtOH_5.csv,2024-04-16,10,EtOH,11,11,5.0,Day 10/EtOH_5.csv,train,2.0
+Day 10/EtOH_6.csv,2024-04-16,10,EtOH,12,12,6.0,Day 10/EtOH_6.csv,train,2.0
+Day 10/Phenylethanol_200ppm_1.csv,2024-04-16,10,2-Phenylethanol 200 ppm,13,13,,Day 10/Phenylethanol_200ppm_1.csv,train,2.0
+Day 10/Phenylethanol_200ppm_2.csv,2024-04-16,10,2-Phenylethanol 200 ppm,14,14,,Day 10/Phenylethanol_200ppm_2.csv,train,2.0
+Day 10/Phenylethanol_200ppm_3.csv,2024-04-16,10,2-Phenylethanol 200 ppm,15,15,,Day 10/Phenylethanol_200ppm_3.csv,train,2.0
+Day 10/Phenylethanol_1000ppm_1.csv,2024-04-16,10,2-Phenylethanol 1000 ppm,16,16,,Day 10/Phenylethanol_1000ppm_1.csv,train,2.0
+Day 10/Phenylethanol_1000ppm_2.csv,2024-04-16,10,2-Phenylethanol 1000 ppm,17,17,,Day 10/Phenylethanol_1000ppm_2.csv,train,2.0
+Day 10/Phenylethanol_1000ppm_3.csv,2024-04-16,10,2-Phenylethanol 1000 ppm,18,18,,Day 10/Phenylethanol_1000ppm_3.csv,train,2.0
+Day 11/EtOH_1.csv,2024-04-26,11,EtOH,1,1,1.0,Day 11/EtOH_1.csv,train,2.0
+Day 11/EtOH_2.csv,2024-04-26,11,EtOH,2,2,2.0,Day 11/EtOH_2.csv,train,2.0
+Day 11/EtOH_3.csv,2024-04-26,11,EtOH,3,3,3.0,Day 11/EtOH_3.csv,train,2.0
+Day 11/Diacetyl_0.1ppm_1.csv,2024-04-26,11,Diacetyl 0.1 ppm,4,4,,Day 11/Diacetyl_0.1ppm_1.csv,train,2.0
+Day 11/Diacetyl_0.1ppm_2.csv,2024-04-26,11,Diacetyl 0.1 ppm,5,5,,Day 11/Diacetyl_0.1ppm_2.csv,train,2.0
+Day 11/Diacetyl_0.1ppm_3.csv,2024-04-26,11,Diacetyl 0.1 ppm,6,6,,Day 11/Diacetyl_0.1ppm_3.csv,train,2.0
+Day 11/Diacetyl_1ppm_1.csv,2024-04-26,11,Diacetyl 1 ppm,7,7,,Day 11/Diacetyl_1ppm_1.csv,train,2.0
+Day 11/Diacetyl_1ppm_2.csv,2024-04-26,11,Diacetyl 1 ppm,8,8,,Day 11/Diacetyl_1ppm_2.csv,train,2.0
+Day 11/Diacetyl_1ppm_3.csv,2024-04-26,11,Diacetyl 1 ppm,9,9,,Day 11/Diacetyl_1ppm_3.csv,train,2.0
+Day 11/EtOH_4.csv,2024-04-26,11,EtOH,10,10,4.0,Day 11/EtOH_4.csv,train,2.0
+Day 11/EtOH_5.csv,2024-04-26,11,EtOH,11,11,5.0,Day 11/EtOH_5.csv,train,2.0
+Day 11/EtOH_6.csv,2024-04-26,11,EtOH,12,12,6.0,Day 11/EtOH_6.csv,train,2.0
+Day 11/Phenylethanol_200ppm_1.csv,2024-04-26,11,2-Phenylethanol 200 ppm,13,13,,Day 11/Phenylethanol_200ppm_1.csv,train,2.0
+Day 11/Phenylethanol_200ppm_2.csv,2024-04-26,11,2-Phenylethanol 200 ppm,14,14,,Day 11/Phenylethanol_200ppm_2.csv,train,2.0
+Day 11/Phenylethanol_200ppm_3.csv,2024-04-26,11,2-Phenylethanol 200 ppm,15,15,,Day 11/Phenylethanol_200ppm_3.csv,train,2.0
+Day 11/Phenylethanol_1000ppm_1.csv,2024-04-26,11,2-Phenylethanol 1000 ppm,16,16,,Day 11/Phenylethanol_1000ppm_1.csv,train,2.0
+Day 11/Phenylethanol_1000ppm_2.csv,2024-04-26,11,2-Phenylethanol 1000 ppm,17,17,,Day 11/Phenylethanol_1000ppm_2.csv,train,2.0
+Day 11/Phenylethanol_1000ppm_3.csv,2024-04-26,11,2-Phenylethanol 1000 ppm,18,18,,Day 11/Phenylethanol_1000ppm_3.csv,train,2.0
+Day 12/EtOH_1.csv,2024-05-07,12,EtOH,1,1,1.0,Day 12/EtOH_1.csv,train,2.0
+Day 12/EtOH_2.csv,2024-05-07,12,EtOH,2,2,2.0,Day 12/EtOH_2.csv,train,2.0
+Day 12/Diacetyl_0.1ppm_1.csv,2024-05-07,12,Diacetyl 0.1 ppm,3,3,,Day 12/Diacetyl_0.1ppm_1.csv,train,2.0
+Day 12/Diacetyl_0.1ppm_2.csv,2024-05-07,12,Diacetyl 0.1 ppm,4,4,,Day 12/Diacetyl_0.1ppm_2.csv,train,2.0
+Day 12/Diacetyl_0.1ppm_3.csv,2024-05-07,12,Diacetyl 0.1 ppm,5,5,,Day 12/Diacetyl_0.1ppm_3.csv,train,2.0
+Day 12/Diacetyl_1ppm_1.csv,2024-05-07,12,Diacetyl 1 ppm,6,6,,Day 12/Diacetyl_1ppm_1.csv,train,2.0
+Day 12/Diacetyl_1ppm_2.csv,2024-05-07,12,Diacetyl 1 ppm,7,7,,Day 12/Diacetyl_1ppm_2.csv,train,2.0
+Day 12/Diacetyl_1ppm_3.csv,2024-05-07,12,Diacetyl 1 ppm,8,8,,Day 12/Diacetyl_1ppm_3.csv,train,2.0
+Day 12/EtOH_3.csv,2024-05-07,12,EtOH,9,9,3.0,Day 12/EtOH_3.csv,train,2.0
+Day 12/EtOH_4.csv,2024-05-07,12,EtOH,10,10,4.0,Day 12/EtOH_4.csv,train,2.0
+Day 12/EtOH_5.csv,2024-05-07,12,EtOH,11,11,5.0,Day 12/EtOH_5.csv,train,2.0
+Day 12/Phenylethanol_200ppm_1.csv,2024-05-07,12,2-Phenylethanol 200 ppm,12,12,,Day 12/Phenylethanol_200ppm_1.csv,train,2.0
+Day 12/Phenylethanol_200ppm_2.csv,2024-05-07,12,2-Phenylethanol 200 ppm,13,13,,Day 12/Phenylethanol_200ppm_2.csv,train,2.0
+Day 12/Phenylethanol_200ppm_3.csv,2024-05-07,12,2-Phenylethanol 200 ppm,14,14,,Day 12/Phenylethanol_200ppm_3.csv,train,2.0
+Day 12/Phenylethanol_1000ppm_1.csv,2024-05-07,12,2-Phenylethanol 1000 ppm,15,15,,Day 12/Phenylethanol_1000ppm_1.csv,train,2.0
+Day 12/Phenylethanol_1000ppm_2.csv,2024-05-07,12,2-Phenylethanol 1000 ppm,16,16,,Day 12/Phenylethanol_1000ppm_2.csv,train,2.0
+Day 12/Phenylethanol_1000ppm_3.csv,2024-05-07,12,2-Phenylethanol 1000 ppm,17,17,,Day 12/Phenylethanol_1000ppm_3.csv,train,2.0
+Day 13/EtOH_1.csv,2024-05-14,13,EtOH,1,1,1.0,Day 13/EtOH_1.csv,train,3.0
+Day 13/EtOH_2.csv,2024-05-14,13,EtOH,2,2,2.0,Day 13/EtOH_2.csv,train,3.0
+Day 13/EtOH_3.csv,2024-05-14,13,EtOH,3,3,3.0,Day 13/EtOH_3.csv,train,3.0
+Day 13/Diacetyl_0.1ppm_1.csv,2024-05-14,13,Diacetyl 0.1 ppm,4,4,,Day 13/Diacetyl_0.1ppm_1.csv,train,3.0
+Day 13/Diacetyl_0.1ppm_2.csv,2024-05-14,13,Diacetyl 0.1 ppm,5,5,,Day 13/Diacetyl_0.1ppm_2.csv,train,3.0
+Day 13/Diacetyl_0.1ppm_3.csv,2024-05-14,13,Diacetyl 0.1 ppm,6,6,,Day 13/Diacetyl_0.1ppm_3.csv,train,3.0
+Day 13/Diacetyl_1ppm_1.csv,2024-05-14,13,Diacetyl 1 ppm,7,7,,Day 13/Diacetyl_1ppm_1.csv,train,3.0
+Day 13/Diacetyl_1ppm_2.csv,2024-05-14,13,Diacetyl 1 ppm,8,8,,Day 13/Diacetyl_1ppm_2.csv,train,3.0
+Day 13/Diacetyl_1ppm_3.csv,2024-05-14,13,Diacetyl 1 ppm,9,9,,Day 13/Diacetyl_1ppm_3.csv,train,3.0
+Day 13/EtOH_4.csv,2024-05-14,13,EtOH,10,10,4.0,Day 13/EtOH_4.csv,train,3.0
+Day 13/EtOH_5.csv,2024-05-14,13,EtOH,11,11,5.0,Day 13/EtOH_5.csv,train,3.0
+Day 13/EtOH_6.csv,2024-05-14,13,EtOH,12,12,6.0,Day 13/EtOH_6.csv,train,3.0
+Day 13/Phenylethanol_200ppm_1.csv,2024-05-14,13,2-Phenylethanol 200 ppm,13,13,,Day 13/Phenylethanol_200ppm_1.csv,train,3.0
+Day 13/Phenylethanol_200ppm_2.csv,2024-05-14,13,2-Phenylethanol 200 ppm,14,14,,Day 13/Phenylethanol_200ppm_2.csv,train,3.0
+Day 13/Phenylethanol_200ppm_3.csv,2024-05-14,13,2-Phenylethanol 200 ppm,15,15,,Day 13/Phenylethanol_200ppm_3.csv,train,3.0
+Day 13/Phenylethanol_1000ppm_1.csv,2024-05-14,13,2-Phenylethanol 1000 ppm,16,16,,Day 13/Phenylethanol_1000ppm_1.csv,train,3.0
+Day 13/Phenylethanol_1000ppm_2.csv,2024-05-14,13,2-Phenylethanol 1000 ppm,17,17,,Day 13/Phenylethanol_1000ppm_2.csv,train,3.0
+Day 13/Phenylethanol_1000ppm_3.csv,2024-05-14,13,2-Phenylethanol 1000 ppm,18,18,,Day 13/Phenylethanol_1000ppm_3.csv,train,3.0
+Day 15/EtOH_1.csv,2024-06-12,15,EtOH,1,1,1.0,Day 15/EtOH_1.csv,train,3.0
+Day 15/EtOH_2.csv,2024-06-12,15,EtOH,2,2,2.0,Day 15/EtOH_2.csv,train,3.0
+Day 15/EtOH_3.csv,2024-06-12,15,EtOH,3,3,3.0,Day 15/EtOH_3.csv,train,3.0
+Day 15/Diacetyl_0.1ppm_1.csv,2024-06-12,15,Diacetyl 0.1 ppm,4,4,,Day 15/Diacetyl_0.1ppm_1.csv,train,3.0
+Day 15/Diacetyl_0.1ppm_2.csv,2024-06-12,15,Diacetyl 0.1 ppm,5,5,,Day 15/Diacetyl_0.1ppm_2.csv,train,3.0
+Day 15/Diacetyl_0.1ppm_3.csv,2024-06-12,15,Diacetyl 0.1 ppm,6,6,,Day 15/Diacetyl_0.1ppm_3.csv,train,3.0
+Day 15/Diacetyl_1ppm_1.csv,2024-06-12,15,Diacetyl 1 ppm,7,7,,Day 15/Diacetyl_1ppm_1.csv,train,3.0
+Day 15/Diacetyl_1ppm_2.csv,2024-06-12,15,Diacetyl 1 ppm,8,8,,Day 15/Diacetyl_1ppm_2.csv,train,3.0
+Day 15/Diacetyl_1ppm_3.csv,2024-06-12,15,Diacetyl 1 ppm,9,9,,Day 15/Diacetyl_1ppm_3.csv,train,3.0
+Day 15/EtOH_4.csv,2024-06-12,15,EtOH,10,10,4.0,Day 15/EtOH_4.csv,train,3.0
+Day 15/EtOH_5.csv,2024-06-12,15,EtOH,11,11,5.0,Day 15/EtOH_5.csv,train,3.0
+Day 15/EtOH_6.csv,2024-06-12,15,EtOH,12,12,6.0,Day 15/EtOH_6.csv,train,3.0
+Day 15/Phenylethanol_200ppm_1.csv,2024-06-12,15,2-Phenylethanol 200 ppm,13,13,,Day 15/Phenylethanol_200ppm_1.csv,train,3.0
+Day 15/Phenylethanol_200ppm_2.csv,2024-06-12,15,2-Phenylethanol 200 ppm,14,14,,Day 15/Phenylethanol_200ppm_2.csv,train,3.0
+Day 15/Phenylethanol_200ppm_3.csv,2024-06-12,15,2-Phenylethanol 200 ppm,15,15,,Day 15/Phenylethanol_200ppm_3.csv,train,3.0
+Day 15/Phenylethanol_1000ppm_1.csv,2024-06-12,15,2-Phenylethanol 1000 ppm,16,16,,Day 15/Phenylethanol_1000ppm_1.csv,train,3.0
+Day 15/Phenylethanol_1000ppm_2.csv,2024-06-12,15,2-Phenylethanol 1000 ppm,17,17,,Day 15/Phenylethanol_1000ppm_2.csv,train,3.0
+Day 15/Phenylethanol_1000ppm_3.csv,2024-06-12,15,2-Phenylethanol 1000 ppm,18,18,,Day 15/Phenylethanol_1000ppm_3.csv,train,3.0
+Day 16/EtOH_1.csv,2024-06-14,16,EtOH,1,1,1.0,Day 16/EtOH_1.csv,train,3.0
+Day 16/EtOH_2.csv,2024-06-14,16,EtOH,2,2,2.0,Day 16/EtOH_2.csv,train,3.0
+Day 16/EtOH_3.csv,2024-06-14,16,EtOH,3,3,3.0,Day 16/EtOH_3.csv,train,3.0
+Day 16/Diacetyl_0.1ppm_1.csv,2024-06-14,16,Diacetyl 0.1 ppm,4,4,,Day 16/Diacetyl_0.1ppm_1.csv,train,3.0
+Day 16/Diacetyl_0.1ppm_2.csv,2024-06-14,16,Diacetyl 0.1 ppm,5,5,,Day 16/Diacetyl_0.1ppm_2.csv,train,3.0
+Day 16/Diacetyl_0.1ppm_3.csv,2024-06-14,16,Diacetyl 0.1 ppm,6,6,,Day 16/Diacetyl_0.1ppm_3.csv,train,3.0
+Day 16/Diacetyl_1ppm_1.csv,2024-06-14,16,Diacetyl 1 ppm,7,7,,Day 16/Diacetyl_1ppm_1.csv,train,3.0
+Day 16/Diacetyl_1ppm_2.csv,2024-06-14,16,Diacetyl 1 ppm,8,8,,Day 16/Diacetyl_1ppm_2.csv,train,3.0
+Day 16/Diacetyl_1ppm_3.csv,2024-06-14,16,Diacetyl 1 ppm,9,9,,Day 16/Diacetyl_1ppm_3.csv,train,3.0
+Day 16/EtOH_4.csv,2024-06-14,16,EtOH,10,10,4.0,Day 16/EtOH_4.csv,train,3.0
+Day 16/EtOH_5.csv,2024-06-14,16,EtOH,11,11,5.0,Day 16/EtOH_5.csv,train,3.0
+Day 16/EtOH_6.csv,2024-06-14,16,EtOH,12,12,6.0,Day 16/EtOH_6.csv,train,3.0
+Day 16/Phenylethanol_200ppm_1.csv,2024-06-14,16,2-Phenylethanol 200 ppm,13,13,,Day 16/Phenylethanol_200ppm_1.csv,train,3.0
+Day 16/Phenylethanol_200ppm_2.csv,2024-06-14,16,2-Phenylethanol 200 ppm,14,14,,Day 16/Phenylethanol_200ppm_2.csv,train,3.0
+Day 16/Phenylethanol_200ppm_3.csv,2024-06-14,16,2-Phenylethanol 200 ppm,15,15,,Day 16/Phenylethanol_200ppm_3.csv,train,3.0
+Day 16/Phenylethanol_1000ppm_1.csv,2024-06-14,16,2-Phenylethanol 1000 ppm,16,16,,Day 16/Phenylethanol_1000ppm_1.csv,train,3.0
+Day 16/Phenylethanol_1000ppm_2.csv,2024-06-14,16,2-Phenylethanol 1000 ppm,17,17,,Day 16/Phenylethanol_1000ppm_2.csv,train,3.0
+Day 16/Phenylethanol_1000ppm_3.csv,2024-06-14,16,2-Phenylethanol 1000 ppm,18,18,,Day 16/Phenylethanol_1000ppm_3.csv,train,3.0
+Day 17/EtOH_1.csv,2024-06-18,17,EtOH,1,1,1.0,Day 17/EtOH_1.csv,train,3.0
+Day 17/EtOH_2.csv,2024-06-18,17,EtOH,2,2,2.0,Day 17/EtOH_2.csv,train,3.0
+Day 17/EtOH_3.csv,2024-06-18,17,EtOH,3,3,3.0,Day 17/EtOH_3.csv,train,3.0
+Day 17/Diacetyl_0.1ppm_1.csv,2024-06-18,17,Diacetyl 0.1 ppm,4,4,,Day 17/Diacetyl_0.1ppm_1.csv,train,3.0
+Day 17/Diacetyl_0.1ppm_2.csv,2024-06-18,17,Diacetyl 0.1 ppm,5,5,,Day 17/Diacetyl_0.1ppm_2.csv,train,3.0
+Day 17/Diacetyl_0.1ppm_3.csv,2024-06-18,17,Diacetyl 0.1 ppm,6,6,,Day 17/Diacetyl_0.1ppm_3.csv,train,3.0
+Day 17/Diacetyl_1ppm_1.csv,2024-06-18,17,Diacetyl 1 ppm,7,7,,Day 17/Diacetyl_1ppm_1.csv,train,3.0
+Day 17/Diacetyl_1ppm_2.csv,2024-06-18,17,Diacetyl 1 ppm,8,8,,Day 17/Diacetyl_1ppm_2.csv,train,3.0
+Day 17/Diacetyl_1ppm_3.csv,2024-06-18,17,Diacetyl 1 ppm,9,9,,Day 17/Diacetyl_1ppm_3.csv,train,3.0
+Day 17/EtOH_4.csv,2024-06-18,17,EtOH,10,10,4.0,Day 17/EtOH_4.csv,train,3.0
+Day 17/EtOH_5.csv,2024-06-18,17,EtOH,11,11,5.0,Day 17/EtOH_5.csv,train,3.0
+Day 17/EtOH_6.csv,2024-06-18,17,EtOH,12,12,6.0,Day 17/EtOH_6.csv,train,3.0
+Day 17/Phenylethanol_200ppm_1.csv,2024-06-18,17,2-Phenylethanol 200 ppm,13,13,,Day 17/Phenylethanol_200ppm_1.csv,train,3.0
+Day 17/Phenylethanol_200ppm_2.csv,2024-06-18,17,2-Phenylethanol 200 ppm,14,14,,Day 17/Phenylethanol_200ppm_2.csv,train,3.0
+Day 17/Phenylethanol_200ppm_3.csv,2024-06-18,17,2-Phenylethanol 200 ppm,15,15,,Day 17/Phenylethanol_200ppm_3.csv,train,3.0
+Day 17/Phenylethanol_1000ppm_1.csv,2024-06-18,17,2-Phenylethanol 1000 ppm,16,16,,Day 17/Phenylethanol_1000ppm_1.csv,train,3.0
+Day 17/Phenylethanol_1000ppm_2.csv,2024-06-18,17,2-Phenylethanol 1000 ppm,17,17,,Day 17/Phenylethanol_1000ppm_2.csv,train,3.0
+Day 17/Phenylethanol_1000ppm_3.csv,2024-06-18,17,2-Phenylethanol 1000 ppm,18,18,,Day 17/Phenylethanol_1000ppm_3.csv,train,3.0
+Day 18/EtOH_1.csv,2024-06-21,18,EtOH,1,1,1.0,Day 18/EtOH_1.csv,train,4.0
+Day 18/EtOH_2.csv,2024-06-21,18,EtOH,2,2,2.0,Day 18/EtOH_2.csv,train,4.0
+Day 18/EtOH_3.csv,2024-06-21,18,EtOH,3,3,3.0,Day 18/EtOH_3.csv,train,4.0
+Day 18/Diacetyl_0.1ppm_1.csv,2024-06-21,18,Diacetyl 0.1 ppm,4,4,,Day 18/Diacetyl_0.1ppm_1.csv,train,4.0
+Day 18/Diacetyl_0.1ppm_2.csv,2024-06-21,18,Diacetyl 0.1 ppm,5,5,,Day 18/Diacetyl_0.1ppm_2.csv,train,4.0
+Day 18/Diacetyl_0.1ppm_3.csv,2024-06-21,18,Diacetyl 0.1 ppm,6,6,,Day 18/Diacetyl_0.1ppm_3.csv,train,4.0
+Day 18/Diacetyl_1ppm_1.csv,2024-06-21,18,Diacetyl 1 ppm,7,7,,Day 18/Diacetyl_1ppm_1.csv,train,4.0
+Day 18/Diacetyl_1ppm_2.csv,2024-06-21,18,Diacetyl 1 ppm,8,8,,Day 18/Diacetyl_1ppm_2.csv,train,4.0
+Day 18/Diacetyl_1ppm_3.csv,2024-06-21,18,Diacetyl 1 ppm,9,9,,Day 18/Diacetyl_1ppm_3.csv,train,4.0
+Day 18/EtOH_4.csv,2024-06-21,18,EtOH,10,10,4.0,Day 18/EtOH_4.csv,train,4.0
+Day 18/EtOH_5.csv,2024-06-21,18,EtOH,11,11,5.0,Day 18/EtOH_5.csv,train,4.0
+Day 18/EtOH_6.csv,2024-06-21,18,EtOH,12,12,6.0,Day 18/EtOH_6.csv,train,4.0
+Day 18/Phenylethanol_200ppm_1.csv,2024-06-21,18,2-Phenylethanol 200 ppm,13,13,,Day 18/Phenylethanol_200ppm_1.csv,train,4.0
+Day 18/Phenylethanol_200ppm_2.csv,2024-06-21,18,2-Phenylethanol 200 ppm,14,14,,Day 18/Phenylethanol_200ppm_2.csv,train,4.0
+Day 18/Phenylethanol_200ppm_3.csv,2024-06-21,18,2-Phenylethanol 200 ppm,15,15,,Day 18/Phenylethanol_200ppm_3.csv,train,4.0
+Day 18/Phenylethanol_1000ppm_1.csv,2024-06-21,18,2-Phenylethanol 1000 ppm,16,16,,Day 18/Phenylethanol_1000ppm_1.csv,train,4.0
+Day 18/Phenylethanol_1000ppm_2.csv,2024-06-21,18,2-Phenylethanol 1000 ppm,17,17,,Day 18/Phenylethanol_1000ppm_2.csv,train,4.0
+Day 18/Phenylethanol_1000ppm_3.csv,2024-06-21,18,2-Phenylethanol 1000 ppm,18,18,,Day 18/Phenylethanol_1000ppm_3.csv,train,4.0
+Day 19/EtOH_1.csv,2024-07-18,19,EtOH,1,1,1.0,Day 19/EtOH_1.csv,train,4.0
+Day 19/EtOH_2.csv,2024-07-18,19,EtOH,2,2,2.0,Day 19/EtOH_2.csv,train,4.0
+Day 19/EtOH_3.csv,2024-07-18,19,EtOH,3,3,3.0,Day 19/EtOH_3.csv,train,4.0
+Day 19/Diacetyl_0.1ppm_1.csv,2024-07-18,19,Diacetyl 0.1 ppm,4,4,,Day 19/Diacetyl_0.1ppm_1.csv,train,4.0
+Day 19/Diacetyl_0.1ppm_2.csv,2024-07-18,19,Diacetyl 0.1 ppm,5,5,,Day 19/Diacetyl_0.1ppm_2.csv,train,4.0
+Day 19/Diacetyl_0.1ppm_3.csv,2024-07-18,19,Diacetyl 0.1 ppm,6,6,,Day 19/Diacetyl_0.1ppm_3.csv,train,4.0
+Day 19/Diacetyl_1ppm_1.csv,2024-07-18,19,Diacetyl 1 ppm,7,7,,Day 19/Diacetyl_1ppm_1.csv,train,4.0
+Day 19/Diacetyl_1ppm_2.csv,2024-07-18,19,Diacetyl 1 ppm,8,8,,Day 19/Diacetyl_1ppm_2.csv,train,4.0
+Day 19/Diacetyl_1ppm_3.csv,2024-07-18,19,Diacetyl 1 ppm,9,9,,Day 19/Diacetyl_1ppm_3.csv,train,4.0
+Day 19/EtOH_4.csv,2024-07-18,19,EtOH,10,10,4.0,Day 19/EtOH_4.csv,train,4.0
+Day 19/EtOH_5.csv,2024-07-18,19,EtOH,11,11,5.0,Day 19/EtOH_5.csv,train,4.0
+Day 19/EtOH_6.csv,2024-07-18,19,EtOH,12,12,6.0,Day 19/EtOH_6.csv,train,4.0
+Day 19/Phenylethanol_200ppm_1.csv,2024-07-18,19,2-Phenylethanol 200 ppm,13,13,,Day 19/Phenylethanol_200ppm_1.csv,train,4.0
+Day 19/Phenylethanol_200ppm_2.csv,2024-07-18,19,2-Phenylethanol 200 ppm,14,14,,Day 19/Phenylethanol_200ppm_2.csv,train,4.0
+Day 19/Phenylethanol_200ppm_3.csv,2024-07-18,19,2-Phenylethanol 200 ppm,15,15,,Day 19/Phenylethanol_200ppm_3.csv,train,4.0
+Day 19/Phenylethanol_1000ppm_1.csv,2024-07-18,19,2-Phenylethanol 1000 ppm,16,16,,Day 19/Phenylethanol_1000ppm_1.csv,train,4.0
+Day 19/Phenylethanol_1000ppm_2.csv,2024-07-18,19,2-Phenylethanol 1000 ppm,17,17,,Day 19/Phenylethanol_1000ppm_2.csv,train,4.0
+Day 19/Phenylethanol_1000ppm_3.csv,2024-07-18,19,2-Phenylethanol 1000 ppm,18,18,,Day 19/Phenylethanol_1000ppm_3.csv,train,4.0
+Day 20/EtOH_1.csv,2024-08-21,20,EtOH,1,1,1.0,Day 20/EtOH_1.csv,train,4.0
+Day 20/EtOH_2.csv,2024-08-21,20,EtOH,2,2,2.0,Day 20/EtOH_2.csv,train,4.0
+Day 20/EtOH_3.csv,2024-08-21,20,EtOH,3,3,3.0,Day 20/EtOH_3.csv,train,4.0
+Day 20/Diacetyl_0.1ppm_1.csv,2024-08-21,20,Diacetyl 0.1 ppm,4,4,,Day 20/Diacetyl_0.1ppm_1.csv,train,4.0
+Day 20/Diacetyl_0.1ppm_2.csv,2024-08-21,20,Diacetyl 0.1 ppm,5,5,,Day 20/Diacetyl_0.1ppm_2.csv,train,4.0
+Day 20/Diacetyl_0.1ppm_3.csv,2024-08-21,20,Diacetyl 0.1 ppm,6,6,,Day 20/Diacetyl_0.1ppm_3.csv,train,4.0
+Day 20/Diacetyl_1ppm_1.csv,2024-08-21,20,Diacetyl 1 ppm,7,7,,Day 20/Diacetyl_1ppm_1.csv,train,4.0
+Day 20/Diacetyl_1ppm_2.csv,2024-08-21,20,Diacetyl 1 ppm,8,8,,Day 20/Diacetyl_1ppm_2.csv,train,4.0
+Day 20/Diacetyl_1ppm_3.csv,2024-08-21,20,Diacetyl 1 ppm,9,9,,Day 20/Diacetyl_1ppm_3.csv,train,4.0
+Day 20/EtOH_4.csv,2024-08-21,20,EtOH,10,10,4.0,Day 20/EtOH_4.csv,train,4.0
+Day 20/EtOH_5.csv,2024-08-21,20,EtOH,11,11,5.0,Day 20/EtOH_5.csv,train,4.0
+Day 20/EtOH_6.csv,2024-08-21,20,EtOH,12,12,6.0,Day 20/EtOH_6.csv,train,4.0
+Day 20/Phenylethanol_200ppm_1.csv,2024-08-21,20,2-Phenylethanol 200 ppm,13,13,,Day 20/Phenylethanol_200ppm_1.csv,train,4.0
+Day 20/Phenylethanol_200ppm_2.csv,2024-08-21,20,2-Phenylethanol 200 ppm,14,14,,Day 20/Phenylethanol_200ppm_2.csv,train,4.0
+Day 20/Phenylethanol_200ppm_3.csv,2024-08-21,20,2-Phenylethanol 200 ppm,15,15,,Day 20/Phenylethanol_200ppm_3.csv,train,4.0
+Day 20/Phenylethanol_1000ppm_1.csv,2024-08-21,20,2-Phenylethanol 1000 ppm,16,16,,Day 20/Phenylethanol_1000ppm_1.csv,train,4.0
+Day 20/Phenylethanol_1000ppm_2.csv,2024-08-21,20,2-Phenylethanol 1000 ppm,17,17,,Day 20/Phenylethanol_1000ppm_2.csv,train,4.0
+Day 20/Phenylethanol_1000ppm_3.csv,2024-08-21,20,2-Phenylethanol 1000 ppm,18,18,,Day 20/Phenylethanol_1000ppm_3.csv,train,4.0
+Day 21/EtOH_1.csv,2024-08-22,21,EtOH,1,1,1.0,Day 21/EtOH_1.csv,train,4.0
+Day 21/EtOH_2.csv,2024-08-22,21,EtOH,2,2,2.0,Day 21/EtOH_2.csv,train,4.0
+Day 21/EtOH_3.csv,2024-08-22,21,EtOH,3,3,3.0,Day 21/EtOH_3.csv,train,4.0
+Day 21/Diacetyl_0.1ppm_1.csv,2024-08-22,21,Diacetyl 0.1 ppm,4,4,,Day 21/Diacetyl_0.1ppm_1.csv,train,4.0
+Day 21/Diacetyl_0.1ppm_2.csv,2024-08-22,21,Diacetyl 0.1 ppm,5,5,,Day 21/Diacetyl_0.1ppm_2.csv,train,4.0
+Day 21/Diacetyl_0.1ppm_3.csv,2024-08-22,21,Diacetyl 0.1 ppm,6,6,,Day 21/Diacetyl_0.1ppm_3.csv,train,4.0
+Day 21/Diacetyl_1ppm_1.csv,2024-08-22,21,Diacetyl 1 ppm,7,7,,Day 21/Diacetyl_1ppm_1.csv,train,4.0
+Day 21/Diacetyl_1ppm_2.csv,2024-08-22,21,Diacetyl 1 ppm,8,8,,Day 21/Diacetyl_1ppm_2.csv,train,4.0
+Day 21/Diacetyl_1ppm_3.csv,2024-08-22,21,Diacetyl 1 ppm,9,9,,Day 21/Diacetyl_1ppm_3.csv,train,4.0
+Day 21/EtOH_4.csv,2024-08-22,21,EtOH,10,10,4.0,Day 21/EtOH_4.csv,train,4.0
+Day 21/EtOH_5.csv,2024-08-22,21,EtOH,11,11,5.0,Day 21/EtOH_5.csv,train,4.0
+Day 21/EtOH_6.csv,2024-08-22,21,EtOH,12,12,6.0,Day 21/EtOH_6.csv,train,4.0
+Day 21/Phenylethanol_200ppm_1.csv,2024-08-22,21,2-Phenylethanol 200 ppm,13,13,,Day 21/Phenylethanol_200ppm_1.csv,train,4.0
+Day 21/Phenylethanol_200ppm_2.csv,2024-08-22,21,2-Phenylethanol 200 ppm,14,14,,Day 21/Phenylethanol_200ppm_2.csv,train,4.0
+Day 21/Phenylethanol_200ppm_3.csv,2024-08-22,21,2-Phenylethanol 200 ppm,15,15,,Day 21/Phenylethanol_200ppm_3.csv,train,4.0
+Day 21/Phenylethanol_1000ppm_1.csv,2024-08-22,21,2-Phenylethanol 1000 ppm,16,16,,Day 21/Phenylethanol_1000ppm_1.csv,train,4.0
+Day 21/Phenylethanol_1000ppm_2.csv,2024-08-22,21,2-Phenylethanol 1000 ppm,17,17,,Day 21/Phenylethanol_1000ppm_2.csv,train,4.0
+Day 21/Phenylethanol_1000ppm_3.csv,2024-08-22,21,2-Phenylethanol 1000 ppm,18,18,,Day 21/Phenylethanol_1000ppm_3.csv,train,4.0
+Day 22/EtOH_1.csv,2024-08-27,22,EtOH,1,1,1.0,Day 22/EtOH_1.csv,train,5.0
+Day 22/EtOH_2.csv,2024-08-27,22,EtOH,2,2,2.0,Day 22/EtOH_2.csv,train,5.0
+Day 22/EtOH_3.csv,2024-08-27,22,EtOH,3,3,3.0,Day 22/EtOH_3.csv,train,5.0
+Day 22/Diacetyl_0.1ppm_1.csv,2024-08-27,22,Diacetyl 0.1 ppm,4,4,,Day 22/Diacetyl_0.1ppm_1.csv,train,5.0
+Day 22/Diacetyl_0.1ppm_2.csv,2024-08-27,22,Diacetyl 0.1 ppm,5,5,,Day 22/Diacetyl_0.1ppm_2.csv,train,5.0
+Day 22/Diacetyl_0.1ppm_3.csv,2024-08-27,22,Diacetyl 0.1 ppm,6,6,,Day 22/Diacetyl_0.1ppm_3.csv,train,5.0
+Day 22/Diacetyl_1ppm_1.csv,2024-08-27,22,Diacetyl 1 ppm,7,7,,Day 22/Diacetyl_1ppm_1.csv,train,5.0
+Day 22/Diacetyl_1ppm_2.csv,2024-08-27,22,Diacetyl 1 ppm,8,8,,Day 22/Diacetyl_1ppm_2.csv,train,5.0
+Day 22/Diacetyl_1ppm_3.csv,2024-08-27,22,Diacetyl 1 ppm,9,9,,Day 22/Diacetyl_1ppm_3.csv,train,5.0
+Day 22/EtOH_4.csv,2024-08-27,22,EtOH,10,10,4.0,Day 22/EtOH_4.csv,train,5.0
+Day 22/EtOH_5.csv,2024-08-27,22,EtOH,11,11,5.0,Day 22/EtOH_5.csv,train,5.0
+Day 22/EtOH_6.csv,2024-08-27,22,EtOH,12,12,6.0,Day 22/EtOH_6.csv,train,5.0
+Day 22/Phenylethanol_200ppm_1.csv,2024-08-27,22,2-Phenylethanol 200 ppm,13,13,,Day 22/Phenylethanol_200ppm_1.csv,train,5.0
+Day 22/Phenylethanol_200ppm_2.csv,2024-08-27,22,2-Phenylethanol 200 ppm,14,14,,Day 22/Phenylethanol_200ppm_2.csv,train,5.0
+Day 22/Phenylethanol_200ppm_3.csv,2024-08-27,22,2-Phenylethanol 200 ppm,15,15,,Day 22/Phenylethanol_200ppm_3.csv,train,5.0
+Day 22/Phenylethanol_1000ppm_1.csv,2024-08-27,22,2-Phenylethanol 1000 ppm,16,16,,Day 22/Phenylethanol_1000ppm_1.csv,train,5.0
+Day 22/Phenylethanol_1000ppm_2.csv,2024-08-27,22,2-Phenylethanol 1000 ppm,17,17,,Day 22/Phenylethanol_1000ppm_2.csv,train,5.0
+Day 22/Phenylethanol_1000ppm_3.csv,2024-08-27,22,2-Phenylethanol 1000 ppm,18,18,,Day 22/Phenylethanol_1000ppm_3.csv,train,5.0
+Day 23/EtOH_1.csv,2024-08-30,23,EtOH,1,1,1.0,Day 23/EtOH_1.csv,train,5.0
+Day 23/EtOH_2.csv,2024-08-30,23,EtOH,2,2,2.0,Day 23/EtOH_2.csv,train,5.0
+Day 23/EtOH_3.csv,2024-08-30,23,EtOH,3,3,3.0,Day 23/EtOH_3.csv,train,5.0
+Day 23/Diacetyl_0.1ppm_1.csv,2024-08-30,23,Diacetyl 0.1 ppm,4,4,,Day 23/Diacetyl_0.1ppm_1.csv,train,5.0
+Day 23/Diacetyl_0.1ppm_2.csv,2024-08-30,23,Diacetyl 0.1 ppm,5,5,,Day 23/Diacetyl_0.1ppm_2.csv,train,5.0
+Day 23/Diacetyl_0.1ppm_3.csv,2024-08-30,23,Diacetyl 0.1 ppm,6,6,,Day 23/Diacetyl_0.1ppm_3.csv,train,5.0
+Day 23/Diacetyl_1ppm_1.csv,2024-08-30,23,Diacetyl 1 ppm,7,7,,Day 23/Diacetyl_1ppm_1.csv,train,5.0
+Day 23/Diacetyl_1ppm_2.csv,2024-08-30,23,Diacetyl 1 ppm,8,8,,Day 23/Diacetyl_1ppm_2.csv,train,5.0
+Day 23/Diacetyl_1ppm_3.csv,2024-08-30,23,Diacetyl 1 ppm,9,9,,Day 23/Diacetyl_1ppm_3.csv,train,5.0
+Day 23/EtOH_4.csv,2024-08-30,23,EtOH,10,10,4.0,Day 23/EtOH_4.csv,train,5.0
+Day 23/EtOH_5.csv,2024-08-30,23,EtOH,11,11,5.0,Day 23/EtOH_5.csv,train,5.0
+Day 23/EtOH_6.csv,2024-08-30,23,EtOH,12,12,6.0,Day 23/EtOH_6.csv,train,5.0
+Day 23/Phenylethanol_200ppm_1.csv,2024-08-30,23,2-Phenylethanol 200 ppm,13,13,,Day 23/Phenylethanol_200ppm_1.csv,train,5.0
+Day 23/Phenylethanol_200ppm_2.csv,2024-08-30,23,2-Phenylethanol 200 ppm,14,14,,Day 23/Phenylethanol_200ppm_2.csv,train,5.0
+Day 23/Phenylethanol_200ppm_3.csv,2024-08-30,23,2-Phenylethanol 200 ppm,15,15,,Day 23/Phenylethanol_200ppm_3.csv,train,5.0
+Day 23/Phenylethanol_1000ppm_1.csv,2024-08-30,23,2-Phenylethanol 1000 ppm,16,16,,Day 23/Phenylethanol_1000ppm_1.csv,train,5.0
+Day 23/Phenylethanol_1000ppm_2.csv,2024-08-30,23,2-Phenylethanol 1000 ppm,17,17,,Day 23/Phenylethanol_1000ppm_2.csv,train,5.0
+Day 23/Phenylethanol_1000ppm_3.csv,2024-08-30,23,2-Phenylethanol 1000 ppm,18,18,,Day 23/Phenylethanol_1000ppm_3.csv,train,5.0
+Day 24/EtOH_1.csv,2024-09-03,24,EtOH,1,1,1.0,Day 24/EtOH_1.csv,train,5.0
+Day 24/EtOH_2.csv,2024-09-03,24,EtOH,2,2,2.0,Day 24/EtOH_2.csv,train,5.0
+Day 24/EtOH_3.csv,2024-09-03,24,EtOH,3,3,3.0,Day 24/EtOH_3.csv,train,5.0
+Day 24/Diacetyl_0.1ppm_1.csv,2024-09-03,24,Diacetyl 0.1 ppm,4,4,,Day 24/Diacetyl_0.1ppm_1.csv,train,5.0
+Day 24/Diacetyl_0.1ppm_2.csv,2024-09-03,24,Diacetyl 0.1 ppm,5,5,,Day 24/Diacetyl_0.1ppm_2.csv,train,5.0
+Day 24/Diacetyl_0.1ppm_3.csv,2024-09-03,24,Diacetyl 0.1 ppm,6,6,,Day 24/Diacetyl_0.1ppm_3.csv,train,5.0
+Day 24/Diacetyl_1ppm_1.csv,2024-09-03,24,Diacetyl 1 ppm,7,7,,Day 24/Diacetyl_1ppm_1.csv,train,5.0
+Day 24/Diacetyl_1ppm_2.csv,2024-09-03,24,Diacetyl 1 ppm,8,8,,Day 24/Diacetyl_1ppm_2.csv,train,5.0
+Day 24/Diacetyl_1ppm_3.csv,2024-09-03,24,Diacetyl 1 ppm,9,9,,Day 24/Diacetyl_1ppm_3.csv,train,5.0
+Day 24/EtOH_4.csv,2024-09-03,24,EtOH,10,10,4.0,Day 24/EtOH_4.csv,train,5.0
+Day 24/EtOH_5.csv,2024-09-03,24,EtOH,11,11,5.0,Day 24/EtOH_5.csv,train,5.0
+Day 24/EtOH_6.csv,2024-09-03,24,EtOH,12,12,6.0,Day 24/EtOH_6.csv,train,5.0
+Day 24/Phenylethanol_200ppm_1.csv,2024-09-03,24,2-Phenylethanol 200 ppm,13,13,,Day 24/Phenylethanol_200ppm_1.csv,train,5.0
+Day 24/Phenylethanol_200ppm_2.csv,2024-09-03,24,2-Phenylethanol 200 ppm,14,14,,Day 24/Phenylethanol_200ppm_2.csv,train,5.0
+Day 24/Phenylethanol_200ppm_3.csv,2024-09-03,24,2-Phenylethanol 200 ppm,15,15,,Day 24/Phenylethanol_200ppm_3.csv,train,5.0
+Day 24/Phenylethanol_1000ppm_1.csv,2024-09-03,24,2-Phenylethanol 1000 ppm,16,16,,Day 24/Phenylethanol_1000ppm_1.csv,train,5.0
+Day 24/Phenylethanol_1000ppm_2.csv,2024-09-03,24,2-Phenylethanol 1000 ppm,17,17,,Day 24/Phenylethanol_1000ppm_2.csv,train,5.0
+Day 24/Phenylethanol_1000ppm_3.csv,2024-09-03,24,2-Phenylethanol 1000 ppm,18,18,,Day 24/Phenylethanol_1000ppm_3.csv,train,5.0
+Day 25/EtOH_1.csv,2024-09-06,25,EtOH,1,1,1.0,Day 25/EtOH_1.csv,train,5.0
+Day 25/EtOH_2.csv,2024-09-06,25,EtOH,2,2,2.0,Day 25/EtOH_2.csv,train,5.0
+Day 25/EtOH_3.csv,2024-09-06,25,EtOH,3,3,3.0,Day 25/EtOH_3.csv,train,5.0
+Day 25/Diacetyl_0.1ppm_1.csv,2024-09-06,25,Diacetyl 0.1 ppm,4,4,,Day 25/Diacetyl_0.1ppm_1.csv,train,5.0
+Day 25/Diacetyl_0.1ppm_2.csv,2024-09-06,25,Diacetyl 0.1 ppm,5,5,,Day 25/Diacetyl_0.1ppm_2.csv,train,5.0
+Day 25/Diacetyl_0.1ppm_3.csv,2024-09-06,25,Diacetyl 0.1 ppm,6,6,,Day 25/Diacetyl_0.1ppm_3.csv,train,5.0
+Day 25/Diacetyl_1ppm_1.csv,2024-09-06,25,Diacetyl 1 ppm,7,7,,Day 25/Diacetyl_1ppm_1.csv,train,5.0
+Day 25/Diacetyl_1ppm_2.csv,2024-09-06,25,Diacetyl 1 ppm,8,8,,Day 25/Diacetyl_1ppm_2.csv,train,5.0
+Day 25/Diacetyl_1ppm_3.csv,2024-09-06,25,Diacetyl 1 ppm,9,9,,Day 25/Diacetyl_1ppm_3.csv,train,5.0
+Day 25/EtOH_4.csv,2024-09-06,25,EtOH,10,10,4.0,Day 25/EtOH_4.csv,train,5.0
+Day 25/EtOH_5.csv,2024-09-06,25,EtOH,11,11,5.0,Day 25/EtOH_5.csv,train,5.0
+Day 25/EtOH_6.csv,2024-09-06,25,EtOH,12,12,6.0,Day 25/EtOH_6.csv,train,5.0
+Day 25/Phenylethanol_200ppm_1.csv,2024-09-06,25,2-Phenylethanol 200 ppm,13,13,,Day 25/Phenylethanol_200ppm_1.csv,train,5.0
+Day 25/Phenylethanol_200ppm_2.csv,2024-09-06,25,2-Phenylethanol 200 ppm,14,14,,Day 25/Phenylethanol_200ppm_2.csv,train,5.0
+Day 25/Phenylethanol_200ppm_3.csv,2024-09-06,25,2-Phenylethanol 200 ppm,15,15,,Day 25/Phenylethanol_200ppm_3.csv,train,5.0
+Day 25/Phenylethanol_1000ppm_1.csv,2024-09-06,25,2-Phenylethanol 1000 ppm,16,16,,Day 25/Phenylethanol_1000ppm_1.csv,train,5.0
+Day 25/Phenylethanol_1000ppm_2.csv,2024-09-06,25,2-Phenylethanol 1000 ppm,17,17,,Day 25/Phenylethanol_1000ppm_2.csv,train,5.0
+Day 25/Phenylethanol_1000ppm_3.csv,2024-09-06,25,2-Phenylethanol 1000 ppm,18,18,,Day 25/Phenylethanol_1000ppm_3.csv,train,5.0
+Day 26/EtOH_1.csv,2024-10-31,26,EtOH,1,1,1.0,Day 26/EtOH_1.csv,validation,
+Day 26/EtOH_2.csv,2024-10-31,26,EtOH,2,2,2.0,Day 26/EtOH_2.csv,validation,
+Day 26/EtOH_3.csv,2024-10-31,26,EtOH,3,3,3.0,Day 26/EtOH_3.csv,validation,
+Day 26/Diacetyl_0.1ppm_1.csv,2024-10-31,26,Diacetyl 0.1 ppm,4,4,,Day 26/Diacetyl_0.1ppm_1.csv,validation,
+Day 26/Diacetyl_0.1ppm_2.csv,2024-10-31,26,Diacetyl 0.1 ppm,5,5,,Day 26/Diacetyl_0.1ppm_2.csv,validation,
+Day 26/Diacetyl_0.1ppm_3.csv,2024-10-31,26,Diacetyl 0.1 ppm,6,6,,Day 26/Diacetyl_0.1ppm_3.csv,validation,
+Day 26/Diacetyl_1ppm_1.csv,2024-10-31,26,Diacetyl 1 ppm,7,7,,Day 26/Diacetyl_1ppm_1.csv,validation,
+Day 26/Diacetyl_1ppm_2.csv,2024-10-31,26,Diacetyl 1 ppm,8,8,,Day 26/Diacetyl_1ppm_2.csv,validation,
+Day 26/Diacetyl_1ppm_3.csv,2024-10-31,26,Diacetyl 1 ppm,9,9,,Day 26/Diacetyl_1ppm_3.csv,validation,
+Day 26/EtOH_4.csv,2024-10-31,26,EtOH,10,10,4.0,Day 26/EtOH_4.csv,validation,
+Day 26/EtOH_5.csv,2024-10-31,26,EtOH,11,11,5.0,Day 26/EtOH_5.csv,validation,
+Day 26/EtOH_6.csv,2024-10-31,26,EtOH,12,12,6.0,Day 26/EtOH_6.csv,validation,
+Day 26/Phenylethanol_200ppm_1.csv,2024-10-31,26,2-Phenylethanol 200 ppm,13,13,,Day 26/Phenylethanol_200ppm_1.csv,validation,
+Day 26/Phenylethanol_200ppm_2.csv,2024-10-31,26,2-Phenylethanol 200 ppm,14,14,,Day 26/Phenylethanol_200ppm_2.csv,validation,
+Day 26/Phenylethanol_200ppm_3.csv,2024-10-31,26,2-Phenylethanol 200 ppm,15,15,,Day 26/Phenylethanol_200ppm_3.csv,validation,
+Day 26/Phenylethanol_1000ppm_1.csv,2024-10-31,26,2-Phenylethanol 1000 ppm,16,16,,Day 26/Phenylethanol_1000ppm_1.csv,validation,
+Day 26/Phenylethanol_1000ppm_2.csv,2024-10-31,26,2-Phenylethanol 1000 ppm,17,17,,Day 26/Phenylethanol_1000ppm_2.csv,validation,
+Day 26/Phenylethanol_1000ppm_3.csv,2024-10-31,26,2-Phenylethanol 1000 ppm,18,18,,Day 26/Phenylethanol_1000ppm_3.csv,validation,
+Day 27/EtOH_1.csv,2024-11-07,27,EtOH,1,1,1.0,Day 27/EtOH_1.csv,validation,
+Day 27/EtOH_2.csv,2024-11-07,27,EtOH,2,2,2.0,Day 27/EtOH_2.csv,validation,
+Day 27/EtOH_3.csv,2024-11-07,27,EtOH,3,3,3.0,Day 27/EtOH_3.csv,validation,
+Day 27/Diacetyl_0.1ppm_1.csv,2024-11-07,27,Diacetyl 0.1 ppm,4,4,,Day 27/Diacetyl_0.1ppm_1.csv,validation,
+Day 27/Diacetyl_0.1ppm_2.csv,2024-11-07,27,Diacetyl 0.1 ppm,5,5,,Day 27/Diacetyl_0.1ppm_2.csv,validation,
+Day 27/Diacetyl_0.1ppm_3.csv,2024-11-07,27,Diacetyl 0.1 ppm,6,6,,Day 27/Diacetyl_0.1ppm_3.csv,validation,
+Day 27/Diacetyl_1ppm_1.csv,2024-11-07,27,Diacetyl 1 ppm,7,7,,Day 27/Diacetyl_1ppm_1.csv,validation,
+Day 27/Diacetyl_1ppm_2.csv,2024-11-07,27,Diacetyl 1 ppm,8,8,,Day 27/Diacetyl_1ppm_2.csv,validation,
+Day 27/Diacetyl_1ppm_3.csv,2024-11-07,27,Diacetyl 1 ppm,9,9,,Day 27/Diacetyl_1ppm_3.csv,validation,
+Day 27/EtOH_4.csv,2024-11-07,27,EtOH,10,10,4.0,Day 27/EtOH_4.csv,validation,
+Day 27/EtOH_5.csv,2024-11-07,27,EtOH,11,11,5.0,Day 27/EtOH_5.csv,validation,
+Day 27/EtOH_6.csv,2024-11-07,27,EtOH,12,12,6.0,Day 27/EtOH_6.csv,validation,
+Day 27/Phenylethanol_200ppm_1.csv,2024-11-07,27,2-Phenylethanol 200 ppm,13,13,,Day 27/Phenylethanol_200ppm_1.csv,validation,
+Day 27/Phenylethanol_200ppm_2.csv,2024-11-07,27,2-Phenylethanol 200 ppm,14,14,,Day 27/Phenylethanol_200ppm_2.csv,validation,
+Day 27/Phenylethanol_200ppm_3.csv,2024-11-07,27,2-Phenylethanol 200 ppm,15,15,,Day 27/Phenylethanol_200ppm_3.csv,validation,
+Day 27/Phenylethanol_1000ppm_1.csv,2024-11-07,27,2-Phenylethanol 1000 ppm,16,16,,Day 27/Phenylethanol_1000ppm_1.csv,validation,
+Day 27/Phenylethanol_1000ppm_2.csv,2024-11-07,27,2-Phenylethanol 1000 ppm,17,17,,Day 27/Phenylethanol_1000ppm_2.csv,validation,
+Day 27/Phenylethanol_1000ppm_3.csv,2024-11-07,27,2-Phenylethanol 1000 ppm,18,18,,Day 27/Phenylethanol_1000ppm_3.csv,validation,
+Day 28/EtOH_1.csv,2024-11-22,28,EtOH,1,1,1.0,Day 28/EtOH_1.csv,validation,
+Day 28/EtOH_2.csv,2024-11-22,28,EtOH,2,2,2.0,Day 28/EtOH_2.csv,validation,
+Day 28/EtOH_3.csv,2024-11-22,28,EtOH,3,3,3.0,Day 28/EtOH_3.csv,validation,
+Day 28/Diacetyl_0.1ppm_1.csv,2024-11-22,28,Diacetyl 0.1 ppm,4,4,,Day 28/Diacetyl_0.1ppm_1.csv,validation,
+Day 28/Diacetyl_0.1ppm_2.csv,2024-11-22,28,Diacetyl 0.1 ppm,5,5,,Day 28/Diacetyl_0.1ppm_2.csv,validation,
+Day 28/Diacetyl_0.1ppm_3.csv,2024-11-22,28,Diacetyl 0.1 ppm,6,6,,Day 28/Diacetyl_0.1ppm_3.csv,validation,
+Day 28/Diacetyl_1ppm_1.csv,2024-11-22,28,Diacetyl 1 ppm,7,7,,Day 28/Diacetyl_1ppm_1.csv,validation,
+Day 28/Diacetyl_1ppm_2.csv,2024-11-22,28,Diacetyl 1 ppm,8,8,,Day 28/Diacetyl_1ppm_2.csv,validation,
+Day 28/Diacetyl_1ppm_3.csv,2024-11-22,28,Diacetyl 1 ppm,9,9,,Day 28/Diacetyl_1ppm_3.csv,validation,
+Day 28/EtOH_4.csv,2024-11-22,28,EtOH,10,10,4.0,Day 28/EtOH_4.csv,validation,
+Day 28/EtOH_5.csv,2024-11-22,28,EtOH,11,11,5.0,Day 28/EtOH_5.csv,validation,
+Day 28/EtOH_6.csv,2024-11-22,28,EtOH,12,12,6.0,Day 28/EtOH_6.csv,validation,
+Day 28/Phenylethanol_200ppm_1.csv,2024-11-22,28,2-Phenylethanol 200 ppm,13,13,,Day 28/Phenylethanol_200ppm_1.csv,validation,
+Day 28/Phenylethanol_200ppm_2.csv,2024-11-22,28,2-Phenylethanol 200 ppm,14,14,,Day 28/Phenylethanol_200ppm_2.csv,validation,
+Day 28/Phenylethanol_200ppm_3.csv,2024-11-22,28,2-Phenylethanol 200 ppm,15,15,,Day 28/Phenylethanol_200ppm_3.csv,validation,
+Day 28/Phenylethanol_1000ppm_1.csv,2024-11-22,28,2-Phenylethanol 1000 ppm,16,16,,Day 28/Phenylethanol_1000ppm_1.csv,validation,
+Day 28/Phenylethanol_1000ppm_2.csv,2024-11-22,28,2-Phenylethanol 1000 ppm,17,17,,Day 28/Phenylethanol_1000ppm_2.csv,validation,
+Day 28/Phenylethanol_1000ppm_3.csv,2024-11-22,28,2-Phenylethanol 1000 ppm,18,18,,Day 28/Phenylethanol_1000ppm_3.csv,validation,
+Day 29/EtOH_1.csv,2024-11-28,29,EtOH,1,1,1.0,Day 29/EtOH_1.csv,validation,
+Day 29/EtOH_2.csv,2024-11-28,29,EtOH,2,2,2.0,Day 29/EtOH_2.csv,validation,
+Day 29/EtOH_3.csv,2024-11-28,29,EtOH,3,3,3.0,Day 29/EtOH_3.csv,validation,
+Day 29/Diacetyl_0.1ppm_1.csv,2024-11-28,29,Diacetyl 0.1 ppm,4,4,,Day 29/Diacetyl_0.1ppm_1.csv,validation,
+Day 29/Diacetyl_0.1ppm_2.csv,2024-11-28,29,Diacetyl 0.1 ppm,5,5,,Day 29/Diacetyl_0.1ppm_2.csv,validation,
+Day 29/Diacetyl_0.1ppm_3.csv,2024-11-28,29,Diacetyl 0.1 ppm,6,6,,Day 29/Diacetyl_0.1ppm_3.csv,validation,
+Day 29/Diacetyl_1ppm_1.csv,2024-11-28,29,Diacetyl 1 ppm,7,7,,Day 29/Diacetyl_1ppm_1.csv,validation,
+Day 29/Diacetyl_1ppm_2.csv,2024-11-28,29,Diacetyl 1 ppm,8,8,,Day 29/Diacetyl_1ppm_2.csv,validation,
+Day 29/Diacetyl_1ppm_3.csv,2024-11-28,29,Diacetyl 1 ppm,9,9,,Day 29/Diacetyl_1ppm_3.csv,validation,
+Day 29/EtOH_4.csv,2024-11-28,29,EtOH,10,10,4.0,Day 29/EtOH_4.csv,validation,
+Day 29/EtOH_5.csv,2024-11-28,29,EtOH,11,11,5.0,Day 29/EtOH_5.csv,validation,
+Day 29/EtOH_6.csv,2024-11-28,29,EtOH,12,12,6.0,Day 29/EtOH_6.csv,validation,
+Day 29/Phenylethanol_200ppm_1.csv,2024-11-28,29,2-Phenylethanol 200 ppm,13,13,,Day 29/Phenylethanol_200ppm_1.csv,validation,
+Day 29/Phenylethanol_200ppm_2.csv,2024-11-28,29,2-Phenylethanol 200 ppm,14,14,,Day 29/Phenylethanol_200ppm_2.csv,validation,
+Day 29/Phenylethanol_200ppm_3.csv,2024-11-28,29,2-Phenylethanol 200 ppm,15,15,,Day 29/Phenylethanol_200ppm_3.csv,validation,
+Day 29/Phenylethanol_1000ppm_1.csv,2024-11-28,29,2-Phenylethanol 1000 ppm,16,16,,Day 29/Phenylethanol_1000ppm_1.csv,validation,
+Day 29/Phenylethanol_1000ppm_2.csv,2024-11-28,29,2-Phenylethanol 1000 ppm,17,17,,Day 29/Phenylethanol_1000ppm_2.csv,validation,
+Day 29/Phenylethanol_1000ppm_3.csv,2024-11-28,29,2-Phenylethanol 1000 ppm,18,18,,Day 29/Phenylethanol_1000ppm_3.csv,validation,
+Day 30/EtOH_1.csv,2024-12-03,30,EtOH,1,1,1.0,Day 30/EtOH_1.csv,validation,
+Day 30/EtOH_2.csv,2024-12-03,30,EtOH,2,2,2.0,Day 30/EtOH_2.csv,validation,
+Day 30/EtOH_3.csv,2024-12-03,30,EtOH,3,3,3.0,Day 30/EtOH_3.csv,validation,
+Day 30/Diacetyl_0.1ppm_1.csv,2024-12-03,30,Diacetyl 0.1 ppm,4,4,,Day 30/Diacetyl_0.1ppm_1.csv,validation,
+Day 30/Diacetyl_0.1ppm_2.csv,2024-12-03,30,Diacetyl 0.1 ppm,5,5,,Day 30/Diacetyl_0.1ppm_2.csv,validation,
+Day 30/Diacetyl_0.1ppm_3.csv,2024-12-03,30,Diacetyl 0.1 ppm,6,6,,Day 30/Diacetyl_0.1ppm_3.csv,validation,
+Day 30/Diacetyl_1ppm_1.csv,2024-12-03,30,Diacetyl 1 ppm,7,7,,Day 30/Diacetyl_1ppm_1.csv,validation,
+Day 30/Diacetyl_1ppm_2.csv,2024-12-03,30,Diacetyl 1 ppm,8,8,,Day 30/Diacetyl_1ppm_2.csv,validation,
+Day 30/Diacetyl_1ppm_3.csv,2024-12-03,30,Diacetyl 1 ppm,9,9,,Day 30/Diacetyl_1ppm_3.csv,validation,
+Day 30/EtOH_4.csv,2024-12-03,30,EtOH,10,10,4.0,Day 30/EtOH_4.csv,validation,
+Day 30/EtOH_5.csv,2024-12-03,30,EtOH,11,11,5.0,Day 30/EtOH_5.csv,validation,
+Day 30/EtOH_6.csv,2024-12-03,30,EtOH,12,12,6.0,Day 30/EtOH_6.csv,validation,
+Day 30/Phenylethanol_200ppm_1.csv,2024-12-03,30,2-Phenylethanol 200 ppm,13,13,,Day 30/Phenylethanol_200ppm_1.csv,validation,
+Day 30/Phenylethanol_200ppm_2.csv,2024-12-03,30,2-Phenylethanol 200 ppm,14,14,,Day 30/Phenylethanol_200ppm_2.csv,validation,
+Day 30/Phenylethanol_200ppm_3.csv,2024-12-03,30,2-Phenylethanol 200 ppm,15,15,,Day 30/Phenylethanol_200ppm_3.csv,validation,
+Day 30/Phenylethanol_1000ppm_1.csv,2024-12-03,30,2-Phenylethanol 1000 ppm,16,16,,Day 30/Phenylethanol_1000ppm_1.csv,validation,
+Day 30/Phenylethanol_1000ppm_2.csv,2024-12-03,30,2-Phenylethanol 1000 ppm,17,17,,Day 30/Phenylethanol_1000ppm_2.csv,validation,
+Day 30/Phenylethanol_1000ppm_3.csv,2024-12-03,30,2-Phenylethanol 1000 ppm,18,18,,Day 30/Phenylethanol_1000ppm_3.csv,validation,
+Day 31/EtOH_1.csv,2024-12-13,31,EtOH,1,1,1.0,Day 31/EtOH_1.csv,validation,
+Day 31/EtOH_2.csv,2024-12-13,31,EtOH,2,2,2.0,Day 31/EtOH_2.csv,validation,
+Day 31/EtOH_3.csv,2024-12-13,31,EtOH,3,3,3.0,Day 31/EtOH_3.csv,validation,
+Day 31/Diacetyl_0.1ppm_1.csv,2024-12-13,31,Diacetyl 0.1 ppm,4,4,,Day 31/Diacetyl_0.1ppm_1.csv,validation,
+Day 31/Diacetyl_0.1ppm_2.csv,2024-12-13,31,Diacetyl 0.1 ppm,5,5,,Day 31/Diacetyl_0.1ppm_2.csv,validation,
+Day 31/Diacetyl_0.1ppm_3.csv,2024-12-13,31,Diacetyl 0.1 ppm,6,6,,Day 31/Diacetyl_0.1ppm_3.csv,validation,
+Day 31/Diacetyl_1ppm_1.csv,2024-12-13,31,Diacetyl 1 ppm,7,7,,Day 31/Diacetyl_1ppm_1.csv,validation,
+Day 31/Diacetyl_1ppm_2.csv,2024-12-13,31,Diacetyl 1 ppm,8,8,,Day 31/Diacetyl_1ppm_2.csv,validation,
+Day 31/Diacetyl_1ppm_3.csv,2024-12-13,31,Diacetyl 1 ppm,9,9,,Day 31/Diacetyl_1ppm_3.csv,validation,
+Day 31/EtOH_4.csv,2024-12-13,31,EtOH,10,10,4.0,Day 31/EtOH_4.csv,validation,
+Day 31/EtOH_5.csv,2024-12-13,31,EtOH,11,11,5.0,Day 31/EtOH_5.csv,validation,
+Day 31/EtOH_6.csv,2024-12-13,31,EtOH,12,12,6.0,Day 31/EtOH_6.csv,validation,
+Day 31/Phenylethanol_200ppm_1.csv,2024-12-13,31,2-Phenylethanol 200 ppm,13,13,,Day 31/Phenylethanol_200ppm_1.csv,validation,
+Day 31/Phenylethanol_200ppm_2.csv,2024-12-13,31,2-Phenylethanol 200 ppm,14,14,,Day 31/Phenylethanol_200ppm_2.csv,validation,
+Day 31/Phenylethanol_200ppm_3.csv,2024-12-13,31,2-Phenylethanol 200 ppm,15,15,,Day 31/Phenylethanol_200ppm_3.csv,validation,
+Day 31/Phenylethanol_1000ppm_1.csv,2024-12-13,31,2-Phenylethanol 1000 ppm,16,16,,Day 31/Phenylethanol_1000ppm_1.csv,validation,
+Day 31/Phenylethanol_1000ppm_2.csv,2024-12-13,31,2-Phenylethanol 1000 ppm,17,17,,Day 31/Phenylethanol_1000ppm_2.csv,validation,
+Day 31/Phenylethanol_1000ppm_3.csv,2024-12-13,31,2-Phenylethanol 1000 ppm,18,18,,Day 31/Phenylethanol_1000ppm_3.csv,validation,
+Day 32/EtOH_1.csv,2025-01-08,32,EtOH,1,1,1.0,Day 32/EtOH_1.csv,validation,
+Day 32/EtOH_2.csv,2025-01-08,32,EtOH,2,2,2.0,Day 32/EtOH_2.csv,validation,
+Day 32/EtOH_3.csv,2025-01-08,32,EtOH,3,3,3.0,Day 32/EtOH_3.csv,validation,
+Day 32/Diacetyl_0.1ppm_1.csv,2025-01-08,32,Diacetyl 0.1 ppm,4,4,,Day 32/Diacetyl_0.1ppm_1.csv,validation,
+Day 32/Diacetyl_0.1ppm_2.csv,2025-01-08,32,Diacetyl 0.1 ppm,5,5,,Day 32/Diacetyl_0.1ppm_2.csv,validation,
+Day 32/Diacetyl_0.1ppm_3.csv,2025-01-08,32,Diacetyl 0.1 ppm,6,6,,Day 32/Diacetyl_0.1ppm_3.csv,validation,
+Day 32/Diacetyl_1ppm_1.csv,2025-01-08,32,Diacetyl 1 ppm,7,7,,Day 32/Diacetyl_1ppm_1.csv,validation,
+Day 32/Diacetyl_1ppm_2.csv,2025-01-08,32,Diacetyl 1 ppm,8,8,,Day 32/Diacetyl_1ppm_2.csv,validation,
+Day 32/Diacetyl_1ppm_3.csv,2025-01-08,32,Diacetyl 1 ppm,9,9,,Day 32/Diacetyl_1ppm_3.csv,validation,
+Day 32/EtOH_4.csv,2025-01-08,32,EtOH,10,10,4.0,Day 32/EtOH_4.csv,validation,
+Day 32/EtOH_5.csv,2025-01-08,32,EtOH,11,11,5.0,Day 32/EtOH_5.csv,validation,
+Day 32/EtOH_6.csv,2025-01-08,32,EtOH,12,12,6.0,Day 32/EtOH_6.csv,validation,
+Day 32/Phenylethanol_200ppm_1.csv,2025-01-08,32,2-Phenylethanol 200 ppm,13,13,,Day 32/Phenylethanol_200ppm_1.csv,validation,
+Day 32/Phenylethanol_200ppm_2.csv,2025-01-08,32,2-Phenylethanol 200 ppm,14,14,,Day 32/Phenylethanol_200ppm_2.csv,validation,
+Day 32/Phenylethanol_200ppm_3.csv,2025-01-08,32,2-Phenylethanol 200 ppm,15,15,,Day 32/Phenylethanol_200ppm_3.csv,validation,
+Day 32/Phenylethanol_1000ppm_1.csv,2025-01-08,32,2-Phenylethanol 1000 ppm,16,16,,Day 32/Phenylethanol_1000ppm_1.csv,validation,
+Day 32/Phenylethanol_1000ppm_2.csv,2025-01-08,32,2-Phenylethanol 1000 ppm,17,17,,Day 32/Phenylethanol_1000ppm_2.csv,validation,
+Day 32/Phenylethanol_1000ppm_3.csv,2025-01-08,32,2-Phenylethanol 1000 ppm,18,18,,Day 32/Phenylethanol_1000ppm_3.csv,validation,
+Day 33/EtOH_1.csv,2025-01-10,33,EtOH,1,1,1.0,Day 33/EtOH_1.csv,test,
+Day 33/EtOH_2.csv,2025-01-10,33,EtOH,2,2,2.0,Day 33/EtOH_2.csv,test,
+Day 33/EtOH_3.csv,2025-01-10,33,EtOH,3,3,3.0,Day 33/EtOH_3.csv,test,
+Day 33/Diacetyl_0.1ppm_1.csv,2025-01-10,33,Diacetyl 0.1 ppm,4,4,,Day 33/Diacetyl_0.1ppm_1.csv,test,
+Day 33/Diacetyl_0.1ppm_2.csv,2025-01-10,33,Diacetyl 0.1 ppm,5,5,,Day 33/Diacetyl_0.1ppm_2.csv,test,
+Day 33/Diacetyl_0.1ppm_3.csv,2025-01-10,33,Diacetyl 0.1 ppm,6,6,,Day 33/Diacetyl_0.1ppm_3.csv,test,
+Day 33/Diacetyl_1ppm_1.csv,2025-01-10,33,Diacetyl 1 ppm,7,7,,Day 33/Diacetyl_1ppm_1.csv,test,
+Day 33/Diacetyl_1ppm_2.csv,2025-01-10,33,Diacetyl 1 ppm,8,8,,Day 33/Diacetyl_1ppm_2.csv,test,
+Day 33/Diacetyl_1ppm_3.csv,2025-01-10,33,Diacetyl 1 ppm,9,9,,Day 33/Diacetyl_1ppm_3.csv,test,
+Day 33/EtOH_4.csv,2025-01-10,33,EtOH,10,10,4.0,Day 33/EtOH_4.csv,test,
+Day 33/EtOH_5.csv,2025-01-10,33,EtOH,11,11,5.0,Day 33/EtOH_5.csv,test,
+Day 33/EtOH_6.csv,2025-01-10,33,EtOH,12,12,6.0,Day 33/EtOH_6.csv,test,
+Day 33/Phenylethanol_200ppm_1.csv,2025-01-10,33,2-Phenylethanol 200 ppm,13,13,,Day 33/Phenylethanol_200ppm_1.csv,test,
+Day 33/Phenylethanol_200ppm_2.csv,2025-01-10,33,2-Phenylethanol 200 ppm,14,14,,Day 33/Phenylethanol_200ppm_2.csv,test,
+Day 33/Phenylethanol_200ppm_3.csv,2025-01-10,33,2-Phenylethanol 200 ppm,15,15,,Day 33/Phenylethanol_200ppm_3.csv,test,
+Day 33/Phenylethanol_1000ppm_1.csv,2025-01-10,33,2-Phenylethanol 1000 ppm,16,16,,Day 33/Phenylethanol_1000ppm_1.csv,test,
+Day 33/Phenylethanol_1000ppm_2.csv,2025-01-10,33,2-Phenylethanol 1000 ppm,17,17,,Day 33/Phenylethanol_1000ppm_2.csv,test,
+Day 33/Phenylethanol_1000ppm_3.csv,2025-01-10,33,2-Phenylethanol 1000 ppm,18,18,,Day 33/Phenylethanol_1000ppm_3.csv,test,
+Day 34/EtOH_1.csv,2025-01-14,34,EtOH,1,1,1.0,Day 34/EtOH_1.csv,test,
+Day 34/EtOH_2.csv,2025-01-14,34,EtOH,2,2,2.0,Day 34/EtOH_2.csv,test,
+Day 34/EtOH_3.csv,2025-01-14,34,EtOH,3,3,3.0,Day 34/EtOH_3.csv,test,
+Day 34/Diacetyl_0.1ppm_1.csv,2025-01-14,34,Diacetyl 0.1 ppm,4,4,,Day 34/Diacetyl_0.1ppm_1.csv,test,
+Day 34/Diacetyl_0.1ppm_2.csv,2025-01-14,34,Diacetyl 0.1 ppm,5,5,,Day 34/Diacetyl_0.1ppm_2.csv,test,
+Day 34/Diacetyl_0.1ppm_3.csv,2025-01-14,34,Diacetyl 0.1 ppm,6,6,,Day 34/Diacetyl_0.1ppm_3.csv,test,
+Day 34/Diacetyl_1ppm_1.csv,2025-01-14,34,Diacetyl 1 ppm,7,7,,Day 34/Diacetyl_1ppm_1.csv,test,
+Day 34/Diacetyl_1ppm_2.csv,2025-01-14,34,Diacetyl 1 ppm,8,8,,Day 34/Diacetyl_1ppm_2.csv,test,
+Day 34/Diacetyl_1ppm_3.csv,2025-01-14,34,Diacetyl 1 ppm,9,9,,Day 34/Diacetyl_1ppm_3.csv,test,
+Day 34/EtOH_4.csv,2025-01-14,34,EtOH,10,10,4.0,Day 34/EtOH_4.csv,test,
+Day 34/EtOH_5.csv,2025-01-14,34,EtOH,11,11,5.0,Day 34/EtOH_5.csv,test,
+Day 34/EtOH_6.csv,2025-01-14,34,EtOH,12,12,6.0,Day 34/EtOH_6.csv,test,
+Day 34/Phenylethanol_200ppm_1.csv,2025-01-14,34,2-Phenylethanol 200 ppm,13,13,,Day 34/Phenylethanol_200ppm_1.csv,test,
+Day 34/Phenylethanol_200ppm_2.csv,2025-01-14,34,2-Phenylethanol 200 ppm,14,14,,Day 34/Phenylethanol_200ppm_2.csv,test,
+Day 34/Phenylethanol_200ppm_3.csv,2025-01-14,34,2-Phenylethanol 200 ppm,15,15,,Day 34/Phenylethanol_200ppm_3.csv,test,
+Day 34/Phenylethanol_1000ppm_1.csv,2025-01-14,34,2-Phenylethanol 1000 ppm,16,16,,Day 34/Phenylethanol_1000ppm_1.csv,test,
+Day 34/Phenylethanol_1000ppm_2.csv,2025-01-14,34,2-Phenylethanol 1000 ppm,17,17,,Day 34/Phenylethanol_1000ppm_2.csv,test,
+Day 34/Phenylethanol_1000ppm_3.csv,2025-01-14,34,2-Phenylethanol 1000 ppm,18,18,,Day 34/Phenylethanol_1000ppm_3.csv,test,
+Day 35/EtOH_1.csv,2025-01-17,35,EtOH,1,1,1.0,Day 35/EtOH_1.csv,test,
+Day 35/EtOH_2.csv,2025-01-17,35,EtOH,2,2,2.0,Day 35/EtOH_2.csv,test,
+Day 35/EtOH_3.csv,2025-01-17,35,EtOH,3,3,3.0,Day 35/EtOH_3.csv,test,
+Day 35/Diacetyl_0.1ppm_1.csv,2025-01-17,35,Diacetyl 0.1 ppm,4,4,,Day 35/Diacetyl_0.1ppm_1.csv,test,
+Day 35/Diacetyl_0.1ppm_2.csv,2025-01-17,35,Diacetyl 0.1 ppm,5,5,,Day 35/Diacetyl_0.1ppm_2.csv,test,
+Day 35/Diacetyl_0.1ppm_3.csv,2025-01-17,35,Diacetyl 0.1 ppm,6,6,,Day 35/Diacetyl_0.1ppm_3.csv,test,
+Day 35/Diacetyl_1ppm_1.csv,2025-01-17,35,Diacetyl 1 ppm,7,7,,Day 35/Diacetyl_1ppm_1.csv,test,
+Day 35/Diacetyl_1ppm_2.csv,2025-01-17,35,Diacetyl 1 ppm,8,8,,Day 35/Diacetyl_1ppm_2.csv,test,
+Day 35/Diacetyl_1ppm_3.csv,2025-01-17,35,Diacetyl 1 ppm,9,9,,Day 35/Diacetyl_1ppm_3.csv,test,
+Day 35/EtOH_4.csv,2025-01-17,35,EtOH,10,10,4.0,Day 35/EtOH_4.csv,test,
+Day 35/EtOH_5.csv,2025-01-17,35,EtOH,11,11,5.0,Day 35/EtOH_5.csv,test,
+Day 35/EtOH_6.csv,2025-01-17,35,EtOH,12,12,6.0,Day 35/EtOH_6.csv,test,
+Day 35/Phenylethanol_200ppm_1.csv,2025-01-17,35,2-Phenylethanol 200 ppm,13,13,,Day 35/Phenylethanol_200ppm_1.csv,test,
+Day 35/Phenylethanol_200ppm_2.csv,2025-01-17,35,2-Phenylethanol 200 ppm,14,14,,Day 35/Phenylethanol_200ppm_2.csv,test,
+Day 35/Phenylethanol_200ppm_3.csv,2025-01-17,35,2-Phenylethanol 200 ppm,15,15,,Day 35/Phenylethanol_200ppm_3.csv,test,
+Day 35/Phenylethanol_1000ppm_1.csv,2025-01-17,35,2-Phenylethanol 1000 ppm,16,16,,Day 35/Phenylethanol_1000ppm_1.csv,test,
+Day 35/Phenylethanol_1000ppm_2.csv,2025-01-17,35,2-Phenylethanol 1000 ppm,17,17,,Day 35/Phenylethanol_1000ppm_2.csv,test,
+Day 35/Phenylethanol_1000ppm_3.csv,2025-01-17,35,2-Phenylethanol 1000 ppm,18,18,,Day 35/Phenylethanol_1000ppm_3.csv,test,
+Day 36/EtOH_1.csv,2025-01-21,36,EtOH,1,1,1.0,Day 36/EtOH_1.csv,test,
+Day 36/EtOH_2.csv,2025-01-21,36,EtOH,2,2,2.0,Day 36/EtOH_2.csv,test,
+Day 36/EtOH_3.csv,2025-01-21,36,EtOH,3,3,3.0,Day 36/EtOH_3.csv,test,
+Day 36/Diacetyl_0.1ppm_1.csv,2025-01-21,36,Diacetyl 0.1 ppm,4,4,,Day 36/Diacetyl_0.1ppm_1.csv,test,
+Day 36/Diacetyl_0.1ppm_2.csv,2025-01-21,36,Diacetyl 0.1 ppm,5,5,,Day 36/Diacetyl_0.1ppm_2.csv,test,
+Day 36/Diacetyl_0.1ppm_3.csv,2025-01-21,36,Diacetyl 0.1 ppm,6,6,,Day 36/Diacetyl_0.1ppm_3.csv,test,
+Day 36/Diacetyl_1ppm_1.csv,2025-01-21,36,Diacetyl 1 ppm,7,7,,Day 36/Diacetyl_1ppm_1.csv,test,
+Day 36/Diacetyl_1ppm_2.csv,2025-01-21,36,Diacetyl 1 ppm,8,8,,Day 36/Diacetyl_1ppm_2.csv,test,
+Day 36/Diacetyl_1ppm_3.csv,2025-01-21,36,Diacetyl 1 ppm,9,9,,Day 36/Diacetyl_1ppm_3.csv,test,
+Day 36/EtOH_4.csv,2025-01-21,36,EtOH,10,10,4.0,Day 36/EtOH_4.csv,test,
+Day 36/EtOH_5.csv,2025-01-21,36,EtOH,11,11,5.0,Day 36/EtOH_5.csv,test,
+Day 36/EtOH_6.csv,2025-01-21,36,EtOH,12,12,6.0,Day 36/EtOH_6.csv,test,
+Day 36/Phenylethanol_200ppm_1.csv,2025-01-21,36,2-Phenylethanol 200 ppm,13,13,,Day 36/Phenylethanol_200ppm_1.csv,test,
+Day 36/Phenylethanol_200ppm_2.csv,2025-01-21,36,2-Phenylethanol 200 ppm,14,14,,Day 36/Phenylethanol_200ppm_2.csv,test,
+Day 36/Phenylethanol_200ppm_3.csv,2025-01-21,36,2-Phenylethanol 200 ppm,15,15,,Day 36/Phenylethanol_200ppm_3.csv,test,
+Day 36/Phenylethanol_1000ppm_1.csv,2025-01-21,36,2-Phenylethanol 1000 ppm,16,16,,Day 36/Phenylethanol_1000ppm_1.csv,test,
+Day 36/Phenylethanol_1000ppm_2.csv,2025-01-21,36,2-Phenylethanol 1000 ppm,17,17,,Day 36/Phenylethanol_1000ppm_2.csv,test,
+Day 36/Phenylethanol_1000ppm_3.csv,2025-01-21,36,2-Phenylethanol 1000 ppm,18,18,,Day 36/Phenylethanol_1000ppm_3.csv,test,
+Day 37/EtOH_1.csv,2025-01-23,37,EtOH,1,1,1.0,Day 37/EtOH_1.csv,test,
+Day 37/EtOH_2.csv,2025-01-23,37,EtOH,2,2,2.0,Day 37/EtOH_2.csv,test,
+Day 37/EtOH_3.csv,2025-01-23,37,EtOH,3,3,3.0,Day 37/EtOH_3.csv,test,
+Day 37/Diacetyl_0.1ppm_1.csv,2025-01-23,37,Diacetyl 0.1 ppm,4,4,,Day 37/Diacetyl_0.1ppm_1.csv,test,
+Day 37/Diacetyl_0.1ppm_2.csv,2025-01-23,37,Diacetyl 0.1 ppm,5,5,,Day 37/Diacetyl_0.1ppm_2.csv,test,
+Day 37/Diacetyl_0.1ppm_3.csv,2025-01-23,37,Diacetyl 0.1 ppm,6,6,,Day 37/Diacetyl_0.1ppm_3.csv,test,
+Day 37/Diacetyl_1ppm_1.csv,2025-01-23,37,Diacetyl 1 ppm,7,7,,Day 37/Diacetyl_1ppm_1.csv,test,
+Day 37/Diacetyl_1ppm_2.csv,2025-01-23,37,Diacetyl 1 ppm,8,8,,Day 37/Diacetyl_1ppm_2.csv,test,
+Day 37/Diacetyl_1ppm_3.csv,2025-01-23,37,Diacetyl 1 ppm,9,9,,Day 37/Diacetyl_1ppm_3.csv,test,
+Day 37/EtOH_4.csv,2025-01-23,37,EtOH,10,10,4.0,Day 37/EtOH_4.csv,test,
+Day 37/EtOH_5.csv,2025-01-23,37,EtOH,11,11,5.0,Day 37/EtOH_5.csv,test,
+Day 37/Phenylethanol_200ppm_1.csv,2025-01-23,37,2-Phenylethanol 200 ppm,12,12,,Day 37/Phenylethanol_200ppm_1.csv,test,
+Day 37/Phenylethanol_200ppm_2.csv,2025-01-23,37,2-Phenylethanol 200 ppm,13,13,,Day 37/Phenylethanol_200ppm_2.csv,test,
+Day 37/Phenylethanol_200ppm_3.csv,2025-01-23,37,2-Phenylethanol 200 ppm,14,14,,Day 37/Phenylethanol_200ppm_3.csv,test,
+Day 37/Phenylethanol_1000ppm_1.csv,2025-01-23,37,2-Phenylethanol 1000 ppm,15,15,,Day 37/Phenylethanol_1000ppm_1.csv,test,
+Day 37/Phenylethanol_1000ppm_2.csv,2025-01-23,37,2-Phenylethanol 1000 ppm,16,16,,Day 37/Phenylethanol_1000ppm_2.csv,test,
+Day 37/Phenylethanol_1000ppm_3.csv,2025-01-23,37,2-Phenylethanol 1000 ppm,17,17,,Day 37/Phenylethanol_1000ppm_3.csv,test,
+Day 38/EtOH_1.csv,2025-01-29,38,EtOH,1,1,1.0,Day 38/EtOH_1.csv,test,
+Day 38/EtOH_2.csv,2025-01-29,38,EtOH,2,2,2.0,Day 38/EtOH_2.csv,test,
+Day 38/EtOH_3.csv,2025-01-29,38,EtOH,3,3,3.0,Day 38/EtOH_3.csv,test,
+Day 38/Diacetyl_0.1ppm_1.csv,2025-01-29,38,Diacetyl 0.1 ppm,4,4,,Day 38/Diacetyl_0.1ppm_1.csv,test,
+Day 38/Diacetyl_0.1ppm_2.csv,2025-01-29,38,Diacetyl 0.1 ppm,5,5,,Day 38/Diacetyl_0.1ppm_2.csv,test,
+Day 38/Diacetyl_0.1ppm_3.csv,2025-01-29,38,Diacetyl 0.1 ppm,6,6,,Day 38/Diacetyl_0.1ppm_3.csv,test,
+Day 38/Diacetyl_1ppm_1.csv,2025-01-29,38,Diacetyl 1 ppm,7,7,,Day 38/Diacetyl_1ppm_1.csv,test,
+Day 38/Diacetyl_1ppm_2.csv,2025-01-29,38,Diacetyl 1 ppm,8,8,,Day 38/Diacetyl_1ppm_2.csv,test,
+Day 38/Diacetyl_1ppm_3.csv,2025-01-29,38,Diacetyl 1 ppm,9,9,,Day 38/Diacetyl_1ppm_3.csv,test,
+Day 38/EtOH_4.csv,2025-01-29,38,EtOH,10,10,4.0,Day 38/EtOH_4.csv,test,
+Day 38/EtOH_5.csv,2025-01-29,38,EtOH,11,11,5.0,Day 38/EtOH_5.csv,test,
+Day 38/EtOH_6.csv,2025-01-29,38,EtOH,12,12,6.0,Day 38/EtOH_6.csv,test,
+Day 38/Phenylethanol_200ppm_1.csv,2025-01-29,38,2-Phenylethanol 200 ppm,13,13,,Day 38/Phenylethanol_200ppm_1.csv,test,
+Day 38/Phenylethanol_200ppm_2.csv,2025-01-29,38,2-Phenylethanol 200 ppm,14,14,,Day 38/Phenylethanol_200ppm_2.csv,test,
+Day 38/Phenylethanol_200ppm_3.csv,2025-01-29,38,2-Phenylethanol 200 ppm,15,15,,Day 38/Phenylethanol_200ppm_3.csv,test,
+Day 38/Phenylethanol_1000ppm_1.csv,2025-01-29,38,2-Phenylethanol 1000 ppm,16,16,,Day 38/Phenylethanol_1000ppm_1.csv,test,
+Day 38/Phenylethanol_1000ppm_2.csv,2025-01-29,38,2-Phenylethanol 1000 ppm,17,17,,Day 38/Phenylethanol_1000ppm_2.csv,test,
+Day 38/Phenylethanol_1000ppm_3.csv,2025-01-29,38,2-Phenylethanol 1000 ppm,18,18,,Day 38/Phenylethanol_1000ppm_3.csv,test,
+Day 39/EtOH_1.csv,2025-01-31,39,EtOH,1,1,1.0,Day 39/EtOH_1.csv,test,
+Day 39/EtOH_2.csv,2025-01-31,39,EtOH,2,2,2.0,Day 39/EtOH_2.csv,test,
+Day 39/EtOH_3.csv,2025-01-31,39,EtOH,3,3,3.0,Day 39/EtOH_3.csv,test,
+Day 39/Diacetyl_0.1ppm_1.csv,2025-01-31,39,Diacetyl 0.1 ppm,4,4,,Day 39/Diacetyl_0.1ppm_1.csv,test,
+Day 39/Diacetyl_0.1ppm_2.csv,2025-01-31,39,Diacetyl 0.1 ppm,5,5,,Day 39/Diacetyl_0.1ppm_2.csv,test,
+Day 39/Diacetyl_0.1ppm_3.csv,2025-01-31,39,Diacetyl 0.1 ppm,6,6,,Day 39/Diacetyl_0.1ppm_3.csv,test,
+Day 39/Diacetyl_1ppm_1.csv,2025-01-31,39,Diacetyl 1 ppm,7,7,,Day 39/Diacetyl_1ppm_1.csv,test,
+Day 39/Diacetyl_1ppm_2.csv,2025-01-31,39,Diacetyl 1 ppm,8,8,,Day 39/Diacetyl_1ppm_2.csv,test,
+Day 39/Diacetyl_1ppm_3.csv,2025-01-31,39,Diacetyl 1 ppm,9,9,,Day 39/Diacetyl_1ppm_3.csv,test,
+Day 39/EtOH_4.csv,2025-01-31,39,EtOH,10,10,4.0,Day 39/EtOH_4.csv,test,
+Day 39/EtOH_5.csv,2025-01-31,39,EtOH,11,11,5.0,Day 39/EtOH_5.csv,test,
+Day 39/EtOH_6.csv,2025-01-31,39,EtOH,12,12,6.0,Day 39/EtOH_6.csv,test,
+Day 39/Phenylethanol_200ppm_1.csv,2025-01-31,39,2-Phenylethanol 200 ppm,13,13,,Day 39/Phenylethanol_200ppm_1.csv,test,
+Day 39/Phenylethanol_200ppm_2.csv,2025-01-31,39,2-Phenylethanol 200 ppm,14,14,,Day 39/Phenylethanol_200ppm_2.csv,test,
+Day 39/Phenylethanol_200ppm_3.csv,2025-01-31,39,2-Phenylethanol 200 ppm,15,15,,Day 39/Phenylethanol_200ppm_3.csv,test,
+Day 39/Phenylethanol_1000ppm_1.csv,2025-01-31,39,2-Phenylethanol 1000 ppm,16,16,,Day 39/Phenylethanol_1000ppm_1.csv,test,
+Day 39/Phenylethanol_1000ppm_2.csv,2025-01-31,39,2-Phenylethanol 1000 ppm,17,17,,Day 39/Phenylethanol_1000ppm_2.csv,test,
+Day 39/Phenylethanol_1000ppm_3.csv,2025-01-31,39,2-Phenylethanol 1000 ppm,18,18,,Day 39/Phenylethanol_1000ppm_3.csv,test,
+Day 40/EtOH_1.csv,2025-02-05,40,EtOH,1,1,1.0,Day 40/EtOH_1.csv,test,
+Day 40/EtOH_2.csv,2025-02-05,40,EtOH,2,2,2.0,Day 40/EtOH_2.csv,test,
+Day 40/EtOH_3.csv,2025-02-05,40,EtOH,3,3,3.0,Day 40/EtOH_3.csv,test,
+Day 40/Diacetyl_0.1ppm_1.csv,2025-02-05,40,Diacetyl 0.1 ppm,4,4,,Day 40/Diacetyl_0.1ppm_1.csv,test,
+Day 40/Diacetyl_0.1ppm_2.csv,2025-02-05,40,Diacetyl 0.1 ppm,5,5,,Day 40/Diacetyl_0.1ppm_2.csv,test,
+Day 40/Diacetyl_0.1ppm_3.csv,2025-02-05,40,Diacetyl 0.1 ppm,6,6,,Day 40/Diacetyl_0.1ppm_3.csv,test,
+Day 40/Diacetyl_1ppm_1.csv,2025-02-05,40,Diacetyl 1 ppm,7,7,,Day 40/Diacetyl_1ppm_1.csv,test,
+Day 40/Diacetyl_1ppm_2.csv,2025-02-05,40,Diacetyl 1 ppm,8,8,,Day 40/Diacetyl_1ppm_2.csv,test,
+Day 40/Diacetyl_1ppm_3.csv,2025-02-05,40,Diacetyl 1 ppm,9,9,,Day 40/Diacetyl_1ppm_3.csv,test,
+Day 40/EtOH_4.csv,2025-02-05,40,EtOH,10,10,4.0,Day 40/EtOH_4.csv,test,
+Day 40/EtOH_5.csv,2025-02-05,40,EtOH,11,11,5.0,Day 40/EtOH_5.csv,test,
+Day 40/EtOH_6.csv,2025-02-05,40,EtOH,12,12,6.0,Day 40/EtOH_6.csv,test,
+Day 40/Phenylethanol_200ppm_1.csv,2025-02-05,40,2-Phenylethanol 200 ppm,13,13,,Day 40/Phenylethanol_200ppm_1.csv,test,
+Day 40/Phenylethanol_200ppm_2.csv,2025-02-05,40,2-Phenylethanol 200 ppm,14,14,,Day 40/Phenylethanol_200ppm_2.csv,test,
+Day 40/Phenylethanol_200ppm_3.csv,2025-02-05,40,2-Phenylethanol 200 ppm,15,15,,Day 40/Phenylethanol_200ppm_3.csv,test,
+Day 40/Phenylethanol_1000ppm_1.csv,2025-02-05,40,2-Phenylethanol 1000 ppm,16,16,,Day 40/Phenylethanol_1000ppm_1.csv,test,
+Day 40/Phenylethanol_1000ppm_2.csv,2025-02-05,40,2-Phenylethanol 1000 ppm,17,17,,Day 40/Phenylethanol_1000ppm_2.csv,test,
+Day 40/Phenylethanol_1000ppm_3.csv,2025-02-05,40,2-Phenylethanol 1000 ppm,18,18,,Day 40/Phenylethanol_1000ppm_3.csv,test,
